@@ -34,6 +34,8 @@ def entities_extracted(file_results, line, i):
     file_results.write(str(i) + '        E"' + line + '"\n\n')
     
 def main():
+    if not os.path.exists("log"):
+        os.makedirs("log")
     # ask questions
     with open("Questions.txt", "r", encoding="utf-8") as f:
         questions = f.readlines()

@@ -33,24 +33,26 @@ def bert_sim(sentences1, sentences2):
 def sim(sentences1, sentences2, prob):
     checks = st_sim(sentences1, sentences2)
     n_true_st = 0
+    f = open("log/Check_st.txt", "w", encoding="utf-8")
     for check in checks:
         # print("{0:.6f}".format(check))
-        with open("log/Check_st.txt", "a", encoding="utf-8") as f:
-            if check >= prob:
-                f.write("Correct" + "\n")
-                n_true_st += 1
-            else:
-                f.write("Incorrect" + "\n")
+        if check >= prob:
+            f.write("Correct" + "\n")
+            n_true_st += 1
+        else:
+            f.write("Incorrect" + "\n")
+    f.close()
     checks = bert_sim(sentences1, sentences2)
     n_true_bert = 0
+    f = open("log/Check_bert.txt", "w", encoding="utf-8")
     for check in checks:
         # print("{0:.6f}".format(check))
-        with open("log/Check_bert.txt", "a", encoding="utf-8") as f:
-            if check >= 0.9:
-                f.write("Correct" + "\n")
-                n_true_bert += 1
-            else:
-                f.write("Incorrect" + "\n")
+        if check >= 0.9:
+            f.write("Correct" + "\n")
+            n_true_bert += 1
+        else:
+            f.write("Incorrect" + "\n")
+    f.close()
     return n_true_st, n_true_bert
 
 if __name__ == "__main__":

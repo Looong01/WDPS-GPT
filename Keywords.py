@@ -5,12 +5,14 @@ import numpy as np
 
 def st_ex(answers, links):
     kw_model = KeyBERT(model='./all-MiniLM-L6-v2')
+    f = open('log/Entities_extracted_st.txt', 'w', encoding='utf-8')
     for i, answer in enumerate(answers):
         keywords = kw_model.extract_keywords(answer, keyphrase_ngram_range=(1, 1), stop_words=None)
         extract = keywords[0][0] + "," + keywords[1][0] + "," + keywords[2][0]
         print(extract)
-        with open('log/Entities_extracted_st.txt', 'a', encoding='utf-8') as file:
-            file.write(extract + '        ' + links[i].strip()+ '\n')
+        f.write(extract + '        ' + links[i].strip()+ '\n')
+    f.close()
+        
 
 class bert_ex():
     def __init__(self):
@@ -37,12 +39,13 @@ class bert_ex():
         return sorted_tokens
     
     def bert_ex(self, answers, links):
+        f = open('log/Entities_extracted_bert.txt', 'w', encoding='utf-8')
         for i, answer in enumerate(answers):
             keywords = self.extract_keywords(answer)
             extract = keywords[0] + "," + keywords[1] + "," + keywords[2]
             print(extract)
-            with open('log/Entities_extracted_bert.txt', 'a', encoding='utf-8') as file:
-                file.write(extract + '        ' + links[i].strip()+ '\n')
+            f.write(extract + '        ' + links[i].strip()+ '\n')
+        f.close()
 
 if __name__ == "__main__":
     with open("log/Answers_web.txt", "r", encoding="utf-8") as f:

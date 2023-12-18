@@ -79,4 +79,5 @@ For instance,
 - Add the cookies you get to the 2nd line of `Main.py` and `Bing.py`(optional).
 ```
 19.   Write down your own questions to `Questions.txt` with correct form as [Description](#description) shows
-20.   Run ```python Main.py``` and you will get the results from `Results.txt`.
+20.   You'd better clean the content of the file `Results.txt`.
+21.   Run ```python Main.py``` and you will get the results from `Results.txt`.
