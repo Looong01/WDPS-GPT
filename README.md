@@ -1,7 +1,10 @@
 # WDPS-GPT
 Assignment of WDPS
 
-#### Description
+### Description
+
+Follow the [Instructions](#instructions) if you want to use.
+
 The goal of the assignment is to implement a program that post-processes the output of large language models (like ChatGPT, etc.) to improve the quality of its answers. To this end, your solution is asked to 1) parse the output of a language model and to extract a clean answer and 2) check, with the aid of existing knowledge bases, which are available on the web, whether the answer is correct or not.
 
 We are called to implement a program that receives as input a question (or more in general a text to be completed), which we henceforth call A and returns as output four things:
@@ -34,13 +37,13 @@ For instance,
 1        E"blueness,sunset,blue        https://spaceplace.nasa.gov/blue-sky/en/; https://www.space.com/why-is-the-sky-blue; https://scijinks.gov/blue-sky/"
 
 ```
-#### Software Architecture (Hardware Environment)
+### Software Architecture (Hardware Environment)
 1. CPU: i7-9700
 2. RAM: 64GB
 3. GPU: 2 * AMD Radeon Pro W7900 (VRAM: 2 * 48GB) or 2* Nvidia Quadro RTX 6000 Ada (VRAM: 2 * 48GB)
 4. Hard disk: 2TB
   
-#### Installation (Software Environment)
+### Installation (Software Environment)
 1. OS: Ubuntu 22.04.3 with Kernel Version 6.2
 3. ROCm: Version 5.6 Or CUDA: Version: 12.1
 4. Miniconda3
@@ -49,7 +52,7 @@ For instance,
 7. Python 3.10
 8. PyTorch 2.1.2
   
-#### Instructions
+### Instructions
 1. Prepare for the CPU, RAM, Hard disk and GPU(s) with enough VRAM(at least 60GB totally).
 2. Install OS Ubuntu 22.04 with Kernel Version 6.2
 3. Install GPU driver and ROCm with Version 5.6 or CUDA with Version 12.1
