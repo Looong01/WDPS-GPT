@@ -1,0 +1,200 @@
+1        Is the sky usually blue?
+2        Do dogs typically bark?
+3        Are bananas a type of fruit?
+4        Is the currency in Netherlands called Euro?
+5        Do humans breathe oxygen?
+6        Is the Earth round?
+7        Are bicycles a common mode of transportation?
+8        Is fire usually hot?
+9        Are elephants larger than mice?
+10        Do birds have feathers?
+11        Is the sun a source of light?
+12        Do cats often purr?
+13        Is ice cream a frozen dessert?
+14        Do fish live in water?
+15        Is the moon a natural satellite of Earth?
+16        Do roses have thorns?
+17        Is chocolate made from cocoa beans?
+18        Are cars powered by engines?
+19        Is the Great Wall of China a man-made structure?
+20        Do bees make honey?
+21        Is the Pacific Ocean the largest ocean on Earth?
+22        Are apples a type of fruit?
+23        Is the Statue of Liberty located in New York?
+24        Do humans have five fingers on each hand?
+25        Is the Eiffel Tower in Paris?
+26        Is the Amazon River the longest river in the world?
+27        Do trees have leaves?
+28        Is the Mona Lisa a famous painting?
+29        Is the Sahara Desert the largest hot desert?
+30        Are penguins flightless birds?
+31        Is the color red associated with stop signs?
+32        Do snakes slither?
+33        Is the Taj Mahal located in India?
+34        Is the human heart a vital organ?
+35        Are clouds made of water vapor?
+36        Is the letter "A" the first letter of the alphabet?
+37        Is soccer also known as football in many countries?
+38        Do spiders have eight legs?
+39        Is the capital of Canada Ottawa?
+40        Are diamonds precious gemstones?
+41        Is the Nile River in Africa?
+42        Do dolphins live in the ocean?
+43        Is the Statue of Liberty green?
+44        Are rainbows formed by the refraction of light?
+45        Is Tokyo the capital city of Japan?
+46        Are strawberries red?
+47        Is the letter "Z" the last letter of the alphabet?
+48        Do butterflies undergo metamorphosis?
+49        Is Mount Everest the highest mountain on Earth?
+50        Is the Mona Lisa displayed in the Louvre Museum?
+51        Do owls hunt at night?
+52        Is the currency of Japan the yen?
+53        Are tomatoes fruits?
+54        Is the Atlantic Ocean the second-largest ocean on Earth?
+55        Do kangaroos hop?
+56        Is the currency of the United Kingdom the pound?
+57        Is the Sydney Opera House in Australia?
+58        Do light bulbs produce light?
+59        Is Antarctica a continent?
+60        Are koalas marsupials?
+61        Is Pluto considered a dwarf planet?
+62        Do humans have two eyes?
+63        Is the color green associated with grass?
+64        Is the Great Barrier Reef located in Australia?
+65        Are hurricanes powerful storms?
+66        Is the piano a musical instrument?
+67        Do turtles have shells?
+68        Is the Sahara Desert in Africa?
+69        Are giraffes the tallest land animals?
+70        Is the currency of China the yuan?
+71        Is the Red Sea between Africa and Asia?
+72        Do ants work in colonies?
+73        Is the Earth's atmosphere composed mostly of nitrogen?
+74        Is the internet a global network of computers?
+75        Do snowflakes have unique patterns?
+76        Is the leaning Tower of Pisa in Italy?
+77        Are oranges a citrus fruit?
+78        Is the speed of light faster than the speed of sound?
+79        Is the currency of Brazil the real?
+80        Do honeybees pollinate flowers?
+81        Is the White House the official residence of the U.S. President?
+82        Is the Pacific Ring of Fire known for seismic and volcanic activity?
+83        Do elephants have long trunks?
+84        Is the currency of South Africa the rand?
+85        Are eagles birds of prey?
+86        Is the English language widely spoken around the world?
+87        Is the Grand Canyon in Arizona?
+88        Do planets orbit around the sun?
+89        Is the Mona Lisa a portrait of a woman?
+90        Is the Great Wall of China visible from space?
+91        Do roses have a pleasant fragrance?
+92        Is the currency of Russia the ruble?
+93        Are diamonds formed from carbon?
+94        Is the Earth's core composed of molten iron?
+95        Do whales live in the ocean?
+96        Is the color yellow associated with lemons?
+97        Is the currency of India the rupee?
+98        Do spiders spin webs?
+99        Is the Nile River the longest river in Africa?
+100        Is the speed of sound faster in water than in air?
+101        What is the capital city of France?
+102        Which planet is known as the "Red Planet"?
+103        What is the currency of Japan?
+104        In which country is the Great Barrier Reef located?
+105        Who wrote "Romeo and Juliet"?
+106        What is the largest mammal in the world?
+107        Which element has the chemical symbol "H"?
+108        What is the main ingredient in guacamole?
+109        In which year did the Titanic sink?
+110        Who painted the Mona Lisa?
+111        What is the currency of the United Kingdom?
+112        What is the world's longest river?
+113        Who is known as the "Father of Physics"?
+114        What is the capital city of Brazil?
+115        In which continent is Egypt located?
+116        Who wrote "Harry Potter and the Philosopher's Stone"?
+117        What is the largest ocean on Earth?
+118        Which gas do plants absorb during photosynthesis?
+119        What is the currency of China?
+120        Who was the first President of the United States?
+121        What is the smallest prime number?
+122        In which country can you find the Acropolis?
+123        Who is the author of "To Kill a Mockingbird"?
+124        What is the capital city of Canada?
+125        What is the chemical symbol for gold?
+126        Who discovered penicillin?
+127        What is the largest desert in the world?
+128        In which year did World War II end?
+129        Who painted "Starry Night"?
+130        What is the main gas in Earth's atmosphere?
+131        Which country is known as the "Land of the Rising Sun"?
+132        What is the capital city of Australia?
+133        Who wrote "The Catcher in the Rye"?
+134        What is the largest island in the world?
+135        In which continent is the Sahara Desert located?
+136        Who is the Greek god of thunder?
+137        What is the currency of India?
+138        What is the speed of light in a vacuum?
+139        In which year did the Berlin Wall fall?
+140        Who is the author of "1984"?
+141        What is the capital city of South Africa?
+142        Which gas makes up the majority of Earth's atmosphere?
+143        Who wrote the play "Hamlet"?
+144        What is the currency of Mexico?
+145        What is the tallest mountain in the world?
+146        In which country is the Taj Mahal located?
+147        Who was the first woman to win a Nobel Prize?
+148        What is the main ingredient in hummus?
+149        What is the capital city of Argentina?
+150        What is the chemical symbol for water?
+151        Who discovered the theory of relativity?
+152        In which year did Christopher Columbus reach the Americas?
+153        What is the currency of Russia?
+154        What is the main component of Earth's outermost layer?
+155        Who wrote "The Great Gatsby"?
+156        What is the capital city of Saudi Arabia?
+157        In which continent is the Amazon Rainforest located?
+158        Who is known as the "Queen of Pop"?
+159        What is the currency of South Korea?
+160        What is the largest mountain range in the world?
+161        Who painted the ceiling of the Sistine Chapel?
+162        What is the capital city of Turkey?
+163        Which element has the chemical symbol "O"?
+164        In which year did the Renaissance begin?
+165        What is the currency of South Africa?
+166        Who wrote "Pride and Prejudice"?
+167        What is the smallest planet in our solar system?
+168        What is the capital city of Spain?
+169        In which country is Mount Everest located?
+170        Who is the author of "The Odyssey"?
+171        What is the currency of Egypt?
+172        What is the main component of Earth's core?
+173        Who discovered the law of gravity?
+174        What is the capital city of Thailand?
+175        In which continent is the Serengeti National Park located?
+176        What is the currency of Brazil?
+177        Who wrote "The Lord of the Rings"?
+178        What is the main gas responsible for the greenhouse effect?
+179        What is the capital city of Italy?
+180        Who was the first woman to fly solo across the Atlantic?
+181        What is the chemical symbol for iron?
+182        In which year did the Industrial Revolution begin?
+183        What is the currency of Japan?
+184        What is the largest bird in the world?
+185        Who is known as the "Father of Modern Science"?
+186        What is the capital city of China?
+187        Which planet is known as the "Blue Planet"?
+188        What is the currency of France?
+189        What is the main ingredient in sushi?
+190        In which year did the American Civil War end?
+191        Who wrote "The Canterbury Tales"?
+192        What is the capital city of Russia?
+193        What is the chemical symbol for silver?
+194        What is the largest ocean mammal?
+195        Who discovered the structure of DNA?
+196        What is the capital city of Mexico?
+197        In which country is the Colosseum located?
+198        Who is the author of "The Iliad"?
+199        What is the currency of Germany?
+200        What is the main gas produced by cars?

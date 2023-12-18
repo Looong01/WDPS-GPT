@@ -1,0 +1,1000 @@
+1        R"Yes, the sky is usually blue. This is because sunlight reaches Earth's atmosphere and is scattered in all directions by all the gases and particles in the air. Blue light is scattered more than the other colors because it travels as shorter, smaller waves[^1^][1][^2^][2][^3^][3]. However, the sky isn't always blue. When the sun is low in the sky, at sunrise or sunset, it can take on a red hue[^2^][2]. This is explained by the same physics — Rayleigh scattering — as the blueness of the sky at other times[^2^][2]."
+1        A"yes"
+1        C"Correct"
+1        E"blueness,sunset,blue        https://spaceplace.nasa.gov/blue-sky/en/; https://www.space.com/why-is-the-sky-blue; https://scijinks.gov/blue-sky/"
+
+2        R"Yes, dogs typically bark. Barking is a natural way for dogs to communicate[^1^][4]. They bark when they're playing, enthusiastic, alert, or warning you of danger[^2^][3]. Dogs also bark due to boredom, stress, frustration, and habit[^2^][3]. The tone and type of barking can change based on different contexts[^3^][2]. However, it's important to note that not all dogs bark to the same degree. Some breeds are more prone to barking than others[^1^][4]."
+2        A"yes"
+2        C"Incorrect"
+2        E"barking,bark,dogs        https://www.petmd.com/dog/behavior/why-do-dogs-bark; https://pethelpful.com/dogs/The-Different-Types-of-Dog-Barks; https://petkeen.com/when-do-puppies-start-barking/; https://www.akc.org/expert-advice/advice/why-do-dogs-bark-at-each-other/; https://www.akc.org/expert-advice/lifestyle/learn-speak-dog-meaning-dogs-barks/"
+
+3        R"Yes, bananas are a type of fruit. In fact, they are botanically classified as berries[^1^][1]. Bananas develop from a flower with a single ovary and have a soft skin, a fleshy middle, and small seeds[^1^][1]. As such, they meet all botanical requirements of a berry and can be considered both a fruit and a berry[^1^][1]."
+3        A"yes"
+3        C"Incorrect"
+3        E"bananas,fruit,berries        https://www.healthline.com/nutrition/bananas-berries-or-fruits; https://en.wikipedia.org/wiki/Banana; https://americangardener.net/types-of-bananas/; https://wentbananas.com/banana-fruit-or-vegetable/"
+
+4        R"Yes, the currency in the Netherlands is called the Euro[^1^][2][^2^][3][^3^][4][^4^][5]."
+4        A"yes"
+4        C"Correct"
+4        E"euro,currency,netherlands        https://bing.com/search?q=currency+in+Netherlands; https://dutchreview.com/expat/financial/netherlands-currency-euro-paying/; https://www.tripsavvy.com/official-currency-of-the-netherlands-1456279; https://wise.com/gb/travel-money/dutch-currency; https://www.monito.com/en/what-is-the-currency-in/netherlands"
+
+5        R"Yes, humans breathe oxygen. Oxygen is vital for cellular respiration, which extracts energy from the reaction of oxygen with molecules derived from food and produces carbon dioxide as a waste product[^1^][2]. The human body takes the oxygen breathed in from the lungs and transports it to the other parts of the body via the body's red blood cells[^2^][4]. Each cell uses and requires oxygen to thrive[^2^][4]. The air that is inhaled is about 20 percent oxygen, and the air that is exhaled is about 15 percent oxygen, so about 5 percent of the volume of air is consumed in each breath and converted to carbon dioxide[^3^][6]."
+5        A"yes"
+5        C"Incorrect"
+5        E"oxygen,breathe,inhaled        https://microsoftstart.msn.com/en-us/health/ask-professionals/expert-answers-on-respiration/hp-respiration?questionid=tq3axuh1&type=condition&source=bingmainline_conditionqna; https://en.wikipedia.org/wiki/Breathing; https://www.webmd.com/lung/how-we-breathe; https://sciencing.com/minimum-oxygen-concentration-human-breathing-15546.html; https://www.amnh.org/explore/ology/ology-cards/213-respiration-and-breathing; https://health.howstuffworks.com/human-body/systems/respiratory/question98.htm; https://microsoftstart.msn.com/"
+
+6        R"Yes, the Earth is round. However, it's not a perfect sphere. Due to its rotation, the Earth is an oblate spheroid, meaning it is slightly flattened at the poles and slightly bulging at the equator[^1^][1][^2^][2][^3^][3][^4^][4]. The Earth's shape also changes over time due to various factors such as tectonic plate movement, earthquakes, volcanic eruptions, and meteor strikes[^2^][2]. Despite these irregularities, from a broad perspective, the Earth appears round[^1^][1][^2^][2][^3^][3][^4^][4]."
+6        A"yes"
+6        C"Incorrect"
+6        E"round,equator,sphere        https://oceanservice.noaa.gov/facts/earth-round.html; https://www.scientificamerican.com/article/earth-is-not-round/; https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-earth-grades-5-8/; https://www.universetoday.com/26782/why-is-the-earth-round/"
+
+7        R"Yes, bicycles are a common mode of transportation. They are used widely around the world for different purposes such as commuting, recreation, and fitness[^1^][1][^2^][2][^3^][3]. In some regions, bicycles are the principal means of transport[^3^][3]. For instance, in the Netherlands, a high percentage of all trips are travelled by cycle[^2^][2]. Furthermore, more than 600 cities worldwide have their own bike-share systems[^1^][1]. However, the usage of bicycles can vary greatly from country to country[^1^][1][^2^][2]."
+7        A"yes"
+7        C"Correct"
+7        E"bicycles,bike,commuting        https://www.unep.org/news-and-stories/story/cycling-better-mode-transport; https://road-safety.transport.ec.europa.eu/eu-road-safety-policy/priorities/safe-road-use/cyclists/walking-and-cycling-transport-modes_en; https://en.wikipedia.org/wiki/Bicycle"
+
+8        R"Yes, fire is usually hot. Fire is the result of a chemical reaction, known as combustion, that produces heat and light[^1^][1][^2^][2][^3^][3]. The temperature of fire can range from around 400 degrees Fahrenheit up to 9000 degrees Fahrenheit (200 to 4980 degrees Celsius), depending on factors like fuel source and oxygen content[^2^][2]. However, there are also examples of "cold fire" that will not burn you[^2^][2]. Despite these variations, fire is generally associated with heat[^1^][1][^2^][2][^3^][3]."
+8        A"yes"
+8        C"Correct"
+8        E"fire,temperature,combustion        https://sciencenotes.org/why-is-fire-hot-how-hot-is-it/; https://firefighterinsider.com/temperature-of-fire/; https://getfireproofed.com/how-hot-is-fire/"
+
+9        R"Yes, elephants are larger than mice[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. Elephants have many times more cells than mice, making them significantly larger[^4^][4]. This is one of the most conspicuous differences between animal species[^1^][1][^2^][2]. However, the size difference between elephants and mice is not just about the number of cells. It's also about the size of the cells themselves and the rate at which they grow[^1^][1][^2^][2]. Despite these complexities, it's safe to say that all elephants are bigger than all mice[^5^][5]."
+9        A"yes"
+9        C"Incorrect"
+9        E"elephants,mice,bigger        https://www.nature.com/articles/d41586-021-01086-9; https://www.realclearscience.com/2021/04/28/cell_clocks_may_explain_why_elephants_bigger_than_mice_774759.html; https://www.nationalgeographic.com/science/article/elephants-and-humans-evolved-similar-solutions-to-problems-of-gas-guzzling-brains; https://short-question.com/which-is-bigger-a-mouse-or-an-elephant/; https://www.academia.edu/1979215/All_elephants_are_bigger_than_all_mice"
+
+10        R"Yes, all birds have feathers[^1^][1][^2^][2][^3^][4]. Feathers are unique to birds and their dinosaur ancestors[^1^][1]. They come in a surprising diversity of colors and forms[^1^][1]. Feathers serve many functions such as flight, temperature regulation, attracting a mate, and more[^2^][2]. Even flightless birds, which do not depend on streamlined wings to take to the skies, have feathers[^2^][2]. The young of many bird species are born naked, but develop their first set of flight feathers in the first weeks of life[^2^][2]."
+10        A"yes"
+10        C"Correct"
+10        E"feathers,birds,bird        https://academy.allaboutbirds.org/feathers-article/; https://birdfact.com/articles/do-all-birds-have-feathers; https://animalcorner.org/bird-feathers/; https://opticsmag.com/do-all-birds-have-feathers/"
+
+11        R"Yes, the sun is a source of light[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. The sun is a star at the center of our solar system and is a massive, hot ball of plasma, inflated and heated by energy produced by nuclear fusion reactions at its core[^2^][2]. Part of this internal energy is emitted from its surface as light, ultraviolet, and infrared radiation, providing most of the energy for life on Earth[^2^][2][^3^][3][^4^][4][^5^][5]. The visible light we see from the Sun is similar to the visible light from a light bulb, but the Sun provides much more of it[^4^][4]. The energy released from the Sun is mind-bogglingly large, equal to about 36 octillion (3.6 x 10 28) or 36 thousand trillion trillion lumens, where a lumen is a measure of the total amount of visible light[^4^][4]."
+11        A"yes"
+11        C"Correct"
+11        E"sun,solar,ultraviolet        https://science.nasa.gov/sun/facts/; https://en.wikipedia.org/wiki/Sun; https://svs.gsfc.nasa.gov/11084; https://scied.ucar.edu/learning-zone/earth-system/energy-from-sun; https://www.vedantu.com/physics/light-sources"
+
+12        R"Yes, cats often purr[^1^][1][^2^][3][^3^][4]. Cats purr for various reasons, using the soft rumble as a way of communicating and as a form of self-soothing or even healing[^2^][3]. They purr when they're feeling content and affectionate, and also when they're feeling stress or pain[^3^][4]. However, the extent of that purring varies between individuals[^1^][1]. Some cats purr constantly, while others purr little[^1^][1]. Despite these variations, it's safe to say that purring is a common behavior among cats[^1^][1][^2^][3][^3^][4]."
+12        A"yes"
+12        C"Incorrect"
+12        E"purring,cats,purr        https://www.bbc.com/future/article/20180724-the-complicated-truth-about-a-cats-purr; https://www.petmd.com/cat/behavior/why-do-cats-purr; https://www.newscientist.com/question/why-do-cats-purr/; https://www.hepper.com/do-all-cats-purr/"
+
+13        R"Yes, ice cream is a type of frozen dessert[^1^][3]. It is typically made from milk or cream that has been flavored with a sweetener, either sugar or an alternative, and a spice, such as cocoa or vanilla, or with fruit, such as strawberries or peaches[^1^][3]. However, it's important to note that not all frozen desserts are ice cream. The term "frozen dessert" can also refer to other products made with vegetable oils or other types of fat and may not contain dairy[^2^][1][^3^][2]."
+13        A"yes"
+13        C"Incorrect"
+13        E"desserts,frozen,dessert        https://www.allrecipes.com/article/difference-between-frozen-dessert-and-ice-cream/; https://www.perrysicecream.com/frozen-dairy-dessert-vs-ice-cream-whats-the-difference/; https://en.wikipedia.org/wiki/Ice_cream; https://www.brandeating.com/2015/07/explaining-why-some-ice-cream-is-frozen-dairy-dessert.html"
+
+14        R"Yes, fish live in water[^1^][1][^2^][2][^3^][3][^4^][4]. Fish breathe with gills and cannot absorb oxygen in the air after leaving the water[^3^][3]. They find mates, give birth to their young, and find food in water[^4^][4]. Different biotic and abiotic factors influence where fish live including the water temperature, pH levels, dissolved oxygen levels, plankton, and other chemical components of the water[^1^][1]. Fish habitats are important because they provide a place for fish to live, breed, and raise their young[^1^][1]. There are many different types of fish habitats, including lakes, rivers, oceans, and ponds[^1^][1]. Some fish prefer calm waters while others prefer fast-moving streams or turbulent seas[^1^][1]. Nearly half of all fish species live in fresh water, which means they swim in the rivers, lakes, and wetlands that make up less than 3 percent of Earth’s water supply[^2^][2]."
+14        A"yes"
+14        C"Correct"
+14        E"fish,gills,lakes        https://fisharticle.com/where-do-fish-live/; https://www.nationalgeographic.com/animals/fish/facts/freshwater-fish; https://www.yourfishguide.com/what-do-fish-need-to-survive-in-their-environment/; https://en.wikipedia.org/wiki/Fish"
+
+15        R"Yes, the moon is a natural satellite of Earth[^1^][1][^2^][2][^3^][3][^4^][4]. It orbits the Earth at an average distance of about 239,000 miles (385,000 kilometers)[^1^][1][^4^][4]. The Earth and Moon are tidally locked, meaning their rotations are so in sync we only see one side of the Moon[^1^][1]. The Moon was likely formed after a Mars-sized body collided with Earth several billion years ago[^1^][1][^2^][2]."
+15        A"yes"
+15        C"Incorrect"
+15        E"moon,satellite,tidally        https://science.nasa.gov/moon/facts/; https://science.nasa.gov/moon/; https://en.wikipedia.org/wiki/Moon; https://www.sciencealert.com/moon"
+
+16        R"Yes, roses do have thorns. However, in botanical terms, they are technically called "prickles"[^1^][1][^2^][2][^3^][4]. These prickles serve as a defense mechanism to protect the rose plant from predators[^1^][1][^2^][2][^4^][3][^5^][5]. They also help the rose plant to climb over other plants and compete for sunlight[^1^][1]. While they can be painful, they are not toxic[^1^][1]."
+16        A"yes"
+16        C"Correct"
+16        E"thorns,roses,rose        https://www.wikihow.com/Why-Does-a-Rose-Have-Thorns; https://plantophiles.com/gardening/why-do-roses-have-thorns/; https://www.birdsandblooms.com/gardening/flower-gardening/why-do-roses-have-thorns/; https://libanswers.nybg.org/faq/222797; https://qooplants.com/why-do-roses-have-thorns/"
+
+17        R"Yes, chocolate is made from cocoa beans[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. The process involves several steps including harvesting, fermenting, roasting, and grinding the cocoa beans[^1^][1][^2^][2]. The ground beans, which contain cocoa solids and cocoa butter, are then processed into a form known as cocoa liquor[^1^][1]. This cocoa liquor can be further processed into various chocolate products[^1^][1]."
+17        A"yes"
+17        C"Correct"
+17        E"cocoa,chocolate,beans        https://www.thespruceeats.com/how-chocolate-is-made-1328617; https://www.alphafoodie.com/how-to-make-chocolate-bean-to-bar/; https://www.healthline.com/nutrition/cacao-vs-cocoa; https://www.history.com/topics/ancient-americas/history-of-chocolate; https://www.britannica.com/topic/cocoa-food"
+
+18        R"Yes, cars are powered by engines[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. The engine uses the explosive combustion of fuel to push a piston within a cylinder. The piston's movement turns a crankshaft that then turns the car wheels via a chain or a drive shaft[^3^][3]. The different types of fuel commonly used for car combustion engines are gasoline (or petrol), diesel, and kerosene[^3^][3]. However, it's important to note that not all cars are powered by internal combustion engines. Some cars, like electric vehicles, use electric motors for power[^4^][4]."
+18        A"yes"
+18        C"Correct"
+18        E"engines,cars,motors        https://www.caranddriver.com/features/a26962316/how-a-car-works/; https://www.explainthatstuff.com/carengines.html; https://www.thoughtco.com/who-invented-the-car-4059932; https://www.howtogeek.com/785214/how-does-an-electric-vehicle-work/; https://en.wikipedia.org/wiki/Aero-engined_car"
+
+19        R"Yes, the Great Wall of China is a man-made structure[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. It was built over centuries by China’s emperors to protect their territory[^1^][1]. The wall stretches for thousands of miles along China’s historic northern border[^1^][1]. It was constructed of various materials, including rammed earth, wood, brick, quarried granite, and even marble blocks[^2^][2]. The wall was continuously updated as building techniques advanced[^2^][2]. Today, it is recognized as one of the most impressive architectural feats in history[^2^][2]."
+19        A"yes"
+19        C"Incorrect"
+19        E"wall,building,constructed        https://www.nationalgeographic.org/encyclopedia/great-wall-china/; https://en.wikipedia.org/wiki/Great_Wall_of_China; https://www.iexplore.com/experiences/world-wonders/great-wall-of-china; https://www.goworldtravel.com/great-wall-china/; https://artsandculture.google.com/story/10-things-to-know-about-the-great-wall-of-china/8wXxFCy7pu2HWA"
+
+20        R"Yes, bees do make honey[^1^][1][^2^][2][^3^][3][^4^][4]. Honeybees, in particular, make honey to feed themselves[^2^][2]. They collect nectar from flowers and convert it into honey inside their hives[^1^][1][^2^][2]. The nectar is stored in a second stomach, also known as the “honey stomach.” After they have filled up their second stomach, the bees will return to their hive and start to pass the nectar through their mouths to other bees[^2^][2]. These bees will chew on the nectar for about 30 minutes, turning it into honey[^2^][2]. Once the nectar becomes honey, the honeybees will store it in honeycomb cells, which act as little jars made of wax[^2^][2]. The bees then flap their wings over the honey to make it thicker and more like syrup instead of sweet juice[^2^][2]. Once the honey is ready, the bees will seal the cell using a wax lid to store it for later[^2^][2]. At this point, skilled beekeepers can take some of the finished honey from the hive, taking care to not harm or damage the colony[^2^][2]."
+20        A"yes"
+20        C"Correct"
+20        E"honeybees,bees,honey        https://www.livescience.com/how-do-bees-make-honey; https://www.pestworldforkids.org/pest-info/bug-articles-by-type/how-do-bees-make-honey/; https://en.wikipedia.org/wiki/Honey; https://honey.com/about-honey/how-honey-is-made"
+
+21        R"Yes, the Pacific Ocean is the largest ocean on Earth[^1^][1][^2^][2][^3^][3][^4^][4]. It covers more than 155 million square kilometers (60 million square miles), which is larger than the landmass of all the continents combined[^1^][1][^2^][2]. The Pacific Ocean also contains almost twice as much water as the world's second largest body of water, the Atlantic Ocean[^1^][1]. It is also the deepest ocean, with an average depth of approximately 4,000 meters (13,000 feet)[^1^][1][^2^][2]. The deepest point on Earth, known as Challenger Deep, extends to a depth of more than 11,000 meters (36,000 feet) and is found in the Mariana Trench, in the Pacific[^1^][1][^2^][2]."
+21        A"yes"
+21        C"Correct"
+21        E"deepest,ocean,largest        https://oceanexplorer.noaa.gov/facts/pacific-size.html; https://en.wikipedia.org/wiki/Pacific_Ocean; https://www.nationalgeographic.com/environment/article/pacific-ocean; https://oceanservice.noaa.gov/facts/biggestocean.html"
+
+22        R"Yes, apples are a type of fruit[^1^][1][^2^][2][^3^][3]. They are the fruit of the domesticated apple tree, one of the most widely cultivated tree fruits[^2^][2]. Apples are commonly eaten fresh or cooked as a dessert and can also be made into juice or cider[^2^][2]. The apple tree is a species in the genus Malus and originated in Central Asia, where its wild ancestor, Malus sieversii, is still found[^1^][1]."
+22        A"yes"
+22        C"Incorrect"
+22        E"apples,fruits,fruit        https://en.wikipedia.org/wiki/Apple; https://www.britannica.com/plant/apple-fruit-and-tree; https://en.wikipedia.org/wiki/Fruit"
+
+23        R"Yes, the Statue of Liberty is located in New York[^1^][1][^2^][2][^3^][3][^4^][4]. It is a colossal neoclassical sculpture on Liberty Island in New York Harbor within New York City[^2^][2][^4^][4]. The statue, a gift from the people of France, was designed by French sculptor Frédéric Auguste Bartholdi and its metal framework was built by Gustave Eiffel[^4^][4]. The statue was dedicated on October 28, 1886[^4^][4]."
+23        A"yes"
+23        C"Correct"
+23        E"statue,liberty,york        https://bing.com/search?q=Is+the+Statue+of+Liberty+located+in+New+York%3f; https://www.nps.gov/stli/index.htm; https://www.britannica.com/topic/Statue-of-Liberty; https://en.wikipedia.org/wiki/Statue_of_Liberty; https://en.wikipedia.org/wiki/Statue_of_Liberty_National_Monument"
+
+24        R"Yes, humans usually have five digits, often referred to as fingers, on each hand[^1^][3][^2^][4]. This includes four fingers and one thumb[^1^][3][^2^][4][^3^][5]. However, some people may have more or fewer than five due to congenital disorders such as polydactyly or oligodactyly, or accidental or intentional amputations[^1^][3]."
+24        A"yes"
+24        C"Correct"
+24        E"digits,fingers,thumb        https://www.sciencedaily.com/releases/2016/10/161005132654.htm; https://www.scientificamerican.com/article/why-do-most-species-have/; https://en.wikipedia.org/wiki/Finger; https://en.wikipedia.org/wiki/Hand; https://massinitiative.org/how-many-fingers-do-normal-humans-have-in-one-hand/"
+
+25        R"Yes, the Eiffel Tower is in Paris[^1^][1][^2^][2][^3^][3][^4^][4]. It is a wrought-iron lattice tower on the Champ de Mars in Paris, France[^1^][1][^2^][2]. The tower was designed by French engineer Gustave Eiffel and his company, who built the tower from 1887 to 1889[^1^][1]. It was constructed as the centerpiece of the 1889 World's Fair and has since become a global cultural icon of France and one of the most recognizable structures in the world[^1^][1]."
+25        A"yes"
+25        C"Correct"
+25        E"tower,eiffel,paris        https://en.wikipedia.org/wiki/Eiffel_Tower; https://www.britannica.com/topic/Eiffel-Tower-Paris-France; https://worldinparis.com/where-is-the-eiffel-tower; https://www.britannica.com/question/Where-is-the-Eiffel-Tower-located-in-Paris"
+
+26        R"No, the Amazon River is not the longest river in the world[^1^][1][^2^][2][^3^][3][^4^][5]. Most scientists believe the South American river is at least 4,000 miles (6,400 km) long—still shorter than the Nile, which is widely held to be the world’s longest river at about 4,132 miles (6,650 km)[^1^][1]. However, there are debates about the exact lengths of these rivers and some claim that the Amazon might actually be longer[^1^][1][^2^][2][^5^][4]. The Amazon is considered the world's largest river by volume[^5^][4]."
+26        A"no"
+26        C"Correct"
+26        E"river,nile,longest        https://www.britannica.com/story/how-long-is-the-amazon-river; https://www.britannica.com/place/Amazon-River; https://www.livescience.com/57266-amazon-river.html; https://www.nationalgeographic.com/science/article/amazon-longer-than-nile-river; https://wwf.panda.org/discover/knowledge_hub/where_we_work/amazon/about_the_amazon/ecosystems_amazon/rivers/"
+
+27        R"Yes, trees do have leaves[^1^][1][^2^][2][^3^][3][^4^][4]. Leaves are very important for trees as they provide food for the whole tree[^4^][4]. They capture light energy and convert it into sugars by photosynthesis, providing the food for the tree's growth and development[^1^][1]. Trees have evolved leaves in a wide range of shapes and sizes, in response to environmental pressures including climate and predation[^1^][1]. They can be broad or needle-like, simple or compound, lobed or entire, smooth or hairy, delicate or tough, deciduous or evergreen[^1^][1]."
+27        A"yes"
+27        C"Incorrect"
+27        E"trees,leaves,tree        https://en.wikipedia.org/wiki/Tree; https://www.treehugger.com/id-trees-using-leaf-shape-venation-1343511; https://ypte.org.uk/factsheets/leaves/why-do-plants-have-leaves; https://learning-center.homesciencetools.com/article/learn-about-leaves/"
+
+28        R"Yes, the Mona Lisa is a famous painting[^1^][1][^2^][2][^3^][3][^4^][4]. It is an oil painting by Italian artist, inventor, and writer Leonardo da Vinci, likely completed in 1506[^4^][4]. The Mona Lisa is considered the best known and most famous work of art in the world and is often considered the epitome of Renaissance art[^3^][3]. It now hangs in the Louvre Museum, Paris, where it remained an object of pilgrimage in the 21st century[^2^][2]. The sitter’s mysterious smile and her unproven identity have made the painting a source of ongoing investigation and fascination[^2^][2]."
+28        A"yes"
+28        C"Correct"
+28        E"louvre,leonardo,vinci        https://www.britannica.com/story/why-is-the-mona-lisa-so-famous; https://www.britannica.com/topic/Mona-Lisa-painting; https://nicofranz.art/en/leonardo-da-vinci/mona-lisa; https://mymodernmet.com/leonardo-da-vinci-mona-lisa-facts/"
+
+29        R"Yes, the Sahara Desert is the largest hot desert in the world[^1^][1][^2^][2][^3^][3]. It covers 3.6 million square miles (9.4 million square kilometers), an area about the size of the United States (including Alaska and Hawaii) and spanning nearly a third of the African continent[^1^][1]. However, it is the third-largest desert overall, behind the cold deserts of Antarctica and the Arctic[^1^][1][^2^][2]."
+29        A"yes"
+29        C"Correct"
+29        E"deserts,sahara,desert        https://www.livescience.com/23140-sahara-desert.html; https://en.wikipedia.org/wiki/Sahara; https://www.mapquest.com/travel/survival/wilderness/5-hottest-deserts-on-earth.htm"
+
+30        R"Yes, penguins are flightless birds[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. They are a group of aquatic birds that live almost exclusively in the Southern Hemisphere[^1^][1][^4^][4]. Despite their inability to fly, penguins possess many bird-like characteristics, such as feathers, wings, and a beak[^5^][5]. They also have a four-chambered heart, which is a characteristic of birds[^5^][5]."
+30        A"yes"
+30        C"Incorrect"
+30        E"penguins,birds,flightless        https://en.wikipedia.org/wiki/Penguin; https://en.wikipedia.org/wiki/Flightless_bird; https://www.pbs.org/wnet/nature/blog/penguin-fact-sheet/; https://quickanimals.com/ostrich-penguin-flightless-birds/; https://learnbirdwatching.com/are-penguins-birds/"
+
+31        R"Yes, the color red is associated with stop signs[^1^][1][^2^][3][^3^][4][^4^][5]. The standard color for stop signs was decided to be red by the representatives of the First National Conference on Street and Highway Safety in 1924[^1^][1]. This color is used to convey urgency and importance[^3^][4], and it helps to get the attention of drivers more easily so they can react more quickly[^4^][5]."
+31        A"yes"
+31        C"Correct"
+31        E"red,color,safety        https://www.mentalfloss.com/article/586738/reason-why-stop-signs-are-red; https://www.verywellmind.com/the-color-psychology-of-red-2795821; https://www.myparkingsign.com/blog/significance-of-colors-shapes-in-road-traffic-signs/; https://zutobi.com/us/driver-guides/road-signs-explained; https://dmv-permit-test.com/road-signs/stop-sign"
+
+32        R"Yes, snakes do slither[^1^][1][^2^][2][^3^][3][^4^][4]. They move around by slithering because they have no legs[^2^][2]. They rely on their muscles and scales[^2^][2]. The scales on a snake are made from a material called keratin[^2^][2]. That’s the same material that makes up human fingernails[^2^][2]. They help the snake move on different surfaces[^2^][2]. A snake’s ability to slither across the ground is made possible by its ability to bend using a series of muscles along their body[^3^][3]. The scientific term for this bending motion is lateral and vertical bending[^3^][3]. A snake uses lateral bending to change direction or propel itself forward along a flat surface[^3^][3]."
+32        A"yes"
+32        C"Incorrect"
+32        E"snakes,snake,slither        https://www.nationalgeographic.com/animals/article/151208-snakes-animals-science-technology-slithering; https://askdruniverse.wsu.edu/2017/12/18/how-do-snakes-slither/; https://sites.nd.edu/biomechanics-in-the-wild/2023/10/29/how-do-snakes-slither/; https://www.nsf.gov/news/news_summ.jsp?cntn_id=114941"
+
+33        R"Yes, the Taj Mahal is located in India[^1^][1][^2^][2][^3^][3][^4^][4]. It is situated in the eastern part of the city of Agra, in the state of Uttar Pradesh[^1^][1][^2^][2]. The Taj Mahal was built by the Mughal emperor Shah Jahan to immortalize his wife Mumtaz Mahal[^2^][2]. It is one of the most iconic monuments in India, visited by millions of tourists each year[^2^][2]. The complex was designated a UNESCO World Heritage site in 1983[^2^][2]."
+33        A"yes"
+33        C"Correct"
+33        E"mahal,agra,monuments        https://en.wikipedia.org/wiki/Taj_Mahal; https://www.britannica.com/topic/Taj-Mahal; https://whc.unesco.org/en/list/252; https://indianculture.gov.in/unesco/heritage-sites/taj-mahal"
+
+34        R"Yes, the human heart is a vital organ[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. It is the main organ of your cardiovascular system, a network of blood vessels that pumps blood throughout your body[^1^][1]. It also works with other body systems to control your heart rate and blood pressure[^1^][1]. The heart is one of the most vital organs of our body[^4^][4]. It’s the organ in the middle of our circulation system, pumping blood around the body as it beats[^4^][4]. The blood sends oxygen and nutrients to the body and carries away unwanted carbon dioxide and waste materials[^4^][4]. If the heart does not function properly, all other organs – including the brain – begin to die from lack of oxygen within just a few minutes[^5^][5]."
+34        A"yes"
+34        C"Incorrect"
+34        E"cardiovascular,organs,organ        https://my.clevelandclinic.org/health/body/21704-heart; https://www.medicalnewstoday.com/articles/organs-in-the-body; https://bio.libretexts.org/Bookshelves/Human_Biology/Book%3A_Human_Biology_%28Wakim_and_Grewal%29/10%3A_Introduction_to_the_Human_Body/10.4%3A_Human_Organs_and_Organ_Systems; https://www.narayanahealth.org/blog/understanding-the-heart/; https://biologydictionary.net/heart/"
+
+35        R"Yes, clouds are made when water vapor, an invisible gas, turns into liquid water droplets or solid ice crystals[^1^][1][^2^][2]. These droplets or crystals form on tiny particles, like dust, that are floating in the air[^1^][1]. So, while clouds contain water vapor, they are not made of water vapor. If they were, we wouldn't be able to see them[^2^][2]. The visible part of a cloud is actually liquid water droplets or solid ice crystals[^2^][2]."
+35        A"yes"
+35        C"Correct"
+35        E"clouds,cloud,droplets        https://climatekids.nasa.gov/cloud-formation/; https://ssec.si.edu/stemvisions-blog/what-are-clouds; https://www.universetoday.com/73198/what-are-clouds-made-of/"
+
+36        R"Yes, the letter "A" is the first letter of the alphabet[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. It is the first letter and the first vowel of the Latin alphabet, used in the modern English alphabet, the alphabets of other western European languages and others worldwide[^1^][1]. The English alphabet has 26 letters, starting with "a" and ending with "z"[^5^][5]."
+36        A"yes"
+36        C"Incorrect"
+36        E"alphabet,alphabets,letters        https://en.wikipedia.org/wiki/A; https://en.wikipedia.org/wiki/English_alphabet; https://bing.com/search?q=Is+the+letter+%27A%27+the+first+letter+of+the+alphabet; https://www.rd.com/article/spell-number-up-1000-without-a/; https://www.englishclub.com/writing/alphabet.php"
+
+37        R"Yes, soccer is also known as football in many countries[^1^][1][^2^][2][^3^][3][^4^][4]. The sport known as football in Great Britain is usually called soccer in the United States[^1^][1]. Within the English-speaking world, the sport is now usually called "football" in Great Britain and most of Ulster in the north of Ireland, whereas people usually call it "soccer" in regions and countries where other codes of football are prevalent, such as Australia, Canada, South Africa, most of Ireland (excluding Ulster), and the United States[^2^][2]. It is known as soccer in North America, but is called football in most of the rest of the world[^3^][3]. Football is known as soccer in the United States, Canada, Australia, and New Zealand. It is called football in most other countries around the world, including Europe, South America, Africa, and Asia[^4^][4]."
+37        A"yes"
+37        C"Correct"
+37        E"soccer,football,sport        https://www.britannica.com/story/why-do-some-people-call-football-soccer; https://en.wikipedia.org/wiki/Association_football; https://www.bundesliga.com/en/faq/all-you-need-to-know-about-soccer; https://soccerfeed.net/what-countries-call-football-soccer/"
+
+38        R"Yes, spiders do have eight legs[^1^][1][^2^][2][^3^][3]. All spiders are born with 8 legs as a part of their anatomy unless there is some sort of birth defect[^3^][3]. However, it is not uncommon to find a spider that has less than 8 legs due to other reasons in nature[^3^][3]. The cause for this is that some spiders may lose a leg or two for unnatural reasons[^3^][3]. Spiders, unlike insects, have only two main body parts (tagmata) instead of three: a fused head and thorax (called a cephalothorax or prosoma) and an abdomen (also called an opisthosoma)[^2^][2]. Spiders' legs are made up of seven segments[^2^][2]. Starting from the body end, these are the coxa, trochanter, femur, patella, tibia, metatarsus and tarsus[^2^][2]. The tip of the tarsus bears claws, which vary in number and size[^2^][2]."
+38        A"yes"
+38        C"Correct"
+38        E"spider,legs,spiders        https://www.burkemuseum.org/collections-and-research/biology/arachnology-and-entomology/spider-myths/myth-eight-legs-always-means-spider; https://en.wikipedia.org/wiki/Spider_anatomy; https://spideranatomy.com/spider-legs/"
+
+39        R"Yes, Ottawa is the capital city of Canada[^1^][1][^2^][2][^3^][3][^4^][4]. It is located in the southern portion of the province of Ontario, at the confluence of the Ottawa River and the Rideau River[^1^][1][^2^][2]. Ottawa was named the capital of the Province of Canada in 1857 and retained that status when Canada became a dominion within the British Commonwealth in 1867[^2^][2]."
+39        A"yes"
+39        C"Correct"
+39        E"ottawa,capital,ontario        https://en.wikipedia.org/wiki/Ottawa; https://www.britannica.com/place/Ottawa; https://www.thecanadianencyclopedia.ca/en/article/ottawa-ont; https://www.wikiwand.com/en/Ottawa"
+
+40        R"Yes, diamonds are considered precious gemstones[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. They are one of the four gemstones traditionally considered "precious", along with rubies, sapphires, and emeralds[^3^][3][^4^][4][^5^][5]. Diamonds are popular for their beauty, rarity, and durability[^4^][4]. They became particularly popular in the last century, and are now commonly used in engagement rings and other jewelry[^1^][1]."
+40        A"yes"
+40        C"Correct"
+40        E"gemstones,diamonds,jewelry        https://www.gemsociety.org/article/are-diamonds-really-rare/; https://www.gemsociety.org/gemstone-encyclopedia/; https://www.beldiamond.com/blogs/guidance/understanding-the-four-main-precious-stones; https://jewelryinformer.com/gemstones/precious-stones/; https://www.beldiamond.com/blogs/guidance/where-do-precious-gemstones-come-from"
+
+41        R"Yes, the Nile River is in Africa[^1^][1][^2^][2][^3^][3][^4^][4]. It is a major north-flowing river in northeastern Africa[^2^][2]. It flows into the Mediterranean Sea[^2^][2]. The Nile is the longest river in Africa and has historically been considered the longest river in the world[^2^][2]. Its drainage basin covers eleven countries: the Democratic Republic of the Congo, Tanzania, Burundi, Rwanda, Uganda, Kenya, Ethiopia, Eritrea, South Sudan, Republic of the Sudan, and Egypt[^2^][2]. The Nile has two major tributaries – the White Nile and the Blue Nile[^2^][2]. The two rivers meet at the Sudanese capital of Khartoum[^2^][2]. The northern section of the river flows north almost entirely through the Nubian Desert to Cairo and its large delta, and the river flows into the Mediterranean Sea at Alexandria[^2^][2]."
+41        A"yes"
+41        C"Correct"
+41        E"nile,river,tributaries        https://www.britannica.com/place/Nile-River; https://en.wikipedia.org/wiki/Nile; https://www.nationalgeographic.org/encyclopedia/nile-river/; https://africa-facts.org/nile-river-facts/"
+
+42        R"Yes, most dolphins are marine and live in the ocean or brackish waters along coastlines[^1^][2]. However, there are a few species, like the South Asian river dolphin and the Amazon river dolphin, that live in freshwater streams and rivers[^1^][2]. Dolphins inhabit a wide range of the world’s oceans[^2^][1]. Most dolphins live in the shallow waters of the ocean’s continental shelves in tropical and temperate waters[^2^][1]. There are also lesser-known dolphins in rivers of the world located in China, South America, India, Pakistan, and Southeast Asia[^2^][1]."
+42        A"yes"
+42        C"Correct"
+42        E"dolphins,dolphin,oceans        https://www.whalefacts.org/where-do-dolphins-live/; https://www.nationalgeographic.com/animals/mammals/facts/dolphins; https://us.whales.org/whales-dolphins/dolphins/; https://us.whales.org/whales-dolphins/where-do-dolphins-live/"
+
+43        R"Yes, the Statue of Liberty is green[^1^][3][^2^][4][^3^][5]. However, it wasn't always green. When the Statue was unveiled in 1886, it was a shiny brown color, like a penny[^1^][3]. By 1906, the color had changed to green[^1^][3]. The reason the Statue of Liberty changed colors is that the outer surface is covered with hundreds of thin copper sheets[^1^][3]. Copper reacts with the air to form a patina or verdigris[^1^][3]. The verdigris layer protects the underlying metal from corrosion and degradation, which is why copper, brass, and bronze sculptures are so durable[^1^][3]. Chemical Reactions That Make the Statue of Liberty Green Most people know copper reacts with air to form verdigris, but the Statue of Liberty is its own special color because of its unique environmental conditions[^1^][3]. It's not a simple single reaction between copper and oxygen to produce a green oxide as you might think[^1^][3]. The copper oxide continues to react to make copper carbonates, copper sulfide, and copper sulfate[^1^][3]. There are three main compounds that form the blue-green patina: Cu 4 SO 4 (OH) 6 (green) Cu 2 CO 3 (OH) 2 (green) Cu 3 (CO 3) 2 (OH) 2 (blue)[^1^][3]. Here's what happens: Initially, copper reacts with oxygen from the air in an oxidation-reduction or redox reaction[^1^][3]. Copper donates electrons to oxygen, which oxidizes the copper and reduces the oxygen[^1^][3]. Then the copper (I) oxide continues to react with oxygen to form copper oxide (CuO)[^1^][3]. At the time the Statue of Liberty was built, the air contained a lot of sulfur from air pollution produced by burning coal[^1^][3]. The CuS reacts with carbon dioxide (CO 2) from the air and hydroxide ions (OH -) from water vapor to form three compounds[^1^][3]. The speed at which the patina develops (20 years, in the case of the Statue of Liberty) and color depends on the humidity and air pollution, not just the presence of oxygen and carbon dioxide[^1^][3]. Patina develops and evolves over time[^1^][3]. Nearly all the copper in the Statue is still the original metal, so the verdigris has been developing for over 130 years[^1^][3]."
+43        A"yes"
+43        C"Incorrect"
+43        E"green,copper,statue        https://bing.com/search?q=Is+the+Statue+of+Liberty+green; https://www.nps.gov/stli/index.htm; https://www.thoughtco.com/why-statue-of-liberty-is-green-4114936; https://www.nbcnewyork.com/news/local/the-real-reason-the-statue-of-liberty-is-green/3910988/; https://www.worldhistoryedu.com/what-is-the-statue-of-liberty-history-construction-symbolism-important-facts/"
+
+44        R"Yes, rainbows are formed by the refraction and reflection of light[^1^][1][^2^][2][^3^][3]. When light from the sun is scattered by water droplets (e.g. raindrops or fog), it undergoes a process called refraction[^2^][2]. Refraction occurs when the light changes direction when passing through a medium denser than air, such as a raindrop[^2^][2]. Once the refracted light enters the raindrop, it is reflected off the back and then refracted again as it exits and travels to our eyes[^2^][2]. The different colors of a rainbow result from light being refracted, or bent, when entering a water droplet, then being reflected inside on the back of the droplet and refracted again when leaving it[^1^][1]. In all these events, the light is separated into various colors as each color is bent by a different amount[^1^][1]."
+44        A"yes"
+44        C"Incorrect"
+44        E"rainbow,rainbows,raindrop        https://www.nationalgeographic.org/encyclopedia/rainbow/; https://www.rmets.org/metmatters/how-are-rainbows-formed; https://www.britannica.com/science/rainbow-atmospheric-phenomenon"
+
+45        R"Yes, Tokyo is the capital city of Japan[^1^][1][^2^][2][^3^][3][^4^][4]. It is officially known as the Tokyo Metropolis[^3^][3]. Tokyo is located at the head of Tokyo Bay on the Pacific coast of central Honshu[^2^][2]. It is the focus of the vast metropolitan area often called Greater Tokyo, the largest urban and industrial agglomeration in Japan[^2^][2]. The city was renamed Tokyo, meaning “eastern capital”, in 1868[^2^][2]. Despite many changes happening over the years, both constructionally and politically, the main reason Tokyo was declared Japan’s Capital was because The Emperor moved there[^1^][1]. When the Tokugawa Shogunate government ended in 1868, after almost 260 years, imperial rule was restored[^1^][1]. In the process, The Emperor moved to Edo and renamed it Tokyo[^1^][1]. It was then officially named Japan’s Capital in 1868, interestingly enough, 21 years before it was officially made a city[^1^][1]."
+45        A"yes"
+45        C"Incorrect"
+45        E"tokyo,tokugawa,japan        https://justaboutjapan.com/what-was-japans-capital-before-tokyo/; https://www.britannica.com/place/Tokyo; https://en.wikipedia.org/wiki/Tokyo; https://simple.wikipedia.org/wiki/Tokyo; https://mochiyume.com/blog/what-is-the-capital-of-japan-the-vibrant-city-of-tokyo/"
+
+46        R"Yes, strawberries are generally described as being red when ripe[^1^][1][^2^][2]. However, it's important to note that not all strawberries are the same red. There are dozens of different cultivated varieties of strawberry, resulting in fruits that can range from a deep red to a paler red or pink color[^2^][2]. There are even white strawberries[^2^][2]. So while the dominant color in ripe strawberries is typically red, the exact shade can vary[^2^][2]."
+46        A"yes"
+46        C"Incorrect"
+46        E"strawberry,strawberries,red        https://en.wikipedia.org/wiki/Strawberry; https://www.natureword.com/what-makes-strawberries-red/; https://www.healthline.com/nutrition/foods/strawberries; https://testfoodkitchen.com/are-strawberries-red/"
+
+47        R"Yes, the letter "Z" is the last letter of the English alphabet[^1^][4][^2^][5]. However, it's interesting to note that while "Z" is the last letter in alphabetical order, it wasn't the last letter added to our alphabet. That distinction goes to the letter "J"[^3^][1]. But in terms of position in the alphabet, "Z" is indeed the 26th and final letter[^1^][4][^2^][5]."
+47        A"yes"
+47        C"Incorrect"
+47        E"alphabet,alphabetical,letter        https://www.rd.com/article/last-letter-added-to-the-alphabet/; https://www.dictionary.com/e/z/; https://www.collinsdictionary.com/dictionary/english/z; https://h-o-m-e.org/is-z-z-the-last-letter-in-the-english-alphabet/; https://simple.wikipedia.org/wiki/Z"
+
+48        R"Yes, butterflies do undergo metamorphosis[^1^][1][^2^][2][^3^][3][^4^][4]. This process, also known as complete metamorphosis or holometabolism, involves four stages: egg, larva (caterpillar), pupa (chrysalis), and adult[^1^][1][^2^][2][^4^][4]. The butterfly begins life as an egg, emerges as a caterpillar, and then undergoes a complete change in body form during development[^1^][1]. This drastic life change allows insects at different life stages to avoid competing for food[^2^][2]. It's a fascinating process that transforms a plump little caterpillar into a winged work of art[^2^][2]."
+48        A"yes"
+48        C"Incorrect"
+48        E"metamorphosis,butterflies,caterpillar        https://www.amnh.org/exhibitions/butterflies/metamorphosis; https://www.nationalgeographic.com/animals/article/science-of-metamorphosis-butterflies-caterpillars; https://www.butterflyidentification.com/butterfly-facts/life-cycle-of-a-butterfly; https://ansp.org/exhibits/online-exhibits/butterflies/lifecycle/"
+
+49        R"Yes, Mount Everest is the highest mountain on Earth when measured from sea level[^1^][2][^2^][3][^3^][5]. It reaches an elevation of 29,032 feet (8,849 meters) above sea level[^1^][2][^2^][3][^3^][5]. However, if we consider the distance from the Earth's center, then the highest mountain would be Mount Chimborazo, a stratovolcano in Ecuador[^4^][1]. This is because the Earth isn't a perfect sphere but bulges at the equator[^4^][1]. But in terms of height above sea level, Mount Everest holds the title[^1^][2][^2^][3][^3^][5]."
+49        A"yes"
+49        C"Correct"
+49        E"everest,mountain,highest        https://www.sciencealert.com/mount-everest-isn-t-really-the-tallest-mountain-earth-science; https://www.britannica.com/place/Mount-Everest; https://www.nationalgeographic.org/encyclopedia/mount-everest/; https://oceanservice.noaa.gov/facts/highestpoint.html; https://www.livescience.com/23359-mount-everest.html"
+
+50        R"Yes, the Mona Lisa is displayed in the Louvre Museum[^1^][1][^2^][2][^3^][3][^4^][4]. It is exhibited in the room 711 or States room which is the largest room in the Louvre Museum[^2^][2]. The painting is behind a thick layer of bulletproof glass, and security measures are in place to ensure its safety[^1^][1]. The Mona Lisa is located inside the Louvre Museum in Paris, France[^3^][3]. Because of its high value and its global popularity, it is on display inside the biggest room of the museum, the Salle des États[^3^][3]."
+50        A"yes"
+50        C"Correct"
+50        E"louvre,museum,paris        https://thebettervacation.com/mona-lisa-louvre-museum/; https://sacavoyage.fr/en/where-is-the-mona-Lisa-at-the-louvre/; https://www.tickets-paris.fr/louvre-museum/mona-lisa-at-the-louvre/; https://www.ncesc.com/is-the-mona-lisa-inside-the-louvre/"
+
+51        R"Yes, owls do hunt at night[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. They are nocturnal animals, meaning they are active at night[^1^][1][^4^][4]. Their eyes have evolved to be better able to see in low light, and their hearing is also improved at night[^1^][1]. Also, owls hunt by sight to track their prey; therefore, hunting at night is the best time to capture their prey[^4^][4]. Their dark colors make them nearly invisible to their prey and their wings beat almost silently[^3^][3]. These adaptations, combined with their enormous eyes, put owls among the most efficient night hunters on the planet[^3^][3]. However, it's important to note that some owl species hunt during the day or in open areas[^1^][1]."
+51        A"yes"
+51        C"Correct"
+51        E"owls,nocturnal,owl        https://learnbirdwatching.com/how-do-owls-hunt/; https://nature-mentor.com/owls-hoot-night/; https://www.thoughtco.com/fascinating-facts-about-owls-4107228; https://www.discoverynatures.com/do-owls-hunt-at-night/; https://hayfarmguy.com/why-do-owls-hunt-at-night"
+
+52        R"Yes, the currency of Japan is the yen[^1^][2][^2^][3][^3^][4][^4^][5]. The yen, denoted by the symbol ¥ and the code JPY, is the official currency of Japan[^1^][2][^2^][3][^3^][4][^4^][5]. It is the third-most traded currency in the foreign exchange market, after the United States dollar (US$) and the euro[^1^][2]. It is also widely used as a third reserve currency after the US dollar and the euro[^1^][2]. The yen was introduced in 1871 and is available in 10 denominations[^2^][3]. Six coins are used including 1, 5, 10, 50, 100 and 500 yen values, alongside 4 bills/notes including 1,000, 2,000, 5,000 and 10,000 (although the 2,000 yen note is quite rare)[^2^][3]."
+52        A"yes"
+52        C"Correct"
+52        E"yen,currency,japan        https://bing.com/search?q=Is+the+currency+of+Japan+the+yen%3f; https://en.wikipedia.org/wiki/Japanese_yen; https://en.japantravel.com/guide/money-in-japan/22045; https://www.investopedia.com/terms/forex/j/jpy-japanese-yen.asp; https://www.oanda.com/currency-converter/en/currencies/majors/jpy/"
+
+53        R"Yes, tomatoes are technically considered fruits[^1^][1][^2^][2][^3^][4]. This is because, botanically, a fruit is a ripened flower ovary and contains seeds[^2^][2][^3^][4]. Tomatoes form from flowers and contain seeds, which makes them a fruit in botanical terms[^2^][2]. However, in culinary uses and even in legal terms, tomatoes are often referred to as vegetables[^1^][1][^2^][2][^4^][5]. This is due to their savory flavor profile and their usage in cooking, which is more similar to vegetables than fruits[^2^][2]. So, while tomatoes are botanically fruits, they are culinarily and legally treated as vegetables[^1^][1][^2^][2][^4^][5]."
+53        A"yes"
+53        C"Correct"
+53        E"tomatoes,fruits,vegetables        https://microsoftstart.msn.com/en-us/health/ask-professionals/expert-answers-on-tomato/hp-tomato?questionid=rmm7igy2&type=nutrition&source=bingmainline_nutritionqna; https://www.healthline.com/nutrition/is-tomato-a-fruit; https://www.almanac.com/tomatoes-fruit-or-vegetable; https://www.britannica.com/story/is-a-tomato-a-fruit-or-a-vegetable; https://www.snopes.com/fact-check/tomatoes-fruits-vegetables/; https://microsoftstart.msn.com/"
+
+54        R"Yes, the Atlantic Ocean is the second-largest ocean on Earth[^1^][1][^2^][2][^3^][3][^4^][4]. It covers an area of approximately 106,460,000 square kilometers (41,105,000 square miles)[^1^][1]. The Atlantic Ocean is only slightly larger than half the size of the Pacific Ocean, which is the largest ocean[^1^][1][^2^][2]. The Atlantic Ocean lies between North and South America on the west and Europe and Africa on the east[^1^][1][^2^][2]. It's interesting to note that scientists often divide the Atlantic into two basins: the North Atlantic and the South Atlantic[^1^][1]. The North Atlantic, where waters sink after being chilled by arctic temperatures, is the start of the “global ocean conveyor,” a circulation pattern that helps regulate Earth’s climate[^1^][1]."
+54        A"yes"
+54        C"Correct"
+54        E"atlantic,ocean,largest        https://oceanservice.noaa.gov/facts/atlantic.html; https://www.nationalgeographic.com/environment/article/atlantic-ocean; https://www.cia.gov/the-world-factbook/oceans/atlantic-ocean/; https://en.wikipedia.org/wiki/Atlantic_Ocean"
+
+55        R"Yes, kangaroos do hop[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. They are the only large mammals to use hopping on two legs as their main form of locomotion[^1^][1][^3^][3]. This movement has evolved to be energy efficient and help them survive in the wild[^4^][4]. The kangaroo's leg bone aligns with an oversized fourth toe on each foot, allowing it to propel the foot off the ground[^1^][1]. A single hop can propel a kangaroo 25 feet (7.6 meters) forward and 6 feet (1.8 meters) high[^1^][1]. However, it's important to note that not all kangaroos hop in the same way. Some smaller species and tree-dwelling kangaroos move in a different manner[^2^][2]."
+55        A"yes"
+55        C"Correct"
+55        E"kangaroo,kangaroos,hop        https://animals.howstuffworks.com/mammals/kangaroo-hopping.htm; https://www.abc.net.au/news/science/2019-01-26/where-kangaroos-came-from-why-they-hop-and-should-we-kill-them/10735352; https://www.bbc.com/news/science-environment-47130734; https://www.scienceabc.com/nature/animals/why-do-kangaroos-hop-without-seeming-to-get-tired.html; https://www.naturalworldlife.com/why-do-kangaroos-hop-and-not-jump/"
+
+56        R"Yes, the currency of the United Kingdom is the pound[^1^][1][^2^][2][^3^][3]. The pound, denoted by the symbol £ and the code GBP, is the official currency of the United Kingdom and nine of its associated territories[^1^][1]. The word "pound" is also used to refer to the British currency generally, often qualified in international contexts as the British pound or the pound sterling[^1^][1]. The Bank of England is the central bank for the pound, issuing its own banknotes[^1^][1]. The pound is the world's oldest currency that is still in use and that has been in continuous use since its inception[^1^][1]. It is currently the fourth most-traded currency in the foreign exchange market, after the United States dollar, the euro, and the Japanese yen[^1^][1]."
+56        A"yes"
+56        C"Incorrect"
+56        E"currency,pound,banknotes        https://bing.com/search?q=Is+the+currency+of+the+United+Kingdom+the+pound%3f; https://en.wikipedia.org/wiki/Pound_sterling; https://www.tripsavvy.com/uk-currency-photographs-4123326; https://blog.remitly.com/currencies/united-kingdom-currency/; https://www.investopedia.com/terms/g/gbp.asp"
+
+57        R"Yes, the Sydney Opera House is in Australia[^1^][1][^2^][2][^3^][3]. It is a multi-venue performing arts centre located on the foreshore of Sydney Harbour, in Sydney, New South Wales[^1^][1]. The building and its surrounds occupy the whole of Bennelong Point on Sydney Harbour, between Sydney Cove and Farm Cove, adjacent to the Sydney central business district and the Royal Botanic Gardens, and near to the Sydney Harbour Bridge[^1^][1]."
+57        A"yes"
+57        C"Correct"
+57        E"sydney,opera,venue        https://en.wikipedia.org/wiki/Sydney_Opera_House; https://www.britannica.com/topic/Sydney-Opera-House; https://www.britannica.com/facts/Sydney-Opera-House"
+
+58        R"Yes, light bulbs do produce light[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. The process involves an electric current passing through a thin wire filament inside the bulb, causing it to heat up and emit visible light[^2^][2][^4^][4]. The filament is usually made of a hard-to-melt metal like tungsten and is encased in a glass bulb filled with inert gases to prevent oxidation and disintegration[^1^][1][^3^][3][^5^][5]. The agitation and vibration of the atoms within the filament material produce heat energy, and a portion of that energy is turned into light[^1^][1][^3^][3][^5^][5]. However, most of the energy gets turned into heat, which is why alternatives like LED lights are being developed[^1^][1]."
+58        A"yes"
+58        C"Incorrect"
+58        E"bulbs,bulb,light        https://www.bbc.com/future/article/20131101-how-does-a-lightbulb-work; https://home.howstuffworks.com/light-bulb.htm; https://www.scienceabc.com/pure-sciences/how-does-a-light-bulb-work-working-principle.html; https://housegrail.com/how-do-light-bulbs-work/; https://www.totallylight.com/how-does-a-light-bulb-work/"
+
+59        R"Yes, Antarctica is a continent[^1^][1][^2^][2][^3^][3][^4^][4]. It is Earth's southernmost and least-populated continent[^1^][1]. Situated almost entirely south of the Antarctic Circle and surrounded by the Southern Ocean, it contains the geographic South Pole[^1^][1]. Antarctica is the fifth-largest continent, being about 40% larger than Europe, and has an area of 14,200,000 km^2 (5,500,000 sq mi)[^1^][1]. Most of Antarctica is covered by the Antarctic ice sheet[^1^][1]. It is mainly a polar desert, with annual precipitation of over 200 mm (8 in) along the coast and far less inland[^1^][1]. About 70% of the world's freshwater reserves are frozen in Antarctica[^1^][1]."
+59        A"yes"
+59        C"Incorrect"
+59        E"antarctica,antarctic,continent        https://en.wikipedia.org/wiki/Antarctica; https://www.britannica.com/place/Antarctica; https://www.nationalgeographic.org/encyclopedia/antarctica/; https://spaceplace.nasa.gov/antarctica/"
+
+60        R"Yes, koalas are marsupials[^1^][1][^2^][2][^3^][3][^4^][4]. They are mammals that have pouches[^2^][2][^3^][3]. The koala is an iconic Australian animal[^2^][2]. Often called the koala “bear,” this tree-climbing animal is a marsupial—a mammal with a pouch for the development of offspring[^2^][2]. It is the only extant representative of the family Phascolarctidae and its closest living relatives are the wombats[^1^][1]."
+60        A"yes"
+60        C"Incorrect"
+60        E"koalas,koala,marsupials        https://en.wikipedia.org/wiki/Koala; https://www.nationalgeographic.com/animals/mammals/facts/koala; https://www.livescience.com/27401-koalas-facts.html; https://kids.nationalgeographic.com/animals/mammals/facts/koala"
+
+61        R"Yes, Pluto is considered a dwarf planet[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]."
+61        A"yes"
+61        C"Correct"
+61        E"pluto,dwarf,planet        https://science.nasa.gov/dwarf-planets/pluto/; https://en.wikipedia.org/wiki/Pluto; https://www.nationalgeographic.com/science/article/dwarf-planets-pluto-ceres; https://science.nasa.gov/dwarf-planets/; https://sos.noaa.gov/catalog/datasets/pluto-dwarf-planet/"
+
+62        R"Yes, humans have two eyes[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]."
+62        A"yes"
+62        C"Incorrect"
+62        E"eyes,two,humans        https://www.allaboutvision.com/conditions/heterochromia.htm; https://www.scientificamerican.com/article/see-change-2-eyes-1-picture/; https://byjus.com/physics/why-do-we-have-two-eyes/; https://www.vedantu.com/physics/why-do-we-have-two-eyes; https://testbook.com/physics/why-do-we-have-two-eyes"
+
+63        R"Yes, the color green is associated with grass[^1^][1][^2^][2][^3^][3][^4^][4]."
+63        A"yes"
+63        C"Incorrect"
+63        E"green,grass,color        https://www.verywellmind.com/color-psychology-green-2795817; https://www.britannica.com/story/why-is-grass-green; https://pictureperfectlawn.net/different-colors-of-grass/"
+
+64        R"Yes, the Great Barrier Reef is located in Australia[^1^][1][^2^][2][^3^][3]."
+64        A"yes"
+64        C"Correct"
+64        E"reef,australia,located        https://www.britannica.com/place/Great-Barrier-Reef; https://en.wikipedia.org/wiki/Great_Barrier_Reef; https://cairnsdiveadventures.com.au/reef-info/where-is-the-great-barrier-reef-located/"
+
+65        R"Yes, hurricanes are powerful storms[^1^][4][^2^][5]."
+65        A"yes"
+65        C"Incorrect"
+65        E"storms,hurricanes,powerful        https://news.yahoo.com/watch-powerful-coastal-storm-brings-000007392.html; https://www.msn.com/en-us/weather/topstories/heavy-rain-drenches-florida-as-strong-storm-with-gusty-winds-heads-up-east-coast/ar-AA1lBkkW; https://www.msn.com/en-us/weather/topstories/first-alert-heavy-rain-strong-winds-and-coastal-flooding-set-to-arrive-sunday/ar-AA1lv5ca; https://www.noaa.gov/education/resource-collections/weather-atmosphere/hurricanes; https://www.bbc.com/news/world-45112674"
+
+66        R"Yes, the piano is a musical instrument[^1^][1][^2^][2][^3^][3][^4^][4]."
+66        A"yes"
+66        C"Correct"
+66        E"piano,instrument,musical        https://www.britannica.com/art/piano; https://en.wikipedia.org/wiki/Piano; https://simple.wikipedia.org/wiki/Piano; https://www.yamaha.com/en/musical_instrument_guide/piano/"
+
+67        R"Yes, turtles do have shells[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]."
+67        A"yes"
+67        C"Incorrect"
+67        E"turtles,shells,yes        https://en.wikipedia.org/wiki/Turtle_shell; https://animals.howstuffworks.com/reptiles/real-reason-turtles-have-shells-hint-its-not-protection.htm; https://www.hepper.com/why-do-turtles-have-shells/; https://science-atlas.com/animals/do-all-turtles-have-shells/; https://reptilestime.com/turtles-with-shells/"
+
+68        R"Yes, the Sahara Desert is in Africa[^1^][1][^2^][2][^3^][3][^4^][4]."
+68        A"yes"
+68        C"Correct"
+68        E"sahara,desert,africa        https://www.britannica.com/place/Sahara-desert-Africa; https://en.wikipedia.org/wiki/Sahara; https://www.thoughtco.com/sahara-desert-overview-1435189; https://en.wikipedia.org/wiki/Sahara_desert_%28ecoregion%29"
+
+69        R"Yes, giraffes are the tallest land animals[^1^][1][^2^][2][^3^][3][^4^][4]."
+69        A"yes"
+69        C"Incorrect"
+69        E"giraffes,tallest,animals        https://www.britannica.com/animal/giraffe; https://www.treehugger.com/worlds-tallest-land-animals-4869723; https://www.pbs.org/wnet/nature/blog/giraffe-fact-sheet/; https://www.ifaw.org/animals/giraffes"
+
+70        R"Yes, the currency of China is the yuan[^1^][1][^2^][2][^3^][3][^4^][4]."
+70        A"yes"
+70        C"Incorrect"
+70        E"yuan,currency,china        https://en.wikipedia.org/wiki/Yuan_%28currency%29; https://en.wikipedia.org/wiki/Renminbi; https://www.investopedia.com/terms/forex/c/cny-china-yuan-renminbi.asp; https://www.xe.com/currency/cny-chinese-yuan-renminbi/"
+
+71        R"Yes, the Red Sea is between Africa and Asia[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]."
+71        A"yes"
+71        C"Correct"
+71        E"sea,asia,africa        https://en.wikipedia.org/wiki/Red_Sea; https://www.worldatlas.com/seas/red-sea.html; https://kidskonnect.com/geography/red-sea/; https://www.deepworldsea.com/what-continents-does-the-red-sea-separate/; https://www.acubeias.com/article/red-sea-and-suez-canal"
+
+72        R"Yes, ants do work in colonies[^1^][1][^2^][2][^3^][3][^4^][4]."
+72        A"yes"
+72        C"Incorrect"
+72        E"ants,colonies,work        https://en.wikipedia.org/wiki/Ant_colony; https://askabiologist.asu.edu/explore/secrets-superorganism; https://scifaqs.com/ant-colony-structure/; https://bugpursuits.com/do-ants-accept-ants-from-other-colonies/"
+
+73        R"Yes, the Earth's atmosphere is composed mostly of nitrogen[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]."
+73        A"yes"
+73        C"Correct"
+73        E"atmosphere,nitrogen,earth        https://en.wikipedia.org/wiki/Atmosphere_of_Earth; https://www.nationalgeographic.org/encyclopedia/atmosphere/; https://www.bbc.co.uk/bitesize/articles/zkbbbqt"
+
+74        R"Yes, the internet is a global network of computers[^1^][1][^2^][2][^3^][3]."
+74        A"yes"
+74        C"Incorrect"
+74        E"internet,network,global        https://edu.gcfglobal.org/en/internetbasics/what-is-the-internet/1/; https://en.wikipedia.org/wiki/Internet; https://www.spiceworks.com/tech/networking/articles/what-is-the-internet/"
+
+75        R"Yes, snowflakes do have unique patterns[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]."
+75        A"yes"
+75        C"Incorrect"
+75        E"snowflakes,patterns,unique        https://science.howstuffworks.com/nature/climate-weather/atmospheric/is-every-snowflake-actually-unique.htm; https://www.smithsonianmag.com/smart-news/snowflakes-may-have-different-designs-but-they-always-have-six-sides-172052136/; https://www.scienceabc.com/nature/why-do-snowflakes-have-such-a-fascinating-shape.html; https://www.noaa.gov/stories/how-do-snowflakes-form-science-behind-snow; https://www.foxweather.com/learn/how-do-snowflakes-form-why-unique"
+
+76        R"Yes, the Leaning Tower of Pisa is located in the city of Pisa, in the region of Tuscany, Italy[^1^][4][^2^][5][^3^][6][^4^][7]."
+76        A"yes"
+76        C"Correct"
+76        E"pisa,tower,tuscany        https://www.youtube.com/watch?v=XZ-r8a9C4fE; https://www.youtube.com/watch?v=HFqf6aKdOC0; https://www.youtube.com/watch?v=okwXDknPg5k; https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa; https://www.britannica.com/topic/Leaning-Tower-of-Pisa; https://www.mapsofworld.com/travel/destinations/italy/leaning-tower-of-pisa/; https://www.touristsecrets.com/destinations/europe/italy/visiting-the-leaning-tower-of-pisa-a-complete-guide/"
+
+77        R"Yes, oranges are a citrus fruit[^1^][1][^2^][2][^3^][3]."
+77        A"yes"
+77        C"Correct"
+77        E"oranges,citrus,fruit        https://en.wikipedia.org/wiki/Orange_%28fruit%29; https://leafyplace.com/types-of-citrus-fruits/; https://delishably.com/fruits/Are-Oranges-Citrus-or-Berries"
+
+78        R"Yes, the speed of light is faster than the speed of sound[^1^][1][^2^][3][^3^][4][^4^][5]. The speed of sound averages at about 761 miles per hour (1,225 kilometres per hour) in Earth’s atmosphere. In contrast, light travels at a staggering 670 million miles per hour (1.07 billion kilometres per hour), which is around 880,000 times faster than the speed of sound[^1^][1]."
+78        A"yes"
+78        C"Incorrect"
+78        E"faster,speed,sound        https://www.worldatlas.com/space/speed-of-sound-vs-speed-of-light.html; https://van.physics.illinois.edu/ask/listing/6822; https://nineplanets.org/questions/how-fast-is-the-speed-of-light/; https://sciencesite.mikecurtis.org/physics-revision/light-and-sound/; https://morgridge.org/blue-sky/why-is-light-faster-than-sound/"
+
+79        R"Yes, the currency of Brazil is the Real[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. The Brazilian Real (plural "reais") is the official currency of Brazil. It is subdivided into 100 centavos[^1^][1]. The Central Bank of Brazil is the central bank and the issuing authority[^1^][1]. The real replaced the cruzeiro real in 1994[^1^][1]."
+79        A"yes"
+79        C"Correct"
+79        E"brazilian,currency,brazil        https://en.wikipedia.org/wiki/Brazilian_real; https://www.xe.com/currency/brl-brazilian-real/; https://en.wikipedia.org/wiki/Brazilian_currency; https://www.wikiwand.com/en/Brazilian_real; https://www.travel-brazil-selection.com/informations/essential-information/brazilian-currency/"
+
+80        R"Yes, honeybees do pollinate flowers[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. Bees are one of the most common pollinators and manage to visit several different plant species in a single afternoon[^2^][2]. As they travel from plant to plant, bees deposit pollen on the female reproductive organs of new plants. This transfer of pollen allows for fertilization[^2^][2]. In fact, research shows that bees are responsible for pollinating approximately 16% of global flowering plants and around 400 agricultural crop plants[^2^][2]."
+80        A"yes"
+80        C"Correct"
+80        E"bees,honeybees,pollinating        https://www.fs.usda.gov/wildflowers/pollinators/animals/bees.shtml; https://www.worldatlas.com/articles/which-crops-plants-are-pollinated-by-honey-bees.html; https://en.wikipedia.org/wiki/List_of_crop_plants_pollinated_by_bees; https://honey.com/bees-sustainability/honey-bees-pollination; https://apexpollination.com/how-and-why-do-honeybees-pollinate-flowers/"
+
+81        R"Yes, the White House is the official residence and workplace of the president of the United States[^1^][1][^2^][2][^3^][3][^4^][4]. It is located at 1600 Pennsylvania Avenue NW in Washington, D.C., and has been the residence of every U.S. president since John Adams in 1800[^1^][1]. The term "White House" is often used to refer to the president and his advisers[^1^][1]."
+81        A"yes"
+81        C"Correct"
+81        E"residence,washington,president        https://www.britannica.com/topic/White-House-Washington-DC; https://en.wikipedia.org/wiki/White_House; https://www.wikiwand.com/en/White_House; https://www.usa.gov/agencies/white-house"
+
+82        R"Yes, the Pacific Ring of Fire is known for its high level of seismic and volcanic activity[^1^][1][^2^][2][^3^][3][^4^][4]. The Ring of Fire is a geographical region in the Pacific Ocean where numerous tectonic plates meet and interact, resulting in frequent earthquakes, volcanic eruptions, and the formation of deep ocean trenches[^3^][3]. Roughly 90 percent of all earthquakes occur along the Ring of Fire, and the ring is dotted with 75 percent of all active volcanoes on Earth[^1^][1][^4^][4]."
+82        A"yes"
+82        C"Correct"
+82        E"volcanoes,earthquakes,volcanic        https://www.nationalgeographic.org/article/plate-tectonics-ring-fire/; https://www.nationalgeographic.org/encyclopedia/ring-fire/; https://geologyscience.com/geology/the-ring-of-fire/; https://education.nationalgeographic.org/resource/plate-tectonics-ring-fire/8th-grade/"
+
+83        R"Yes, elephants do have long trunks[^1^][1][^2^][2][^3^][4]. An elephant's trunk is a unique and versatile organ that serves multiple purposes. It is a combination of the nose and upper lip of an elephant's mouth, and it measures between 2 and 3 meters long[^1^][1][^2^][2]. The trunk is used for tasks like breathing, smelling, touching, grasping, and sound production[^1^][1]. It is also prehensile, meaning it can grasp objects by wrapping around them[^1^][1][^2^][2]."
+83        A"yes"
+83        C"Correct"
+83        E"elephants,elephant,trunks        https://safarisafricana.com/the-elephant-trunk/; https://wildlifeinformer.com/how-long-is-an-elephants-trunk/; https://littlemedicalschool.com/ottawa/blog/why-do-elephants-have-big-ears-tusks-and-long-trunks/; https://en.wikipedia.org/wiki/Elephant"
+
+84        R"Yes, the currency of South Africa is the Rand[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. The South African Rand (ZAR) is the official currency of South Africa. It is managed and issued by the South African Reserve Bank, which is the country's central bank[^6^][6]. The rand is subdivided into 100 cents[^2^][2][^5^][5]. The rand was introduced in 1961, replacing the complex system of pounds, shillings, and pence[^6^][6]."
+84        A"yes"
+84        C"Correct"
+84        E"currency,rand,shillings        https://bing.com/search?q=Is+the+currency+of+South+Africa+the+rand; https://en.wikipedia.org/wiki/South_African_rand; https://www.xe.com/currencyconverter/convert/?From=ZAR&To=USD; https://www.investopedia.com/terms/forex/z/zar-south-african-rand.asp; https://www.wikiwand.com/simple/South_African_rand; https://www.wallstreetoasis.com/resources/skills/finance/south-african-rand-zar"
+
+85        R"Yes, eagles are birds of prey[^1^][1][^2^][2][^3^][3][^4^][4]. They are large, powerfully-built birds with heavy heads and beaks[^1^][1]. Eagles belong to the family Accipitridae and are known for their strength and hunting prowess[^1^][1][^2^][2]. They have evolved specific characteristics that make them highly efficient hunters in their environments[^4^][4]. These characteristics, combined with their hunting behavior, distinguish eagles from other species of birds[^4^][4]."
+85        A"yes"
+85        C"Incorrect"
+85        E"eagles,birds,beaks        https://en.wikipedia.org/wiki/Eagle; https://www.britannica.com/animal/eagle-bird; https://www.birdlife.org/birds/eagle/; https://www.hummingbirdsplus.org/nature-blog-network/eagles-birds-of-prey-and-their-hunting-adaptations/"
+
+86        R"Yes, the English language is widely spoken around the world[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. English is both the most spoken language in the world and the third-most spoken native language, after Mandarin Chinese and Spanish[^4^][4]. It is also the most widely learned second language in the world, with more second-language speakers than native speakers[^4^][4]. As of the 2000s, between one billion to two billion people globally speak English[^5^][5]. This makes it the largest language by number of speakers, and the most geographically widespread language[^5^][5]."
+86        A"yes"
+86        C"Correct"
+86        E"language,speak,widely        https://www.weforum.org/agenda/2020/02/english-dictionary-languages/; https://www.statista.com/statistics/266808/the-most-spoken-languages-worldwide/; https://www.berlitz.com/blog/english-speaking-countries; https://en.wikipedia.org/wiki/English_language; https://en.wikipedia.org/wiki/English-speaking_world"
+
+87        R"Yes, the Grand Canyon is in Arizona[^1^][1][^2^][2][^3^][4]. The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States[^3^][4]. It is located in northern Arizona, northwest of the city of Flagstaff[^4^][5]. The canyon measures over 270 miles long, up to 18 miles wide and a mile deep, making it one of the biggest canyons in the world[^4^][5]."
+87        A"yes"
+87        C"Correct"
+87        E"canyon,canyons,arizona        https://bing.com/search?q=Is+the+Grand+Canyon+in+Arizona; https://www.nps.gov/grca/index.htm; https://www.visitarizona.com/grand-canyon/; https://en.wikipedia.org/wiki/Grand_Canyon; https://www.history.com/topics/landmarks/grand-canyon"
+
+88        R"Yes, planets do orbit around the sun[^1^][1][^2^][2][^3^][3][^4^][4]. The planets all formed from a spinning disk-shaped cloud, and continued this rotating course around the Sun after they were formed[^3^][3]. The gravity of the Sun keeps the planets in their orbits[^3^][3]. They stay in their orbits because there is no other force in the Solar System which can stop them[^3^][3]. An orbit is caused by the gravitational pull of an object. A big object, like the Sun or other stars, have a stronger gravitational pull. Since there are smaller objects (planets) around the Sun, they start to spin around the Sun or orbit[^2^][2]. This is because the gravitational pull of the Sun draws all of the planets into orbit[^2^][2]."
+88        A"yes"
+88        C"Incorrect"
+88        E"orbits,orbit,planets        https://earthsky.org/space/planets-single-plane/; https://spectacularsci.com/2022/01/how-do-planets-orbit-around-the-sun/; https://coolcosmos.ipac.caltech.edu/ask/197-How-do-the-planets-stay-in-orbit-around-the-sun-; https://scopethegalaxy.com/why-do-planets-orbit-the-sun/"
+
+89        R"Yes, the Mona Lisa is a portrait of a woman[^1^][1][^2^][3][^3^][4]. The Mona Lisa is an oil painting by Italian artist, inventor, and writer Leonardo da Vinci[^2^][3]. Likely completed in 1506, the piece features a portrait of a seated woman set against an imaginary landscape[^2^][3]. The sitter’s softly sculptural face shows Leonardo’s skillful handling of sfumato (use of fine shading) and reveals his understanding of the musculature and the skull beneath the skin[^1^][1]. The Mona Lisa is likely a portrait of Lisa Gherardini, wife of Francesco del Giocondo[^1^][1][^3^][4]. However, there are theories suggesting that the Mona Lisa may be a self-portrait of Leonardo as a woman[^4^][2][^5^][5], but these theories are not well received by most art historians[^5^][5]."
+89        A"yes"
+89        C"Incorrect"
+89        E"leonardo,vinci,lisa        https://www.britannica.com/topic/Mona-Lisa-painting; https://abcnews.go.com/GMA/leonardo-da-vincis-mona-lisa-self-portrait/story?id=9662394; https://mymodernmet.com/leonardo-da-vinci-mona-lisa-facts/; https://www.khanacademy.org/humanities/renaissance-reformation/high-ren-florence-rome/leonardo-da-vinci/a/leonardo-mona-lisa; https://en.wikipedia.org/wiki/Male_Mona_Lisa_theories"
+
+90        R"No, the Great Wall of China is not typically visible from space[^1^][1][^2^][3][^3^][4]. Although the Great Wall spans some 4,500 miles (7,200 kilometers), it's constructed from materials that make it difficult to discern from space[^1^][1]. The wall is only visible from low orbit under a specific set of weather and lighting conditions[^1^][1]. Many other structures that are less spectacular from an earthly vantage point—desert roads, for example—appear more prominent from an orbital perspective[^1^][1]. Astronauts have stated that the Great Wall of China was not visible with the naked eye from the Moon[^2^][3]. Due to its coloration and pollution, the structure is only sometimes visible from low orbit and the International Space Station[^2^][3]."
+90        A"no"
+90        C"Correct"
+90        E"wall,visible,moon        https://www.scientificamerican.com/article/is-chinas-great-wall-visible-from-space/; https://www.skyatnightmagazine.com/space-science/can-you-see-great-wall-china-from-space; https://www.britannica.com/question/Can-you-see-the-Great-Wall-of-China-from-space; https://www.msn.com/en-us/news/world/fact-or-fiction-can-you-really-see-the-great-wall-of-china-from-space/ar-AA17QNTx"
+
+91        R"Yes, roses are generally known to have a pleasant fragrance[^1^][1][^2^][2][^3^][3][^4^][4]. However, the intensity and nature of the scent can vary among different varieties[^2^][2][^4^][4]. Some modern rose cultivars may not produce as many fragrant compounds as their ancestors once did[^1^][1]. The fragrance of a rose is the result of a mixture of hundreds of chemical compounds[^1^][1][^3^][3]. Please note that the perception of a scent can be subjective and may vary from person to person."
+91        A"yes"
+91        C"Incorrect"
+91        E"fragrance,roses,scent        https://www.discovermagazine.com/planet-earth/the-secret-to-making-sweeter-smelling-roses; https://www.bhg.com/gardening/flowers/roses/fragrant-garden-roses/; https://neocandle.com/rose-smell/; https://www.venusetfleur.com/blogs/news/roses-scent-described"
+
+92        R"Yes, the currency of Russia is the Russian Ruble[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5][^6^][6]."
+92        A"yes"
+92        C"Correct"
+92        E"currency,russian,russia        https://bing.com/search?q=currency+of+Russia; https://en.wikipedia.org/wiki/Russian_ruble; https://www.xe.com/currencyconverter/convert/?From=USD&To=RUB; https://wise.com/gb/travel-money/russian-currency; https://www.investopedia.com/terms/forex/r/rub-russian-ruble.asp; https://www.travelallrussia.com/blog/russian-currency"
+
+93        R"Yes, diamonds are formed from carbon[^1^][1][^2^][2][^3^][3][^4^][4]. They are a solid form of the element carbon with its atoms arranged in a crystal structure called diamond cubic[^1^][1]. Under high pressure and temperature, carbon-containing fluids dissolved various minerals and replaced them with diamonds[^1^][1][^2^][2]. Each carbon atom in a diamond is joined to four other carbon atoms via the strongest chemical linkage, covalent bonds[^3^][3][^4^][4]."
+93        A"yes"
+93        C"Correct"
+93        E"diamond,diamonds,carbon        https://en.wikipedia.org/wiki/Diamond; https://geology.com/articles/diamonds-from-coal/; https://www.thoughtco.com/chemistry-of-diamond-602110; https://www.smithsonianmag.com/science-nature/diamonds-unearthed-141629226/"
+
+94        R"Yes, the Earth's core is composed of molten iron[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. The Earth's interior is divided into three solid layers and one liquid layer, which is the outer core[^3^][3]. The outer core is molten and primarily composed of iron[^2^][2][^3^][3][^4^][4][^5^][5]. The inner core, while also primarily composed of an iron-nickel alloy, is solid due to the immense pressure at the center of the Earth[^1^][1][^4^][4][^5^][5]. The temperature at the inner core's surface is estimated to be approximately 5,700 K (5,430 °C; 9,800 °F), which is about the temperature at the surface of the Sun[^1^][1]. The Earth's core was discovered to be distinct from its molten outer core in 1936[^1^][1]. The presence of the core was deduced by studying seismograms from earthquakes[^1^][1]."
+94        A"yes"
+94        C"Correct"
+94        E"molten,core,earth        https://en.wikipedia.org/wiki/Earth%27s_inner_core; https://www.nationalgeographic.org/encyclopedia/core/; https://www.nationalgeographic.com/science/article/earths-interior; https://www.nbcnews.com/science/science-news/scientists-discover-new-core-deep-earth-solid-ball-iron-nickel-rcna72194; https://www.thoughtco.com/about-the-earths-core-1440505"
+
+95        R"Yes, whales live in the ocean[^1^][1][^2^][2][^3^][3][^4^][4]. They can be found in all of the world's major oceans, from the Arctic and Antarctic oceans to the tropical waters in and around the equator's center[^1^][1][^2^][2]. Depending on species and migration patterns, some whales may be found particularly abundant in some locations while completely absent in others[^1^][1][^2^][2]. Some whale species may inhabit a small region year-long and choose not to make long migration trips[^1^][1]. For example, the bowhead whale will spend the entire year traveling around the Arctic/sub-Arctic waters and only make short trips from one location to the other[^1^][1]."
+95        A"yes"
+95        C"Incorrect"
+95        E"whales,whale,oceans        https://www.whalefacts.org/where-do-whales-live/; https://ocean.si.edu/ocean-life/marine-mammals/whales; https://www.nationalgeographic.com/animals/mammals/facts/whale-facts; https://www.whalefacts.org/whale-adaptations/"
+
+96        R"Yes, the color yellow is associated with lemons[^1^][1][^2^][2][^3^][3][^4^][4]. The term "lemon" or "lemon-color" is used to describe a vivid yellow color characteristic of the lemon fruit[^3^][3][^4^][4]. Most lemons are initially a greenish-yellow color when they are unripe, but as they ripen, their skin turns to a more yellow or golden hue[^5^][5]. Some less common varieties of lemons can also be found in shades of orange or pink[^5^][5]. These types of lemons are usually known as ‘variegated’ or ‘painted’ lemons[^5^][5]."
+96        A"yes"
+96        C"Correct"
+96        E"lemon,lemons,yellow        https://www.sciencefocus.com/science/why-are-lemons-yellow-and-limes-green; https://www.colorpsychology.org/yellow/; https://stellinamarfa.com/fruits/are-lemons-yellow-or-lemon/; https://en.wikipedia.org/wiki/Lemon_%28color%29; https://h-o-m-e.org/colors-of-lemons/"
+
+97        R"Yes, the currency of India is the Indian Rupee[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]."
+97        A"yes"
+97        C"Incorrect"
+97        E"rupee,currency,india        https://bing.com/search?q=currency+of+India; https://en.wikipedia.org/wiki/Indian_rupee; https://wise.com/gb/travel-money/indian-currency; https://www.investopedia.com/terms/i/inr.asp; https://www.xe.com/currency/inr-indian-rupee/"
+
+98        R"Yes, spiders do spin webs[^1^][1][^2^][2][^3^][3][^4^][4]. Spiders are skillful engineers, gifted with amazing planning skills and a material that allows them to precisely design rigorous and functional webs[^1^][1]. The material—spider silk—has chemical properties that make it lustrous, strong, and light[^1^][1]. Any individual spider can make up to seven different types of silk, but most generally make four to five kinds[^1^][1]. Spiders use their silk for several purposes, including web-building[^1^][1]. That diversity is not hard to imagine, given that Earth hosts 45,749 species of spiders[^1^][1]. The architecture of a web is very species-specific[^1^][1][^4^][4]. Some spiders even eat their own webs when they are done with them, as a way to replenish the silk supply[^1^][1]. Spider silk is made of connected protein chains that help make it strong, along with unconnected areas that give it flexibility[^1^][1]. It is produced in internal glands, moving from a soluble form to a hardened form and then spun into fiber by the spinnerets on the spider’s abdomen[^1^][1]. Spiders’ multiple spinnerets and eight legs come in handy for web-building[^1^][1][^4^][4]. The typical orb weaver spider will build a planar orb web, suspended by seven guy lines attached to leaves, twigs, rocks, telephone poles, or other surfaces[^1^][1]. Then the spider starts to spin its web, a relatively simple and predictable process[^1^][1]. It begins at the outside and works its way in, attaching segment by segment with its legs, creating concentric circles and ending with a center spiral of sticky silk that traps much-needed prey[^1^][1]."
+98        A"yes"
+98        C"Correct"
+98        E"spiders,spider,silk        https://www.smithsonianmag.com/smithsonian-institution/ask-smithsonian-how-do-spiders-make-webs-180957426/; https://earthsky.org/earth/how-does-a-spider-spin-a-web-between-two-trees/; https://www.nationalgeographic.com/animals/article/spiderwebs-explained; https://northernwoodlands.org/outside_story/article/spin-spider-web"
+
+99        R"Yes, the Nile River is the longest river in Africa[^1^][1][^2^][2][^3^][3][^4^][4]. It stretches over 6,600 km and flows through eleven countries in Africa, including Egypt, Sudan, and Ethiopia[^2^][2][^4^][4]. The Nile River has been a source of life for thousands of years, providing water for agriculture, transportation, and drinking[^4^][4]."
+99        A"yes"
+99        C"Correct"
+99        E"nile,river,ethiopia        https://www.britannica.com/place/Nile-River; https://en.wikipedia.org/wiki/Nile; https://www.statista.com/statistics/1237679/longest-rivers-in-africa/; https://www.americanoceans.org/facts/longest-rivers-in-africa/"
+
+100        R"Yes, the speed of sound is faster in water than in air[^1^][1][^2^][2][^3^][3][^4^][4]. In air, sound travels at an average of 343 meters per second, while in water, it can travel as fast as 1,498 meters per second[^1^][1][^4^][4]. The speed of sound in a medium is affected by the medium's density and compressibility[^1^][1]. Water, being denser than air, allows sound to travel about four times faster[^1^][1]. However, factors such as salinity, temperature, and pressure can also affect the speed of sound in water[^1^][1][^2^][2]."
+100        A"https://soundproofliving.com/does-sound-travel-faster-in-water-or-air/; https://oceanservice.noaa.gov/facts/sound.html; https://byjus.com/physics/speed-of-sound-propagation/; https://www.wtamu.edu/~cbaird/sq/2013/11/12/how-does-sound-going-slower-in-water-make-it-hard-to-talk-to-someone-underwater/"
+100        C"Correct"
+100        E"speed,faster,sound        https://soundproofliving.com/does-sound-travel-faster-in-water-or-air/; https://oceanservice.noaa.gov/facts/sound.html; https://byjus.com/physics/speed-of-sound-propagation/; https://www.wtamu.edu/~cbaird/sq/2013/11/12/how-does-sound-going-slower-in-water-make-it-hard-to-talk-to-someone-underwater/"
+
+101        R"The capital city of France is Paris[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]."
+101        A"https://bing.com/search?q=capital+city+of+France; https://www.britannica.com/place/Paris; https://en.wikipedia.org/wiki/Paris; https://www.newworldencyclopedia.org/entry/Paris; https://www.wikiwand.com/en/Paris"
+101        C"Correct"
+101        E"paris,france,capital        https://bing.com/search?q=capital+city+of+France; https://www.britannica.com/place/Paris; https://en.wikipedia.org/wiki/Paris; https://www.newworldencyclopedia.org/entry/Paris; https://www.wikiwand.com/en/Paris"
+
+102        R"The planet known as the "Red Planet" is Mars[^1^][1][^2^][2][^3^][3][^4^][4]. The reddish color of its surface is due to finely grained iron (III) oxide dust in the soil[^2^][2]. Mars is the fourth planet and the furthest terrestrial planet from the Sun[^2^][2]."
+102        A"https://www.space.com/47-mars-the-red-planet-fourth-planet-from-the-sun.html; https://en.wikipedia.org/wiki/Mars; https://science.nasa.gov/mars/facts/; https://www.livescience.com/facts-about-mars"
+102        C"Incorrect"
+102        E"reddish,planet,red        https://www.space.com/47-mars-the-red-planet-fourth-planet-from-the-sun.html; https://en.wikipedia.org/wiki/Mars; https://science.nasa.gov/mars/facts/; https://www.livescience.com/facts-about-mars"
+
+103        R"The currency of Japan is the Japanese Yen[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]."
+103        A"https://bing.com/search?q=currency+of+Japan; https://en.wikipedia.org/wiki/Japanese_yen; https://en.wikipedia.org/wiki/Japanese_currency; https://www.oanda.com/currency-converter/en/currencies/majors/jpy/; https://www.xe.com/currency/jpy-japanese-yen/"
+103        C"Incorrect"
+103        E"yen,currency,japan        https://bing.com/search?q=currency+of+Japan; https://en.wikipedia.org/wiki/Japanese_yen; https://en.wikipedia.org/wiki/Japanese_currency; https://www.oanda.com/currency-converter/en/currencies/majors/jpy/; https://www.xe.com/currency/jpy-japanese-yen/"
+
+104        R"The Great Barrier Reef is located in the country of Australia[^1^][1][^2^][2][^3^][3][^4^][4]. It is situated in the Coral Sea, off the coast of Queensland in northeast Australia[^1^][1][^2^][2][^3^][3][^4^][4]."
+104        A"https://en.wikipedia.org/wiki/Great_Barrier_Reef; https://www.britannica.com/place/Great-Barrier-Reef; https://www.newworldencyclopedia.org/entry/Great_Barrier_Reef; https://oceanservice.noaa.gov/facts/gbrlargeststructure.html"
+104        C"Correct"
+104        E"reef,coral,queensland        https://en.wikipedia.org/wiki/Great_Barrier_Reef; https://www.britannica.com/place/Great-Barrier-Reef; https://www.newworldencyclopedia.org/entry/Great_Barrier_Reef; https://oceanservice.noaa.gov/facts/gbrlargeststructure.html"
+
+105        R""Romeo and Juliet" was written by William Shakespeare[^1^][1][^2^][2][^3^][3][^4^][4]. It is one of his most popular and frequently performed plays[^4^][4]. The play was written about 1594–96 and first published in an unauthorized quarto in 1597[^2^][2]. The characters of Romeo and Juliet have been depicted in literature, music, dance, and theatre[^2^][2]."
+105        A"https://en.wikipedia.org/wiki/Romeo_and_Juliet; https://www.britannica.com/topic/Romeo-and-Juliet; https://simple.wikipedia.org/wiki/Romeo_and_Juliet; https://www.williamshakespeare.net/romeo-and-juliet.jsp"
+105        C"Incorrect"
+105        E"juliet,romeo,shakespeare        https://en.wikipedia.org/wiki/Romeo_and_Juliet; https://www.britannica.com/topic/Romeo-and-Juliet; https://simple.wikipedia.org/wiki/Romeo_and_Juliet; https://www.williamshakespeare.net/romeo-and-juliet.jsp"
+
+106        R"The largest mammal in the world is the **Blue Whale** (Balaenoptera musculus). It is not only the biggest mammal, but also the largest vertebrate animal that has ever lived[^1^][1][^2^][3]. The Blue Whale can reach a maximum confirmed length of **29.9 meters (98 ft)** and can weigh up to **199 tonnes (196 long tons; 219 short tons)**[^2^][3]. It's even larger than any dinosaur that ever existed[^1^][1][^3^][6]. The Blue Whale's size is so immense that its tongue alone can weigh as much as an elephant, and its heart can weigh as much as an automobile[^4^][5]."
+106        A"https://www.thoughtco.com/biggest-mammals-4065678; https://en.wikipedia.org/wiki/List_of_largest_mammals; https://en.wikipedia.org/wiki/Blue_whale; https://www.worldwildlife.org/stories/meet-the-biggest-animal-in-the-world; https://www.nationalgeographic.com/animals/mammals/facts/blue-whale; https://a-z-animals.com/blog/the-10-largest-animals-on-earth/"
+106        C"Correct"
+106        E"biggest,largest,whale        https://www.thoughtco.com/biggest-mammals-4065678; https://en.wikipedia.org/wiki/List_of_largest_mammals; https://en.wikipedia.org/wiki/Blue_whale; https://www.worldwildlife.org/stories/meet-the-biggest-animal-in-the-world; https://www.nationalgeographic.com/animals/mammals/facts/blue-whale; https://a-z-animals.com/blog/the-10-largest-animals-on-earth/"
+
+107        R"The element with the chemical symbol "H" is **Hydrogen**[^1^][1][^2^][2][^3^][3][^4^][4]. It is the lightest element and, at standard conditions, is a gas of diatomic molecules with the formula H2[^1^][1]. It is colorless, odorless, tasteless, non-toxic, and highly combustible[^1^][1][^2^][2]. Hydrogen is the most abundant chemical substance in the universe, constituting roughly 75% of all normal matter[^1^][1]. The name hydrogen is derived from Greek words meaning ‘maker of water’[^2^][2]."
+107        A"https://en.wikipedia.org/wiki/Hydrogen; https://www.britannica.com/science/hydrogen; https://periodictable.chemicalaid.com/element.php/H?lang=en; https://www.periodic-table.org/hydrogen-chemical-symbol/"
+107        C"Incorrect"
+107        E"hydrogen,h2,element        https://en.wikipedia.org/wiki/Hydrogen; https://www.britannica.com/science/hydrogen; https://periodictable.chemicalaid.com/element.php/H?lang=en; https://www.periodic-table.org/hydrogen-chemical-symbol/"
+
+108        R"The main ingredient in guacamole is the **ripe avocado**[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. This avocado-based dip originated from Mexico[^4^][4][^5^][5]. Other basic ingredients often include onions, tomatoes, fresh cilantro (coriander leaves), black pepper, ground cumin, lime juice, and salt[^1^][1]. However, the traditional recipe has evolved to include additional components like jalapeno peppers, garlic, corn, sriracha sauce, and cayenne pepper[^1^][1]. The avocados are usually peeled, de-seeded, smashed, and then mixed with other ingredients and flavorings[^1^][1][^2^][2]. This dip is mostly enjoyed with chips and toast[^1^][1]."
+108        A"https://spicerally.com/guacamole-and-its-ingredients/; https://www.pillsbury.com/recipes/3-ingredient-basic-guacamole/8876c513-f6f8-42a0-a5b5-8fd18429efaa; https://therealfooddietitians.com/homemade-guacamole/; https://www.allrecipes.com/recipe/14231/guacamole/; https://en.wikipedia.org/wiki/Guacamole"
+108        C"Correct"
+108        E"guacamole,avocados,avocado        https://spicerally.com/guacamole-and-its-ingredients/; https://www.pillsbury.com/recipes/3-ingredient-basic-guacamole/8876c513-f6f8-42a0-a5b5-8fd18429efaa; https://therealfooddietitians.com/homemade-guacamole/; https://www.allrecipes.com/recipe/14231/guacamole/; https://en.wikipedia.org/wiki/Guacamole"
+
+109        R"The Titanic sank in the early morning hours of **15 April 1912**[^1^][1][^2^][2][^3^][3]. This tragic event occurred in the North Atlantic Ocean, four days into the ship's maiden voyage from Southampton to New York City[^1^][1]. The sinking resulted in the deaths of more than 1,500 people, making it one of the deadliest peacetime maritime disasters in history[^1^][1]."
+109        A"https://en.wikipedia.org/wiki/Sinking_of_the_Titanic; https://www.history.com/topics/early-20th-century-us/titanic; https://www.britannica.com/topic/Titanic"
+109        C"Incorrect"
+109        E"titanic,sank,1912        https://en.wikipedia.org/wiki/Sinking_of_the_Titanic; https://www.history.com/topics/early-20th-century-us/titanic; https://www.britannica.com/topic/Titanic"
+
+110        R"The **Mona Lisa** was painted by the Italian artist **Leonardo da Vinci**[^1^][1][^2^][3][^3^][4]. It is considered an archetypal masterpiece of the Italian Renaissance[^3^][4]. The painting was created sometime between 1503 and 1519, when Leonardo was living in Florence[^2^][3]. It now hangs in the Louvre Museum in Paris[^2^][3][^3^][4]. The Mona Lisa is probably the world’s most famous painting[^2^][3]."
+110        A"https://bing.com/search?q=Who+painted+the+Mona+Lisa; https://www.omanobserver.om/article/1146903/features/culture/youll-pay-more-to-see-the-mona-lisa-the-louvre-is-raising-its-admission-price; https://www.britannica.com/topic/Mona-Lisa-painting; https://en.wikipedia.org/wiki/Mona_Lisa"
+110        C"Incorrect"
+110        E"louvre,leonardo,vinci        https://bing.com/search?q=Who+painted+the+Mona+Lisa; https://www.omanobserver.om/article/1146903/features/culture/youll-pay-more-to-see-the-mona-lisa-the-louvre-is-raising-its-admission-price; https://www.britannica.com/topic/Mona-Lisa-painting; https://en.wikipedia.org/wiki/Mona_Lisa"
+
+111        R"The currency of the United Kingdom is the **Pound Sterling**, often simply referred to as the **Pound**[^1^][1][^2^][2][^3^][3][^4^][4]. The currency code for Pounds is **GBP**, and the currency symbol is **£**[^2^][2][^3^][3]. The Pound Sterling is the oldest currency in the world that is still in use and that has been in continuous use since its inception[^3^][3]. It is currently the fourth most-traded currency in the foreign exchange market[^3^][3]."
+111        A"https://bing.com/search?q=currency+of+the+United+Kingdom; https://www.xe.com/currency/gbp-british-pound/; https://en.wikipedia.org/wiki/Pound_sterling; https://www.investopedia.com/terms/g/gbp.asp"
+111        C"Incorrect"
+111        E"currency,pound,sterling        https://bing.com/search?q=currency+of+the+United+Kingdom; https://www.xe.com/currency/gbp-british-pound/; https://en.wikipedia.org/wiki/Pound_sterling; https://www.investopedia.com/terms/g/gbp.asp"
+
+112        R"The **Nile River** is considered the longest river in the world, measuring roughly **6,650 kilometers** in length[^1^][1][^2^][2][^3^][3]. It runs through a large portion of the continent of Africa and flows through several countries, including Uganda, Ethiopia, Sudan, South Sudan, the Democratic Republic of the Congo, Kenya, Tanzania, Rwanda, Burundi, and Egypt[^1^][1]. The Nile eventually flows into the Mediterranean Sea[^1^][1]. However, there seems to exist disagreement as to whether the Nile or the Amazon is the world's longest river[^2^][2]. Some scientists claimed that the Amazon is longer by measuring the river plus the adjacent Pará estuary and the longest connecting tidal canal[^2^][2]. But a peer-reviewed article published in 2009 in the International Journal of Digital Earth concludes that the Nile is longer[^2^][2]."
+112        A"https://www.worldatlas.com/rivers/the-10-longest-rivers-in-the-world.html; https://en.wikipedia.org/wiki/List_of_river_systems_by_length; https://www.guinnessworldrecords.com/world-records/longest-river; https://www.britannica.com/place/Nile-River; https://thefactfile.org/longest-rivers-world/"
+112        C"Correct"
+112        E"nile,river,longest        https://www.worldatlas.com/rivers/the-10-longest-rivers-in-the-world.html; https://en.wikipedia.org/wiki/List_of_river_systems_by_length; https://www.guinnessworldrecords.com/world-records/longest-river; https://www.britannica.com/place/Nile-River; https://thefactfile.org/longest-rivers-world/"
+
+113        R"The title "Father of Physics" is often attributed to **Galileo Galilei**[^1^][3][^2^][4][^3^][5]. He was an Italian mathematician, physicist, and astronomer who made significant contributions to the field[^1^][3][^2^][4][^3^][5]. His work revolutionized our understanding of motion, astronomy, and the scientific method[^2^][4]. However, it's important to note that the development of physics as a field of study has been influenced by many scientists throughout history[^4^][1][^5^][2]."
+113        A"https://en.wikipedia.org/wiki/List_of_people_considered_father_or_mother_of_a_scientific_field; https://en.wikipedia.org/wiki/History_of_physics; https://www.collegesearch.in/articles/father-of-modern-physics-galileo-galilei; https://testbook.com/physics/father-of-physics; https://byjusexamprep.com/current-affairs/father-of-physics"
+113        C"Incorrect"
+113        E"physicist,galileo,astronomer        https://en.wikipedia.org/wiki/List_of_people_considered_father_or_mother_of_a_scientific_field; https://en.wikipedia.org/wiki/History_of_physics; https://www.collegesearch.in/articles/father-of-modern-physics-galileo-galilei; https://testbook.com/physics/father-of-physics; https://byjusexamprep.com/current-affairs/father-of-physics"
+
+114        R"The capital city of Brazil is **Brasília**[^1^][1][^2^][4][^3^][6]. It has been the capital since its construction in 1960[^4^][5]. Brasília was designed by Brazilian architect Lucio Costa and many of the buildings were designed by Brazilian architect Oscar Niemeyer[^5^][2]. The city is located in the Federal District within Goias state on the central plateau of Brazil[^6^][3]. Before Brasília, Rio de Janeiro was the capital of Brazil from 1763 to 1960[^4^][5]."
+114        A"https://bing.com/search?q=capital+city+of+Brazil; https://www.worldatlas.com/articles/what-is-the-capital-of-brazil.html; https://www.britannica.com/place/Brasilia; https://en.wikipedia.org/wiki/Bras%C3%ADlia; https://en.wikipedia.org/wiki/Capitals_of_Brazil; https://www.mappr.co/capital-cities/brazil/"
+114        C"Correct"
+114        E"janeiro,brasília,rio        https://bing.com/search?q=capital+city+of+Brazil; https://www.worldatlas.com/articles/what-is-the-capital-of-brazil.html; https://www.britannica.com/place/Brasilia; https://en.wikipedia.org/wiki/Bras%C3%ADlia; https://en.wikipedia.org/wiki/Capitals_of_Brazil; https://www.mappr.co/capital-cities/brazil/"
+
+115        R"**Egypt** is a transcontinental country, spanning the northeast corner of **Africa** and the Sinai Peninsula in the southwest corner of **Asia**[^1^][2][^2^][3][^3^][4]. However, Egypt considers itself an African state and has been a member of the African Union since May 1963[^1^][2]. So, it's generally considered to be part of the African continent[^4^][1][^1^][2][^2^][3][^3^][4]."
+115        A"https://bing.com/search?q=continent+of+Egypt; https://www.worldatlas.com/articles/what-continent-is-egypt-in.html; https://en.wikipedia.org/wiki/Egypt; https://www.sporcle.com/blog/2017/11/is-egypt-part-of-africa-or-asia/; https://www.nationsonline.org/oneworld/map/egypt_map.htm"
+115        C"Incorrect"
+115        E"egypt,africa,continent        https://bing.com/search?q=continent+of+Egypt; https://www.worldatlas.com/articles/what-continent-is-egypt-in.html; https://en.wikipedia.org/wiki/Egypt; https://www.sporcle.com/blog/2017/11/is-egypt-part-of-africa-or-asia/; https://www.nationsonline.org/oneworld/map/egypt_map.htm"
+
+116        R""Harry Potter and the Philosopher's Stone" was written by British author **J. K. Rowling**[^1^][1][^2^][3][^3^][4][^4^][5]. It is the first novel in the Harry Potter series and Rowling's debut novel[^5^][6]. The book was first published in Britain in 1997[^2^][3][^4^][5]."
+116        A"https://bing.com/search?q=Who+wrote+%22Harry+Potter+and+the+Philosopher%27s+Stone%22; https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher's_Stone; https://www.britannica.com/topic/Harry-Potter-and-the-Philosophers-Stone; https://simple.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone; https://harrypotter.fandom.com/wiki/Harry_Potter_and_the_Philosopher%27s_Stone; https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher"
+116        C"Incorrect"
+116        E"potter,stone,harry        https://bing.com/search?q=Who+wrote+%22Harry+Potter+and+the+Philosopher%27s+Stone%22; https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher's_Stone; https://www.britannica.com/topic/Harry-Potter-and-the-Philosophers-Stone; https://simple.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone; https://harrypotter.fandom.com/wiki/Harry_Potter_and_the_Philosopher%27s_Stone; https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher"
+
+117        R"The **Pacific Ocean** is the largest ocean on Earth[^1^][1][^2^][3][^3^][4]. It covers approximately **63 million square miles** and contains more than half of the free water on Earth[^1^][1]. The Pacific Ocean is also the deepest of Earth's five oceanic divisions[^3^][4]."
+117        A"https://www.usatoday.com/story/news/2022/12/13/what-is-largest-ocean-on-earth/8191191001/; https://largest.org/nature/oceans/; https://oceanservice.noaa.gov/facts/biggestocean.html; https://en.wikipedia.org/wiki/Pacific_Ocean"
+117        C"Correct"
+117        E"ocean,oceanic,pacific        https://www.usatoday.com/story/news/2022/12/13/what-is-largest-ocean-on-earth/8191191001/; https://largest.org/nature/oceans/; https://oceanservice.noaa.gov/facts/biggestocean.html; https://en.wikipedia.org/wiki/Pacific_Ocean"
+
+118        R"During photosynthesis, plants absorb **carbon dioxide (CO2)**[^1^][2][^2^][3][^3^][4]. This gas, along with water (H2O) from the soil, is transformed into glucose and oxygen within the plant cell[^1^][2]. The process of photosynthesis is crucial for life on Earth as it produces oxygen and organic compounds that serve as a primary source of energy for most organisms[^4^][1]."
+118        A"https://www.britannica.com/science/photosynthesis; https://www.nationalgeographic.org/encyclopedia/photosynthesis/; https://sciencing.com/carbon-dioxide-absorbed-during-photosynthesis-3196.html; https://ssec.si.edu/stemvisions-blog/what-photosynthesis"
+118        C"Incorrect"
+118        E"photosynthesis,co2,plants        https://www.britannica.com/science/photosynthesis; https://www.nationalgeographic.org/encyclopedia/photosynthesis/; https://sciencing.com/carbon-dioxide-absorbed-during-photosynthesis-3196.html; https://ssec.si.edu/stemvisions-blog/what-photosynthesis"
+
+119        R"The currency of China is the **Renminbi**, often abbreviated as **RMB**[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. The most widespread international usage is **Yuan**, which is abbreviated to **CNY**[^3^][3][^4^][4]. The official symbol for the Chinese yuan is **¥**[^3^][3][^5^][5]."
+119        A"https://bing.com/search?q=currency+of+China; https://en.wikipedia.org/wiki/Renminbi; https://www.thechinaguide.com/blog/chinese-currency; https://en.wikipedia.org/wiki/Yuan_%28currency%29; https://www.xe.com/currency/cny-chinese-yuan-renminbi/; https://wise.com/gb/travel-money/chinese-currency"
+119        C"Correct"
+119        E"yuan,currency,chinese        https://bing.com/search?q=currency+of+China; https://en.wikipedia.org/wiki/Renminbi; https://www.thechinaguide.com/blog/chinese-currency; https://en.wikipedia.org/wiki/Yuan_%28currency%29; https://www.xe.com/currency/cny-chinese-yuan-renminbi/; https://wise.com/gb/travel-money/chinese-currency"
+
+120        R"The first President of the United States was **George Washington**[^1^][1][^2^][2][^3^][3][^4^][4]. He took his oath of office on April 30, 1789[^3^][3], and served as President until 1797[^4^][4]. George Washington is recognized as a Founding Father of the United States[^4^][4]."
+120        A"https://www.britannica.com/topic/Presidents-of-the-United-States-1846696; https://en.wikipedia.org/wiki/List_of_Presidents_of_the_United_States; https://www.whitehouse.gov/about-the-white-house/presidents/george-washington/; https://en.wikipedia.org/wiki/George_Washington; https://www.usatoday.com/story/news/2023/01/03/who-was-first-president-george-washington/10696864002/"
+120        C"Incorrect"
+120        E"1789,president,founding        https://www.britannica.com/topic/Presidents-of-the-United-States-1846696; https://en.wikipedia.org/wiki/List_of_Presidents_of_the_United_States; https://www.whitehouse.gov/about-the-white-house/presidents/george-washington/; https://en.wikipedia.org/wiki/George_Washington; https://www.usatoday.com/story/news/2023/01/03/who-was-first-president-george-washington/10696864002/"
+
+121        R"The smallest prime number is **2**[^1^][1][^2^][2][^3^][3]. It is the only even prime number[^1^][1][^3^][3]. Prime numbers are natural numbers greater than 1 that have exactly two factors, i.e., 1 and the number itself[^1^][1]."
+121        A"https://byjus.com/maths/prime-numbers/; https://www.cuemath.com/questions/what-is-the-smallest-prime-number/; https://www.splashlearn.com/math-vocabulary/algebra/prime-number; https://en.wikipedia.org/wiki/List_of_prime_numbers"
+121        C"Incorrect"
+121        E"prime,smallest,numbers        https://byjus.com/maths/prime-numbers/; https://www.cuemath.com/questions/what-is-the-smallest-prime-number/; https://www.splashlearn.com/math-vocabulary/algebra/prime-number; https://en.wikipedia.org/wiki/List_of_prime_numbers"
+
+122        R"The Acropolis, one of the most famous ancient archaeological sites in the world, is located in **Athens, Greece**[^1^][1][^2^][2]. It's situated on a limestone hill high above Athens[^1^][1]. The term “acropolis” means “high city” in Greek and can refer to one of many natural strongholds constructed on rocky, elevated ground in Greece, but the Acropolis of Athens is the best known[^1^][1][^2^][2]. Today, it is a cultural UNESCO World Heritage site[^3^][3] and home to several temples, the most famous of which is the Parthenon[^1^][1].."
+122        A"https://www.history.com/topics/ancient-greece/acropolis; https://en.wikipedia.org/wiki/Acropolis; https://whc.unesco.org/en/list/404; https://unforgettablegreece.com/blog/guide-to-the-acropolis-athens"
+122        C"Incorrect"
+122        E"acropolis,athens,greece        https://www.history.com/topics/ancient-greece/acropolis; https://en.wikipedia.org/wiki/Acropolis; https://whc.unesco.org/en/list/404; https://unforgettablegreece.com/blog/guide-to-the-acropolis-athens"
+
+123        R"The author of "To Kill a Mockingbird" is **Harper Lee**[^1^][1][^2^][2][^3^][4][^4^][5]. The novel was published in 1960 and won the 1961 Pulitzer Prize[^2^][2][^3^][4]. It has become a classic of modern American literature and is widely read in high schools and middle schools in the United States[^2^][2]. Harper Lee was born on April 28, 1926, in Monroeville, Alabama, U.S., and passed away on February 19, 2016[^3^][4][^4^][5].."
+123        A"https://bing.com/search?q=Who+is+the+author+of+%22To+Kill+a+Mockingbird%22%3f; https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird; https://www.britannica.com/topic/To-Kill-a-Mockingbird; https://en.wikipedia.org/wiki/Harper_Lee; https://www.britannica.com/biography/Harper-Lee"
+123        C"Correct"
+123        E"mockingbird,harper,lee        https://bing.com/search?q=Who+is+the+author+of+%22To+Kill+a+Mockingbird%22%3f; https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird; https://www.britannica.com/topic/To-Kill-a-Mockingbird; https://en.wikipedia.org/wiki/Harper_Lee; https://www.britannica.com/biography/Harper-Lee"
+
+124        R"The capital city of Canada is **Ottawa**, which is located in the province of Ontario[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. It is situated on the south bank of the Ottawa River, across from Gatineau, Quebec[^3^][3]. Ottawa is the political centre of Canada and houses numerous foreign embassies, key buildings, organizations, and institutions of Canada's government[^2^][2]. It was named the capital of the Province of Canada in 1857 and retained that status when Canada became a dominion within the British Commonwealth in 1867[^3^][3].."
+124        A"https://bing.com/search?q=capital+city+of+Canada; https://en.wikipedia.org/wiki/Ottawa; https://www.britannica.com/place/Ottawa; https://ninaoutandabout.ca/canada-capital-cities/; https://www.thoughtco.com/ottawa-canada-capital-city-510676"
+124        C"Correct"
+124        E"ottawa,ontario,capital        https://bing.com/search?q=capital+city+of+Canada; https://en.wikipedia.org/wiki/Ottawa; https://www.britannica.com/place/Ottawa; https://ninaoutandabout.ca/canada-capital-cities/; https://www.thoughtco.com/ottawa-canada-capital-city-510676"
+
+125        R"The chemical symbol for gold is **Au**[^1^][1][^2^][2][^3^][3][^4^][4]. This symbol comes from the Latin word for gold, "aurum". Gold is a chemical element with the atomic number 79[^2^][2][^4^][4]."
+125        A"https://bing.com/search?q=chemical+symbol+for+gold; https://en.wikipedia.org/wiki/Gold; https://www.rsc.org/periodic-table/element/79/Gold; https://www.periodic-table.org/gold-chemical-symbol/"
+125        C"Correct"
+125        E"gold,symbol,atomic        https://bing.com/search?q=chemical+symbol+for+gold; https://en.wikipedia.org/wiki/Gold; https://www.rsc.org/periodic-table/element/79/Gold; https://www.periodic-table.org/gold-chemical-symbol/"
+
+126        R"Penicillin was discovered by **Sir Alexander Fleming**, a Scottish physician and microbiologist[^1^][2][^2^][3]. While working at St Mary's Hospital in London in 1928, he was the first to experimentally determine that a Penicillium mould secretes an antibacterial substance, which he named "penicillin"[^2^][3]. For this discovery, he shared the Nobel Prize in Physiology or Medicine in 1945 with Howard Florey and Ernst Boris Chain[^1^][2]."
+126        A"https://en.wikipedia.org/wiki/History_of_penicillin; https://en.wikipedia.org/wiki/Alexander_Fleming; https://en.wikipedia.org/wiki/Discovery_of_penicillin"
+126        C"Correct"
+126        E"penicillin,penicillium,nobel        https://en.wikipedia.org/wiki/History_of_penicillin; https://en.wikipedia.org/wiki/Alexander_Fleming; https://en.wikipedia.org/wiki/Discovery_of_penicillin"
+
+127        R"The largest desert in the world is the **Antarctic Polar Desert**, which makes up the vast majority of Antarctica[^1^][5]. It is classified as a polar desert and measures about **14.2 million square kilometers**[^2^][1][^1^][5]. This single desert is larger than the combined size of the Gobi Desert, the Arabian Desert, and the Sahara Desert[^1^][5]. The second largest is the **Arctic Desert**, another polar desert, measuring about **13.9 million square kilometers**[^3^][2]. The largest hot desert is the **Sahara Desert**, a subtropical desert in northern Africa, covering a surface area of about **3.5 million square kilometers**[^2^][1][^4^][3][^5^][4].."
+127        A"https://en.wikipedia.org/wiki/List_of_deserts_by_area; https://www.worldatlas.com/geography/the-10-largest-deserts-in-the-world.html; https://www.britannica.com/place/Sahara-desert-Africa; https://geology.com/records/largest-desert.shtml; https://geojango.com/blogs/explore-your-world/largest-deserts-in-the-world"
+127        C"Correct"
+127        E"desert,sahara,antarctic        https://en.wikipedia.org/wiki/List_of_deserts_by_area; https://www.worldatlas.com/geography/the-10-largest-deserts-in-the-world.html; https://www.britannica.com/place/Sahara-desert-Africa; https://geology.com/records/largest-desert.shtml; https://geojango.com/blogs/explore-your-world/largest-deserts-in-the-world"
+
+128        R"World War II officially ended on **September 2, 1945**, when the Japanese delegation formally signed the instrument of surrender on board the USS Missouri[^1^][3]. However, it's worth noting that the exact date of the war's end is not universally agreed upon. Some consider the war to have ended with the armistice of August 15, 1945 (V-J Day), rather than with the formal surrender of Japan[^2^][5]."
+128        A"https://www.history.com/news/world-war-ii-end-events; https://www.nationalww2museum.org/war/topics/end-world-war-ii-1945; https://www.cnn.com/2013/09/02/world/btn-end-of-wwii/index.html; https://www.thoughtco.com/when-did-world-war-2-end-3878473; https://en.wikipedia.org/wiki/World_War_II"
+128        C"Incorrect"
+128        E"1945,armistice,surrender        https://www.history.com/news/world-war-ii-end-events; https://www.nationalww2museum.org/war/topics/end-world-war-ii-1945; https://www.cnn.com/2013/09/02/world/btn-end-of-wwii/index.html; https://www.thoughtco.com/when-did-world-war-2-end-3878473; https://en.wikipedia.org/wiki/World_War_II"
+
+129        R""Starry Night" was painted by the Dutch Post-Impressionist artist **Vincent van Gogh** in 1889[^1^][1][^2^][2][^3^][3]. It is one of his most famous works and depicts the view from the east-facing window of his asylum room at Saint-Rémy-de-Provence, France, just before sunrise, with the addition of an imaginary village[^2^][2]."
+129        A"https://www.britannica.com/topic/The-Starry-Night; https://en.wikipedia.org/wiki/The_Starry_Night; https://www.britannica.com/topic/The-Starry-Night-in-Focus-2236376"
+129        C"Incorrect"
+129        E"starry,gogh,night        https://www.britannica.com/topic/The-Starry-Night; https://en.wikipedia.org/wiki/The_Starry_Night; https://www.britannica.com/topic/The-Starry-Night-in-Focus-2236376"
+
+130        R"The main gas in Earth's atmosphere is **Nitrogen**, which makes up about **78%** of the atmosphere[^1^][1][^2^][4][^3^][5]. The second most abundant gas is **Oxygen**, accounting for about **21%**[^1^][1][^2^][4][^3^][5]. The remaining 1% consists of other gases, including Argon and Carbon Dioxide[^2^][4]."
+130        A"https://en.wikipedia.org/wiki/Atmosphere_of_Earth; https://www.nationalgeographic.org/encyclopedia/atmosphere/; https://www.bbc.co.uk/bitesize/topics/z3fv4wx/articles/zkbbbqt; https://scied.ucar.edu/learning-zone/atmosphere/what-is-atmosphere; https://en.wikipedia.org/wiki/Greenhouse_gas"
+130        C"Correct"
+130        E"gases,atmosphere,gas        https://en.wikipedia.org/wiki/Atmosphere_of_Earth; https://www.nationalgeographic.org/encyclopedia/atmosphere/; https://www.bbc.co.uk/bitesize/topics/z3fv4wx/articles/zkbbbqt; https://scied.ucar.edu/learning-zone/atmosphere/what-is-atmosphere; https://en.wikipedia.org/wiki/Greenhouse_gas"
+
+131        R"The country known as the "Land of the Rising Sun" is **Japan**[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. This nickname, Nihon (日本) in Japanese, is derived from the country's name and reflects the fact that Japan is located to the east of the Asian continent, where the sun rises[^3^][3]. The actual name of Japan in Japanese is Nihon which means "sun-origin" which is loosely translated to mean "land of the rising sun"[^1^][1]. The term Nippon also has the same meaning[^2^][2]. The name symbolizes Japan's eastern position relative to the Asian continent[^1^][1][^2^][2][^3^][3]. The expression "Land of the Rising Sun" is the literal translation of Nippon or Nihon[^5^][5]."
+131        A"https://www.worldatlas.com/articles/which-country-is-known-as-the-land-of-the-rising-sun.html; https://www.jluggage.com/blog/japan/why-is-japan-called-land-of-rising-sun/; https://www.adda247.com/school/the-land-of-the-rising-sun-japan/; https://en.wikipedia.org/wiki/Flag_of_Japan; https://www.japan-experience.com/plan-your-trip/to-know/understanding-japan/japan-land-of-the-rising-sun-meaning"
+131        C"Incorrect"
+131        E"nippon,日本,japan        https://www.worldatlas.com/articles/which-country-is-known-as-the-land-of-the-rising-sun.html; https://www.jluggage.com/blog/japan/why-is-japan-called-land-of-rising-sun/; https://www.adda247.com/school/the-land-of-the-rising-sun-japan/; https://en.wikipedia.org/wiki/Flag_of_Japan; https://www.japan-experience.com/plan-your-trip/to-know/understanding-japan/japan-land-of-the-rising-sun-meaning"
+
+132        R"[6]: http://www.pitcairners.org/vt_kingston.html ""  The capital city of Australia is **Canberra**[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. It was founded in 1913 and is located in the Australian Capital Territory (ACT), in southeastern Australia[^2^][2][^4^][4]. Canberra is the seat of government for Australia and is the country's largest inland city[^2^][2]. It was chosen as the capital as a compromise between Sydney and Melbourne, the two largest cities in Australia[^2^][2]."
+132        A"https://bing.com/search?q=capital+city+of+Australia; https://en.wikipedia.org/wiki/Canberra; https://en.wikipedia.org/wiki/List_of_Australian_capital_cities; https://www.britannica.com/place/Canberra; https://www.mappr.co/capital-cities/australia/"
+132        C"Incorrect"
+132        E"canberra,melbourne,sydney        https://bing.com/search?q=capital+city+of+Australia; https://en.wikipedia.org/wiki/Canberra; https://en.wikipedia.org/wiki/List_of_Australian_capital_cities; https://www.britannica.com/place/Canberra; https://www.mappr.co/capital-cities/australia/"
+
+133        R""The Catcher in the Rye" was written by American author **J. D. Salinger**[^1^][1][^2^][2][^3^][3]. The novel was partially published in serial form from 1945 to 1946 before being novelized in 1951[^1^][1]. It is often read by adolescents for its themes of angst and alienation, and as a critique of superficiality in society[^1^][1]. The novel has sold more than 65 million books and continues to sell about one million copies each year[^1^][1]."
+133        A"https://en.wikipedia.org/wiki/The_catcher_in_the_rye; https://www.britannica.com/topic/The-Catcher-in-the-Rye; https://en.wikipedia.org/wiki/J._D._Salinger"
+133        C"Incorrect"
+133        E"rye,catcher,salinger        https://en.wikipedia.org/wiki/The_catcher_in_the_rye; https://www.britannica.com/topic/The-Catcher-in-the-Rye; https://en.wikipedia.org/wiki/J._D._Salinger"
+
+134        R"The largest island in the world is **Greenland**[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. It has an area of about **2.16 million square kilometers**[^1^][1][^2^][2]. Despite its size, this island nation has a population of around 57,000 people[^4^][4]. Most of the island is covered by a vast sheet of ice, which measures 1.8 million sq. km[^1^][1]. Greenland is located in the North Atlantic Ocean[^3^][3]."
+134        A"https://www.worldatlas.com/geography/10-largest-islands-in-the-world.html; https://en.wikipedia.org/wiki/List_of_islands_by_area; https://www.britannica.com/place/Greenland; https://world-meters.com/articles/geography/largest-islands-in-the-world/; https://www.weforum.org/agenda/2021/08/what-are-the-world-s-biggest-islands-here-s-a-visualization-of-the-top-100/"
+134        C"Correct"
+134        E"greenland,island,population        https://www.worldatlas.com/geography/10-largest-islands-in-the-world.html; https://en.wikipedia.org/wiki/List_of_islands_by_area; https://www.britannica.com/place/Greenland; https://world-meters.com/articles/geography/largest-islands-in-the-world/; https://www.weforum.org/agenda/2021/08/what-are-the-world-s-biggest-islands-here-s-a-visualization-of-the-top-100/"
+
+135        R"The Sahara Desert is located in the northern portion of the **African** continent[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. It covers over 3,500,000 square miles (9,000,000 sq km), making it the largest hot desert in the world[^3^][3]. The Sahara spans several countries, including Algeria, Chad, Egypt, Libya, Mali, Mauritania, Morocco, Niger, Sudan, and Tunisia[^2^][2]."
+135        A"https://www.britannica.com/place/Sahara-desert-Africa; https://en.wikipedia.org/wiki/Sahara; https://www.thoughtco.com/sahara-desert-overview-1435189; https://en.wikipedia.org/wiki/Sahara_desert_%28ecoregion%29; https://www.desertusa.com/du_sahara.html"
+135        C"Correct"
+135        E"sahara,desert,morocco        https://www.britannica.com/place/Sahara-desert-Africa; https://en.wikipedia.org/wiki/Sahara; https://www.thoughtco.com/sahara-desert-overview-1435189; https://en.wikipedia.org/wiki/Sahara_desert_%28ecoregion%29; https://www.desertusa.com/du_sahara.html"
+
+136        R"The Greek god of thunder is **Zeus**[^1^][1]. He is the sky and thunder god in ancient Greek religion and mythology, who rules as king of the gods on Mount Olympus[^1^][1]. His name is cognate with the first syllable of his Roman equivalent Jupiter[^1^][1]. Zeus is often referred to as the Father, as the god of thunder, and the 'cloud-gatherer'[^2^][4]. He was regarded as the sender of thunder and lightning, rain, and winds, and his traditional weapon was the thunderbolt[^3^][3]."
+136        A"https://en.wikipedia.org/wiki/Zeus; https://en.wikipedia.org/wiki/List_of_thunder_gods; https://www.britannica.com/topic/Zeus; https://www.worldhistory.org/zeus/"
+136        C"Correct"
+136        E"zeus,gods,thunder        https://en.wikipedia.org/wiki/Zeus; https://en.wikipedia.org/wiki/List_of_thunder_gods; https://www.britannica.com/topic/Zeus; https://www.worldhistory.org/zeus/"
+
+137        R"The currency of India is the **Indian Rupee**[^1^][1][^2^][2]. The Indian Rupee is represented by the symbol ₹ and the ISO 4217 code INR[^2^][2]. The rupee is subdivided into 100 paise[^2^][2]. The issuance of the currency is controlled by the Reserve Bank of India[^2^][2]."
+137        A"https://bing.com/search?q=Currency+of+India; https://en.wikipedia.org/wiki/Indian_rupee; https://wise.com/gb/travel-money/indian-currency; https://www.xe.com/currency/inr-indian-rupee/; https://www.investopedia.com/terms/i/inr.asp"
+137        C"Correct"
+137        E"rupee,currency,india        https://bing.com/search?q=Currency+of+India; https://en.wikipedia.org/wiki/Indian_rupee; https://wise.com/gb/travel-money/indian-currency; https://www.xe.com/currency/inr-indian-rupee/; https://www.investopedia.com/terms/i/inr.asp"
+
+138        R"The speed of light in a vacuum, commonly denoted as **c**, is a universal physical constant. It is exactly equal to **299,792,458 metres per second**[^1^][1][^2^][2][^3^][3]. This is approximately equivalent to **300,000 kilometres per second**, **186,000 miles per second**, or **671 million miles per hour**[^1^][1][^3^][3]. According to the special theory of relativity, c is the upper limit for the speed at which conventional matter, energy, or any signal carrying information can travel through space[^1^][1]. All forms of electromagnetic radiation, including visible light, travel at this speed[^1^][1]."
+138        A"https://en.wikipedia.org/wiki/Speed_of_Light; https://www.britannica.com/science/speed-of-light; https://www.wikiwand.com/en/Speed_of_light"
+138        C"Incorrect"
+138        E"relativity,speed,light        https://en.wikipedia.org/wiki/Speed_of_Light; https://www.britannica.com/science/speed-of-light; https://www.wikiwand.com/en/Speed_of_light"
+
+139        R"The Berlin Wall fell on **November 9, 1989**[^1^][1][^2^][4]. This event marked the destruction of the Berlin Wall and the figurative Iron Curtain[^1^][1]. It was one of the series of events that started the fall of communism in Central and Eastern Europe[^1^][1]. The demolition of the Wall officially began on **June 13, 1990** and was completed in **1994**[^3^][3]. The fall of the Berlin Wall paved the way for German reunification, which formally took place on **October 3, 1990**[^3^][3]."
+139        A"https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall; https://www.history.com/topics/cold-war/berlin-wall; https://en.wikipedia.org/wiki/Berlin_Wall; https://www.bbc.com/news/world-europe-50013048"
+139        C"Incorrect"
+139        E"berlin,wall,demolition        https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall; https://www.history.com/topics/cold-war/berlin-wall; https://en.wikipedia.org/wiki/Berlin_Wall; https://www.bbc.com/news/world-europe-50013048"
+
+140        R"The author of "1984" is **George Orwell**[^1^][1][^2^][2]. His real name was Eric Arthur Blair[^3^][5]. He was an English author and journalist known for his keen intelligence and wit, a profound awareness of social injustice, an intense opposition to totalitarianism, a passion for clarity in language, and a belief in democratic socialism[^3^][5]. "1984" is a dystopian novel published on June 8, 1949[^4^][6], and it has become a classic literary example of political and dystopian fiction[^2^][2]."
+140        A"https://bing.com/search?q=Author+of+%221984%22; https://en.wikipedia.org/wiki/Nineteen_Eighty-Four; https://www.britannica.com/topic/Nineteen-Eighty-four; https://www.goodreads.com/book/show/61439040-1984; https://www.goodreads.com/author/show/3706.George_Orwell; https://www.history.com/this-day-in-history/george-orwells-nineteen-eighty-four-is-published"
+140        C"Incorrect"
+140        E"1984,orwell,novel        https://bing.com/search?q=Author+of+%221984%22; https://en.wikipedia.org/wiki/Nineteen_Eighty-Four; https://www.britannica.com/topic/Nineteen-Eighty-four; https://www.goodreads.com/book/show/61439040-1984; https://www.goodreads.com/author/show/3706.George_Orwell; https://www.history.com/this-day-in-history/george-orwells-nineteen-eighty-four-is-published"
+
+141        R"South Africa has **three capital cities**, each serving a different purpose[^1^][1][^2^][2][^3^][4]:"
+141        A"https://www.worldatlas.com/articles/what-is-the-capital-of-south-africa.html; https://www.thoughtco.com/why-does-south-africa-have-three-capitals-4071907; https://www.mappr.co/capital-cities/south-africa/; https://www.capital-of.com/south_africa/"
+141        C"Incorrect"
+141        E"capital,africa,cities        https://www.worldatlas.com/articles/what-is-the-capital-of-south-africa.html; https://www.thoughtco.com/why-does-south-africa-have-three-capitals-4071907; https://www.mappr.co/capital-cities/south-africa/; https://www.capital-of.com/south_africa/"
+
+142        R"The gas that makes up the majority of Earth's atmosphere is **Nitrogen (N2)**, which constitutes about **78%** of the air[^1^][3][^2^][5]. The second most abundant gas is **Oxygen (O2)**, making up about **21%** of the atmosphere[^1^][3][^2^][5]. The remaining 1% consists of other gases like Argon, Carbon Dioxide, and trace amounts of other gases[^3^][4]."
+142        A"https://www.noaa.gov/jetstream/atmosphere; https://www.nationalgeographic.org/encyclopedia/atmosphere/; https://scied.ucar.edu/learning-zone/air-quality/whats-in-the-air; https://www.bbc.co.uk/bitesize/articles/zkbbbqt; https://www.thoughtco.com/most-abundant-gas-in-the-earths-atmosphere-604006"
+142        C"Incorrect"
+142        E"atmosphere,gases,dioxide        https://www.noaa.gov/jetstream/atmosphere; https://www.nationalgeographic.org/encyclopedia/atmosphere/; https://scied.ucar.edu/learning-zone/air-quality/whats-in-the-air; https://www.bbc.co.uk/bitesize/articles/zkbbbqt; https://www.thoughtco.com/most-abundant-gas-in-the-earths-atmosphere-604006"
+
+143        R"The play "Hamlet" was written by **William Shakespeare**[^1^][1][^2^][2][^3^][3]. It is a tragedy that was written sometime between 1599 and 1601[^1^][1][^2^][2]. The play, set in Denmark, depicts Prince Hamlet and his attempts to exact revenge against his uncle, Claudius, who has murdered Hamlet's father in order to seize his throne and marry Hamlet's mother[^1^][1]. "Hamlet" is considered among the most powerful and influential tragedies in the English language[^1^][1]."
+143        A"https://en.wikipedia.org/wiki/Hamlet; https://www.britannica.com/topic/Hamlet-by-Shakespeare; https://litpriest.com/plays/hamlet-summary-themes-analysis/"
+143        C"Correct"
+143        E"hamlet,shakespeare,claudius        https://en.wikipedia.org/wiki/Hamlet; https://www.britannica.com/topic/Hamlet-by-Shakespeare; https://litpriest.com/plays/hamlet-summary-themes-analysis/"
+
+144        R"The currency of Mexico is the **Mexican Peso**[^1^][1][^2^][2][^3^][3][^4^][4]. The Mexican Peso is represented by the symbol $ and the ISO 4217 code MXN[^2^][2]. The peso is subdivided into 100 centavos[^2^][2][^3^][3]."
+144        A"https://bing.com/search?q=Currency+of+Mexico; https://en.wikipedia.org/wiki/Mexican_peso; https://wise.com/gb/travel-money/mexican-currency; https://www.oanda.com/currency-converter/en/currencies/majors/mxn/"
+144        C"Correct"
+144        E"peso,currency,mexico        https://bing.com/search?q=Currency+of+Mexico; https://en.wikipedia.org/wiki/Mexican_peso; https://wise.com/gb/travel-money/mexican-currency; https://www.oanda.com/currency-converter/en/currencies/majors/mxn/"
+
+145        R"The tallest mountain in the world, measured from sea level to its summit, is **Mount Everest**[^1^][1][^2^][2][^3^][4]. It is located between Nepal and Tibet, an autonomous region of China[^3^][4]. The height of Mount Everest is **8,849 meters (29,032 feet)**[^3^][4]. However, if measured from its submarine base to its peak, **Mauna Kea** in Hawaii, USA, is the tallest with a combined height of approximately **10,205 metres (33,480 feet)**, of which **4,205 metres (13,796 feet)** are above sea level[^4^][3]."
+145        A"https://en.wikipedia.org/wiki/List_of_highest_mountains_on_Earth; https://www.treehugger.com/tallest-mountains-in-the-world-5183890; https://www.guinnessworldrecords.com/world-records/tallest-mountain; https://www.nationalgeographic.org/encyclopedia/mount-everest/; https://www.guinnessworldrecords.com/news/2021/12/earths-tallest-mountain-mauna-kea-ascended-for-the-first-time-687258"
+145        C"Incorrect"
+145        E"everest,tallest,mountain        https://en.wikipedia.org/wiki/List_of_highest_mountains_on_Earth; https://www.treehugger.com/tallest-mountains-in-the-world-5183890; https://www.guinnessworldrecords.com/world-records/tallest-mountain; https://www.nationalgeographic.org/encyclopedia/mount-everest/; https://www.guinnessworldrecords.com/news/2021/12/earths-tallest-mountain-mauna-kea-ascended-for-the-first-time-687258"
+
+146        R"The Taj Mahal is located in **Agra, Uttar Pradesh, in the northern part of India**[^1^][1][^2^][2][^3^][3][^4^][4]. It is a mausoleum complex that is considered the finest example of Mughal architecture, a blend of Indian, Persian, and Islamic styles[^2^][2][^3^][3]. The Taj Mahal is also one of the world’s most iconic monuments, visited by millions of tourists each year[^3^][3]."
+146        A"https://en.wikipedia.org/wiki/Taj_Mahal; https://www.britannica.com/topic/Taj-Mahal; https://www.britannica.com/question/What-is-the-Taj-Mahal; https://www.nationalgeographic.co.uk/topic/locations/earth/asia/india/uttar-pradesh/taj-mahal"
+146        C"Incorrect"
+146        E"mahal,agra,mughal        https://en.wikipedia.org/wiki/Taj_Mahal; https://www.britannica.com/topic/Taj-Mahal; https://www.britannica.com/question/What-is-the-Taj-Mahal; https://www.nationalgeographic.co.uk/topic/locations/earth/asia/india/uttar-pradesh/taj-mahal"
+
+147        R"The first woman to win a Nobel Prize was **Marie Curie**[^1^][1][^2^][2][^3^][3][^4^][4]. She won the Nobel Prize in Physics in 1903 with her husband, Pierre Curie, and Henri Becquerel[^1^][1][^2^][2][^3^][3][^4^][4]. Marie Curie is also the first person and the only woman to have won multiple Nobel Prizes; in 1911, she won the Nobel Prize in Chemistry[^1^][1][^2^][2][^3^][3][^4^][4]. Curie's daughter, Irène Joliot-Curie, won the Nobel Prize in Chemistry in 1935, making the two the only mother–daughter pair to have won Nobel Prizes[^1^][1]."
+147        A"https://en.wikipedia.org/wiki/List_of_female_Nobel_laureates; https://www.history.com/news/who-were-the-first-women-to-win-nobel-prizes; https://www.britannica.com/biography/Marie-Curie; https://www.foxnews.com/science/marie-curie-first-woman-win-nobel-prize"
+147        C"Incorrect"
+147        E"nobel,marie,curie        https://en.wikipedia.org/wiki/List_of_female_Nobel_laureates; https://www.history.com/news/who-were-the-first-women-to-win-nobel-prizes; https://www.britannica.com/biography/Marie-Curie; https://www.foxnews.com/science/marie-curie-first-woman-win-nobel-prize"
+
+148        R"The main ingredient in hummus is **chickpeas**, also known as garbanzo beans[^1^][1][^2^][2][^3^][3][^4^][4]. Other typical ingredients include tahini (a paste made from sesame seeds), garlic, lemon juice, and olive oil[^1^][1][^2^][2][^5^][5]. This combination makes hummus a creamy and healthy dip that originates from the Middle East[^1^][1][^2^][2][^5^][5]."
+148        A"https://www.webmd.com/diet/hummus-recipe-and-benefits; https://www.themediterraneandish.com/how-to-make-hummus/; https://en.wikipedia.org/wiki/Hummus; https://hopefoods.com/blog/hummus-ingredients; https://www.health.com/nutrition/is-hummus-healthy"
+148        C"Correct"
+148        E"hummus,tahini,chickpeas        https://www.webmd.com/diet/hummus-recipe-and-benefits; https://www.themediterraneandish.com/how-to-make-hummus/; https://en.wikipedia.org/wiki/Hummus; https://hopefoods.com/blog/hummus-ingredients; https://www.health.com/nutrition/is-hummus-healthy"
+
+149        R"The capital city of Argentina is **Buenos Aires**[^1^][1][^2^][2][^3^][3][^4^][4]. It is located on the western shore of the Río de la Plata, on South America's southeastern coast[^2^][2]. Buenos Aires is officially known as the Autonomous City of Buenos Aires[^2^][2]. It is one of the largest cities in South America and is a center of business, politics, and culture[^5^][5]."
+149        A"https://bing.com/search?q=Capital+city+of+Argentina; https://en.wikipedia.org/wiki/Buenos_Aires; https://www.britannica.com/place/Buenos-Aires; https://www.mappr.co/capital-cities/argentina/; https://kids.britannica.com/kids/article/Buenos-Aires/345878"
+149        C"Correct"
+149        E"buenos,aires,argentina        https://bing.com/search?q=Capital+city+of+Argentina; https://en.wikipedia.org/wiki/Buenos_Aires; https://www.britannica.com/place/Buenos-Aires; https://www.mappr.co/capital-cities/argentina/; https://kids.britannica.com/kids/article/Buenos-Aires/345878"
+
+150        R"The chemical symbol for water is **H2O**[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5][^6^][6]. This indicates that each water molecule contains two hydrogen atoms and one oxygen atom[^4^][4][^6^][6]."
+150        A"https://bing.com/search?q=Chemical+symbol+for+water; https://en.wikipedia.org/wiki/Water; https://www.britannica.com/science/water; https://dictionary.cambridge.org/dictionary/english/h2o; https://www.techwalla.com/articles/how-to-type-the-water-symbol; https://dictionary.cambridge.org/us/dictionary/english/h2o"
+150        C"Correct"
+150        E"hydrogen,h2o,water        https://bing.com/search?q=Chemical+symbol+for+water; https://en.wikipedia.org/wiki/Water; https://www.britannica.com/science/water; https://dictionary.cambridge.org/dictionary/english/h2o; https://www.techwalla.com/articles/how-to-type-the-water-symbol; https://dictionary.cambridge.org/us/dictionary/english/h2o"
+
+151        R"The Theory of Relativity, which usually encompasses two interrelated theories, was discovered by **Albert Einstein**[^1^][1][^2^][3][^3^][4]."
+151        A"https://en.wikipedia.org/wiki/Theory_of_relativity; https://www.britannica.com/story/how-albert-einstein-developed-the-theory-of-general-relativity; https://en.wikipedia.org/wiki/Albert_Einstein; https://interestingengineering.com/science/simplified-introduction-einsteins-theory-relativity"
+151        C"Incorrect"
+151        E"relativity,einstein,theories        https://en.wikipedia.org/wiki/Theory_of_relativity; https://www.britannica.com/story/how-albert-einstein-developed-the-theory-of-general-relativity; https://en.wikipedia.org/wiki/Albert_Einstein; https://interestingengineering.com/science/simplified-introduction-einsteins-theory-relativity"
+
+152        R"Christopher Columbus reached the Americas in the year **1492**[^1^][3][^2^][1][^3^][4][^4^][5]. He made four trips across the Atlantic Ocean from Spain: in 1492, 1493, 1498, and 1502[^2^][1]. He was determined to find a direct water route west from Europe to Asia, but he never did. Instead, he stumbled upon the Americas[^2^][1]. Though he did not “discover” the so-called New World—millions of people already lived there—his journeys marked the beginning of centuries of exploration and colonization of North and South America[^2^][1]."
+152        A"https://www.history.com/topics/exploration/christopher-columbus; https://www.britannica.com/summary/Christopher-Columbus-Timeline; https://en.wikipedia.org/wiki/Christopher_Columbus; https://exploration.marinersmuseum.org/subject/christopher-columbus/; https://www.voanews.com/a/who-discovered-america/3541542.html"
+152        C"Incorrect"
+152        E"1493,1492,columbus        https://www.history.com/topics/exploration/christopher-columbus; https://www.britannica.com/summary/Christopher-Columbus-Timeline; https://en.wikipedia.org/wiki/Christopher_Columbus; https://exploration.marinersmuseum.org/subject/christopher-columbus/; https://www.voanews.com/a/who-discovered-america/3541542.html"
+
+153        R"The currency of Russia is the **Russian Ruble**[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. Each ruble is divided into 100 kopeks[^4^][4]. The ruble is the second-oldest currency still in circulation, behind the British pound[^5^][5]. It has been used in the Russian territories since the 14th century[^2^][2]."
+153        A"https://bing.com/search?q=currency+of+Russia; https://en.wikipedia.org/wiki/Russian_ruble; https://www.xe.com/currencyconverter/convert/?From=USD&To=RUB; https://wise.com/gb/travel-money/russian-currency; https://www.investopedia.com/terms/forex/r/rub-russian-ruble.asp; https://www.travelallrussia.com/blog/russian-currency"
+153        C"Correct"
+153        E"currency,russia,russian        https://bing.com/search?q=currency+of+Russia; https://en.wikipedia.org/wiki/Russian_ruble; https://www.xe.com/currencyconverter/convert/?From=USD&To=RUB; https://wise.com/gb/travel-money/russian-currency; https://www.investopedia.com/terms/forex/r/rub-russian-ruble.asp; https://www.travelallrussia.com/blog/russian-currency"
+
+154        R"The Earth's outermost layer, known as the **crust**, is primarily composed of **solid rocks and minerals**[^1^][5]. The crust has an irregular thickness, varying from about **5 km beneath the oceans (oceanic crust)** to about **30 km beneath the continents (continental crust)**[^2^][3]. The crust mainly consists of lighter rocks, such as **basalt** in the oceanic crust and **granite** in the continental crust[^2^][3]. The lithosphere, which includes the crust and the brittle part of the upper mantle, is the outermost layer of Earth[^3^][4]. This layer forms Earth’s solid surface[^4^][1][^5^][2]."
+154        A"https://science.howstuffworks.com/layers-earth.htm; https://www.nationalgeographic.org/topics/resource-library-earth-structure/; https://sciencenotes.org/layers-of-the-earth/; https://www.space.com/17777-what-is-earth-made-of.html; https://www.nationalgeographic.org/encyclopedia/crust/"
+154        C"Incorrect"
+154        E"crust,mantle,lithosphere        https://science.howstuffworks.com/layers-earth.htm; https://www.nationalgeographic.org/topics/resource-library-earth-structure/; https://sciencenotes.org/layers-of-the-earth/; https://www.space.com/17777-what-is-earth-made-of.html; https://www.nationalgeographic.org/encyclopedia/crust/"
+
+155        R""The Great Gatsby" was written by **F. Scott Fitzgerald**[^1^][1][^2^][2][^3^][3][^4^][4]. It is a 1925 novel set in the Jazz Age on Long Island, near New York City[^2^][2]. The novel depicts first-person narrator Nick Carraway's interactions with mysterious millionaire Jay Gatsby and Gatsby's obsession to reunite with his former lover, Daisy Buchanan[^2^][2]. The novel was inspired by a youthful romance Fitzgerald had with socialite Ginevra King, and the riotous parties he attended on Long Island's North Shore in 1922[^2^][2]."
+155        A"https://bing.com/search?q=Who+wrote+%27The+Great+Gatsby%27; https://en.wikipedia.org/wiki/The_Great_Gatsby; https://www.britannica.com/topic/The-Great-Gatsby; https://simple.wikipedia.org/wiki/The_Great_Gatsby"
+155        C"Incorrect"
+155        E"gatsby,fitzgerald,1925        https://bing.com/search?q=Who+wrote+%27The+Great+Gatsby%27; https://en.wikipedia.org/wiki/The_Great_Gatsby; https://www.britannica.com/topic/The-Great-Gatsby; https://simple.wikipedia.org/wiki/The_Great_Gatsby"
+
+156        R"The capital city of Saudi Arabia is **Riyadh**[^1^][1][^2^][2][^3^][3][^4^][4]. It is the largest city on the Arabian Peninsula and is situated in the center of the an-Nafud desert, on the eastern part of the Najd plateau[^3^][3]. The city sits at an average of 600 meters (2,000 ft) above sea level[^3^][3], and receives around 5 million tourists each year, making it the forty-ninth most visited city in the world and the 6th in the Middle East[^3^][3]. Riyadh is culturally significant, boasting a rich history that dates back to the pre-Islamic era, features a blend of modern and traditional architecture, and is home to several museums[^4^][4]."
+156        A"https://bing.com/search?q=capital+city+of+Saudi+Arabia; https://www.britannica.com/place/Riyadh; https://en.wikipedia.org/wiki/Riyadh; https://www.mappr.co/capital-cities/saudi-arabia/"
+156        C"Incorrect"
+156        E"riyadh,saudi,arabia        https://bing.com/search?q=capital+city+of+Saudi+Arabia; https://www.britannica.com/place/Riyadh; https://en.wikipedia.org/wiki/Riyadh; https://www.mappr.co/capital-cities/saudi-arabia/"
+
+157        R"The Amazon Rainforest is located in the continent of **South America**[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. It covers most of the Amazon basin of South America and includes territory belonging to nine nations: Brazil, Bolivia, Ecuador, Peru, Colombia, Venezuela, Suriname, French Guiana, and Guyana[^1^][1]. The forest stretches from the Atlantic Ocean in the east to the tree line of the Andes in the west[^2^][2]. It is the world’s richest and most-varied biological reservoir, containing several million species of insects, plants, birds, and other forms of life[^2^][2]."
+157        A"https://en.wikipedia.org/wiki/Amazon_rainforest; https://www.britannica.com/place/Amazon-Rainforest; https://metro.co.uk/2022/03/19/where-is-the-amazon-rainforest-16300284/; https://www.amazon-rainforest.org/the-amazon/; https://www.britannica.com/facts/Amazon-Rainforest"
+157        C"Incorrect"
+157        E"rainforest,guiana,forest        https://en.wikipedia.org/wiki/Amazon_rainforest; https://www.britannica.com/place/Amazon-Rainforest; https://metro.co.uk/2022/03/19/where-is-the-amazon-rainforest-16300284/; https://www.amazon-rainforest.org/the-amazon/; https://www.britannica.com/facts/Amazon-Rainforest"
+
+158        R"The title "Queen of Pop" is most commonly associated with American singer-songwriter **Madonna**[^1^][1][^2^][3][^3^][4][^4^][5]. She has had a significant influence on pop music and is known for her versatility in music production, songwriting, and visual presentation[^1^][1]."
+158        A"https://en.wikipedia.org/wiki/Madonna; https://popcrush.com/queen-of-pop-madonna-janet-jackson/; https://en.wikipedia.org/wiki/Honorific_nicknames_in_popular_music; https://timeridermusic.com/artist/madonna/who-is-the-old-queen-of-pop; https://en.wikipedia.org/wiki/Queen_of_Pop_%28disambiguation%29"
+158        C"Incorrect"
+158        E"queen,madonna,pop        https://en.wikipedia.org/wiki/Madonna; https://popcrush.com/queen-of-pop-madonna-janet-jackson/; https://en.wikipedia.org/wiki/Honorific_nicknames_in_popular_music; https://timeridermusic.com/artist/madonna/who-is-the-old-queen-of-pop; https://en.wikipedia.org/wiki/Queen_of_Pop_%28disambiguation%29"
+
+159        R"The currency of South Korea is the **South Korean Won**[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. The symbol for the South Korean Won is ₩ and its code is KRW[^2^][2]. A single won is divided into 100 jeon, but the jeon is no longer used for everyday transactions and appears only in foreign exchange rates[^2^][2]. The currency is issued by the Bank of Korea, based in the capital city of Seoul[^2^][2]."
+159        A"https://bing.com/search?q=currency+of+South+Korea; https://en.wikipedia.org/wiki/South_Korean_won; https://www.90daykorean.com/study-korean-money/; https://www.investopedia.com/terms/forex/k/krw-korean-won.asp; https://corporatefinanceinstitute.com/resources/foreign-exchange/south-korean-won-krw/"
+159        C"Correct"
+159        E"korean,korea,seoul        https://bing.com/search?q=currency+of+South+Korea; https://en.wikipedia.org/wiki/South_Korean_won; https://www.90daykorean.com/study-korean-money/; https://www.investopedia.com/terms/forex/k/krw-korean-won.asp; https://corporatefinanceinstitute.com/resources/foreign-exchange/south-korean-won-krw/"
+
+160        R"The **Andes** is the longest above-water mountain range in the world, stretching about **7,000 km (4,300 mi)**[^1^][1][^2^][3]. The range extends from north to south through seven countries in South America, along the west coast of the continent: Venezuela, Colombia, Ecuador, Peru, Bolivia, Chile, and Argentina[^1^][1][^2^][3]. However, the longest mountain range on Earth, including underwater, is the **mid-ocean ridge**, which spans **40,389 miles** around the globe[^3^][4]."
+160        A"https://www.worldatlas.com/mountains/the-world-s-longest-mountain-ranges.html; https://en.wikipedia.org/wiki/List_of_mountain_ranges; https://en.wikipedia.org/wiki/List_of_longest_mountain_chains_on_Earth; https://oceanservice.noaa.gov/facts/midoceanridge.html; https://owlcation.com/stem/TopTenMountainRanges"
+160        C"Incorrect"
+160        E"andes,mountain,ocean        https://www.worldatlas.com/mountains/the-world-s-longest-mountain-ranges.html; https://en.wikipedia.org/wiki/List_of_mountain_ranges; https://en.wikipedia.org/wiki/List_of_longest_mountain_chains_on_Earth; https://oceanservice.noaa.gov/facts/midoceanridge.html; https://owlcation.com/stem/TopTenMountainRanges"
+
+161        R"The ceiling of the Sistine Chapel was painted by **Michelangelo** between 1508 and 1512[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. This work was commissioned by Pope Julius II[^2^][2][^4^][4]. The frescoes on the ceiling, collectively known as the Sistine Ceiling, are one of the most renowned artworks of the High Renaissance[^5^][5]. The complex design includes several sets of figures, allowing Michelangelo to demonstrate his skill in depicting the human figure in a variety of poses[^2^][2]."
+161        A"https://bing.com/search?q=Who+painted+the+ceiling+of+the+Sistine+Chapel%3f; https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling; https://www.worldhistory.org/article/1607/michelangelos-sistine-chapel-ceiling/; https://www.britannica.com/topic/Sistine-Chapel; https://en.wikipedia.org/wiki/Gallery_of_Sistine_Chapel_ceiling"
+161        C"Incorrect"
+161        E"michelangelo,frescoes,artworks        https://bing.com/search?q=Who+painted+the+ceiling+of+the+Sistine+Chapel%3f; https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling; https://www.worldhistory.org/article/1607/michelangelos-sistine-chapel-ceiling/; https://www.britannica.com/topic/Sistine-Chapel; https://en.wikipedia.org/wiki/Gallery_of_Sistine_Chapel_ceiling"
+
+162        R"The capital city of Turkey is **Ankara**[^1^][1][^2^][2][^3^][3][^4^][4]. It is located in the central part of Anatolia and has a population of 5.1 million in its urban center and 5.7 million in Ankara Province[^3^][3]. The city is a hub for education and home to several universities[^4^][4]."
+162        A"https://bing.com/search?q=capital+city+of+Turkey; https://www.britannica.com/place/Ankara; https://en.wikipedia.org/wiki/Ankara; https://www.mappr.co/capital-cities/turkey/"
+162        C"Correct"
+162        E"ankara,turkey,anatolia        https://bing.com/search?q=capital+city+of+Turkey; https://www.britannica.com/place/Ankara; https://en.wikipedia.org/wiki/Ankara; https://www.mappr.co/capital-cities/turkey/"
+
+163        R"The element with the chemical symbol "O" is **Oxygen**[^1^][2]. It is a member of the chalcogen group in the periodic table, a highly reactive nonmetal, and an oxidizing agent that readily forms oxides with most elements as well as with other compounds[^1^][2]. Oxygen is Earth's most abundant element, and after hydrogen and helium, it is the third-most abundant element in the universe[^1^][2]."
+163        A"https://simple.wikipedia.org/wiki/List_of_elements_by_symbol; https://en.wikipedia.org/wiki/Oxygen; https://www.periodic-table.org/Oxygen-chemical-symbol/; https://www.thoughtco.com/element-symbols-list-606530"
+163        C"Incorrect"
+163        E"oxygen,elements,element        https://simple.wikipedia.org/wiki/List_of_elements_by_symbol; https://en.wikipedia.org/wiki/Oxygen; https://www.periodic-table.org/Oxygen-chemical-symbol/; https://www.thoughtco.com/element-symbols-list-606530"
+
+164        R"The Renaissance is generally considered to have started in Florence, Italy around the years **1350 to 1400**[^1^][3]. This period is typically referred to as taking place from the **14th century to the 17th century**[^2^][1][^3^][4]. The Renaissance marked a fervent period of European cultural, artistic, political, and economic “rebirth” following the Middle Ages[^2^][1]. It promoted the rediscovery of classical philosophy, literature, and art[^2^][1]."
+164        A"https://www.history.com/topics/renaissance/renaissance; https://en.wikipedia.org/wiki/Renaissance; https://www.ducksters.com/history/how_did_the_renaissance_start.php; https://www.scienceabc.com/social-science/when-did-the-renaissance-begin.html"
+164        C"Incorrect"
+164        E"renaissance,florence,century        https://www.history.com/topics/renaissance/renaissance; https://en.wikipedia.org/wiki/Renaissance; https://www.ducksters.com/history/how_did_the_renaissance_start.php; https://www.scienceabc.com/social-science/when-did-the-renaissance-begin.html"
+
+165        R"The currency of South Africa is the **South African Rand**[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. The symbol for the South African Rand is ₩ and its code is ZAR[^2^][2]. A single rand is divided into 100 cents[^2^][2]. The currency is issued by the Bank of South Africa[^2^][2]."
+165        A"https://bing.com/search?q=currency+of+South+Africa; https://www.xe.com/currencyconverter/convert/?From=ZAR&To=USD; https://en.wikipedia.org/wiki/South_African_rand; https://www.investopedia.com/terms/forex/z/zar-south-african-rand.asp; https://www.xe.com/currency/zar-south-african-rand/; https://mistersafari.com/south-africa/info/currency/"
+165        C"Correct"
+165        E"currency,africa,rand        https://bing.com/search?q=currency+of+South+Africa; https://www.xe.com/currencyconverter/convert/?From=ZAR&To=USD; https://en.wikipedia.org/wiki/South_African_rand; https://www.investopedia.com/terms/forex/z/zar-south-african-rand.asp; https://www.xe.com/currency/zar-south-african-rand/; https://mistersafari.com/south-africa/info/currency/"
+
+166        R""Pride and Prejudice" is an 1813 novel written by English author **Jane Austen**[^1^][1][^2^][2][^3^][3]. It's a classic of English literature, known for its incisive wit and superb character delineation[^2^][2]. The novel has become one of the most popular in English literature, with over 20 million copies sold[^1^][1].."
+166        A"https://en.wikipedia.org/wiki/Pride_and_Prejudice; https://www.britannica.com/topic/Pride-and-Prejudice; https://www.britannica.com/summary/Pride-and-Prejudice"
+166        C"Incorrect"
+166        E"pride,prejudice,austen        https://en.wikipedia.org/wiki/Pride_and_Prejudice; https://www.britannica.com/topic/Pride-and-Prejudice; https://www.britannica.com/summary/Pride-and-Prejudice"
+
+167        R"The smallest planet in our solar system in terms of both mass and volume is **Mercury**[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. It is also the closest planet to the sun[^1^][1]. Mercury has a diameter of **3,032 miles (4,879 kilometers)**[^1^][1], which is only 1.4 times larger than the moon[^1^][1]. Despite its small size, Mercury is one of the densest planets in the solar system, second only to Earth[^1^][1]. This is due to its abnormally large iron core[^1^][1]."
+167        A"https://www.worldatlas.com/space/what-is-the-smallest-planet-in-the-solar-system.html; https://skyandtelescope.org/astronomy-resources/smallest-and-largest-planets-in-our-solar-system/; https://science.nasa.gov/mercury/; https://en.wikipedia.org/wiki/Mercury_%28planet%29; https://science.nasa.gov/mercury/facts/"
+167        C"Correct"
+167        E"mercury,planets,planet        https://www.worldatlas.com/space/what-is-the-smallest-planet-in-the-solar-system.html; https://skyandtelescope.org/astronomy-resources/smallest-and-largest-planets-in-our-solar-system/; https://science.nasa.gov/mercury/; https://en.wikipedia.org/wiki/Mercury_%28planet%29; https://science.nasa.gov/mercury/facts/"
+
+168        R"The capital city of Spain is **Madrid**[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. It is the largest city in Spain and is located almost exactly at the geographical heart of the Iberian Peninsula[^2^][2]. Madrid is also the most populous city of Spain[^3^][3]. The city stands at an altitude of over 600 meters above sea level, making it the second-highest capital in Europe after Andorra la Vella[^4^][4]."
+168        A"https://bing.com/search?q=capital+city+of+Spain; https://www.britannica.com/place/Madrid; https://en.wikipedia.org/wiki/Madrid; https://www.mappr.co/capital-cities/spain/; https://en.wikipedia.org/wiki/Spain; https://madrid.es/"
+168        C"Incorrect"
+168        E"spain,iberian,madrid        https://bing.com/search?q=capital+city+of+Spain; https://www.britannica.com/place/Madrid; https://en.wikipedia.org/wiki/Madrid; https://www.mappr.co/capital-cities/spain/; https://en.wikipedia.org/wiki/Spain; https://madrid.es/"
+
+169        R"Mount Everest, the highest mountain on Earth, is located in the Himalayas, a tall mountain range in Asia[^1^][3]. The mountain lies on the border between **Nepal** and the **Tibet Autonomous Region of China**[^2^][1][^3^][2][^4^][4]. The China–Nepal border runs across its summit point[^4^][4]. It reaches an elevation of 29,032 feet (8,849 metres), making it the highest point on Earth[^2^][1][^3^][2]."
+169        A"https://www.britannica.com/place/Mount-Everest; https://www.nationalgeographic.org/encyclopedia/mount-everest/; https://simple.wikipedia.org/wiki/Mount_Everest; https://en.wikipedia.org/wiki/Mount_Everest"
+169        C"Correct"
+169        E"himalayas,everest,nepal        https://www.britannica.com/place/Mount-Everest; https://www.nationalgeographic.org/encyclopedia/mount-everest/; https://simple.wikipedia.org/wiki/Mount_Everest; https://en.wikipedia.org/wiki/Mount_Everest"
+
+170        R""The Odyssey" is one of two major ancient Greek epic poems attributed to **Homer**[^1^][1][^2^][2][^3^][3][^4^][4]. Homer, born around the 8th century BC, is credited as the author of both "The Iliad" and "The Odyssey", two foundational works of ancient Greek literature[^3^][3]. These poems are considered some of the most significant works in the Western canon[^2^][2]."
+170        A"https://bing.com/search?q=Who+is+the+author+of+%22The+Odyssey%22%3f; https://en.wikipedia.org/wiki/Odyssey; https://en.wikipedia.org/wiki/Homer; https://www.goodreads.com/author/show/903.Homer"
+170        C"Incorrect"
+170        E"odyssey,iliad,homer        https://bing.com/search?q=Who+is+the+author+of+%22The+Odyssey%22%3f; https://en.wikipedia.org/wiki/Odyssey; https://en.wikipedia.org/wiki/Homer; https://www.goodreads.com/author/show/903.Homer"
+
+171        R"The official currency of Egypt is the **Egyptian pound (EGP)**[^1^][1][^2^][3][^3^][4][^4^][5]. Each Egyptian pound is divided into 100 piastres[^5^][2][^2^][3]. The currency can also be noted by the symbol LE, which stands for livre égyptienne; French for Egyptian pound[^4^][5]."
+171        A"https://bing.com/search?q=currency+of+Egypt; https://www.tripsavvy.com/currency-in-egypt-4581266; https://en.wikipedia.org/wiki/Egyptian_pound; https://wise.com/gb/travel-money/egyptian-currency; https://www.investopedia.com/terms/e/egp.asp"
+171        C"Correct"
+171        E"egyptian,egypt,currency        https://bing.com/search?q=currency+of+Egypt; https://www.tripsavvy.com/currency-in-egypt-4581266; https://en.wikipedia.org/wiki/Egyptian_pound; https://wise.com/gb/travel-money/egyptian-currency; https://www.investopedia.com/terms/e/egp.asp"
+
+172        R"The Earth's core is primarily composed of **iron (Fe)**[^1^][1][^2^][4]. It also contains smaller amounts of **nickel (Ni)** and other lighter elements[^1^][1][^3^][3]. This composition makes the core the most metallic layer of the Earth[^4^][2]. The core is divided into two parts: the solid inner core and the liquid outer core, both of which are mainly iron and nickel[^1^][1][^4^][2][^2^][4]."
+172        A"https://www.nationalgeographic.org/encyclopedia/core/; https://geo.libretexts.org/Courses/Lumen_Learning/Book%3A_Physical_Geography_%28Lumen%29/05%3A_Plate_Tectonics/5.03%3A_The_Composition_and_Structure_of_Earth; https://sciencenotes.org/layers-of-the-earth/; https://en.wikipedia.org/wiki/Internal_structure_of_Earth"
+172        C"Incorrect"
+172        E"core,nickel,earth        https://www.nationalgeographic.org/encyclopedia/core/; https://geo.libretexts.org/Courses/Lumen_Learning/Book%3A_Physical_Geography_%28Lumen%29/05%3A_Plate_Tectonics/5.03%3A_The_Composition_and_Structure_of_Earth; https://sciencenotes.org/layers-of-the-earth/; https://en.wikipedia.org/wiki/Internal_structure_of_Earth"
+
+173        R"The law of gravity was discovered by **Sir Isaac Newton**[^1^][3][^2^][2][^3^][4][^4^][5]. He put forward the law in 1687 and used it to explain the observed motions of the planets and their moons[^3^][4]. This law is a part of classical mechanics and was formulated in Newton's work "Philosophiæ Naturalis Principia Mathematica", first published on 5 July 1687[^4^][5]. Newton's law of gravity established the modern quantitative science of gravitation[^2^][2]."
+173        A"https://www.sciencefocus.com/science/who-really-discovered-the-law-of-gravity; https://www.britannica.com/science/gravity-physics/Newtons-law-of-gravity; https://www.bbc.co.uk/teach/isaac-newton-the-man-who-discovered-gravity/zh8792p; https://www.britannica.com/science/Newtons-law-of-gravitation; https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation"
+173        C"Incorrect"
+173        E"newton,gravitation,gravity        https://www.sciencefocus.com/science/who-really-discovered-the-law-of-gravity; https://www.britannica.com/science/gravity-physics/Newtons-law-of-gravity; https://www.bbc.co.uk/teach/isaac-newton-the-man-who-discovered-gravity/zh8792p; https://www.britannica.com/science/Newtons-law-of-gravitation; https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation"
+
+174        R"The capital city of Thailand is **Bangkok**[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. It is the most populous city in the country and is located in the Chao Phraya River delta in central Thailand[^2^][2]. The city stands at an altitude of over 600 meters above sea level[^2^][2]. Bangkok is also known in Thai as Krung Thep Maha Nakhon[^3^][3][^4^][4]."
+174        A"https://bing.com/search?q=capital+city+of+Thailand; https://www.britannica.com/place/Bangkok; https://en.wikipedia.org/wiki/Bangkok; https://www.wikiwand.com/en/Bangkok; https://www.mappr.co/capital-cities/thailand/"
+174        C"Incorrect"
+174        E"bangkok,thailand,thai        https://bing.com/search?q=capital+city+of+Thailand; https://www.britannica.com/place/Bangkok; https://en.wikipedia.org/wiki/Bangkok; https://www.wikiwand.com/en/Bangkok; https://www.mappr.co/capital-cities/thailand/"
+
+175        R"The Serengeti National Park is located in the continent of **Africa**, specifically in the country of **Tanzania**[^1^][3][^2^][4]. It stretches over 14,763 square kilometers and is known for its large wildlife population and its annual migration of over 1.5 million blue wildebeest and 250,000 zebra[^2^][4]. The park is situated in the eastern Mara Region and northeastern Simiyu Region[^2^][4]."
+175        A"https://bing.com/search?q=Serengeti+National+Park+location; https://www.serengeti.com/; https://www.britannica.com/place/Serengeti-National-Park; https://en.wikipedia.org/wiki/Serengeti_National_Park"
+175        C"Correct"
+175        E"serengeti,tanzania,africa        https://bing.com/search?q=Serengeti+National+Park+location; https://www.serengeti.com/; https://www.britannica.com/place/Serengeti-National-Park; https://en.wikipedia.org/wiki/Serengeti_National_Park"
+
+176        R"The official currency of Brazil is the **Brazilian real (BRL)**[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. Each Brazilian real is divided into 100 centavos[^2^][2][^5^][5]. The currency can also be noted by the symbol R$, which stands for livre égyptienne; French for Brazilian real[^5^][5]."
+176        A"https://bing.com/search?q=currency+of+Brazil; https://en.wikipedia.org/wiki/Brazilian_real; https://www.xe.com/currency/brl-brazilian-real/; https://en.wikipedia.org/wiki/Brazilian_currency; https://www.britannica.com/money/real-Brazilian-currency"
+176        C"Incorrect"
+176        E"brazilian,currency,brazil        https://bing.com/search?q=currency+of+Brazil; https://en.wikipedia.org/wiki/Brazilian_real; https://www.xe.com/currency/brl-brazilian-real/; https://en.wikipedia.org/wiki/Brazilian_currency; https://www.britannica.com/money/real-Brazilian-currency"
+
+177        R""The Lord of the Rings" is an epic high fantasy novel written by the English author and scholar **J. R. R. Tolkien**[^1^][1][^2^][2][^3^][3]. The story began as a sequel to Tolkien's 1937 children's book "The Hobbit", but eventually developed into a much larger work[^1^][1]. Written in stages between 1937 and 1949, "The Lord of the Rings" is one of the best-selling books ever written, with over 150 million copies sold[^1^][1]."
+177        A"https://en.wikipedia.org/wiki/The_Lord_of_the_Rings; https://en.wikipedia.org/wiki/J._R._R._Tolkien; https://www.britannica.com/biography/J-R-R-Tolkien"
+177        C"Incorrect"
+177        E"tolkien,hobbit,rings        https://en.wikipedia.org/wiki/The_Lord_of_the_Rings; https://en.wikipedia.org/wiki/J._R._R._Tolkien; https://www.britannica.com/biography/J-R-R-Tolkien"
+
+178        R"The main gas responsible for the greenhouse effect is **carbon dioxide (CO2)**[^1^][1][^2^][3][^3^][4][^4^][5]. Despite its comparatively low Global Warming Potential (GWP) among major greenhouse gases, the large human-caused increase in its atmospheric concentration has caused the majority of global warming[^1^][1]. Other gases that contribute to the greenhouse effect include methane, nitrous oxide, and water vapor[^4^][5]."
+178        A"https://www.c2es.org/content/main-greenhouse-gases/; https://climate.nasa.gov/faq/19/what-is-the-greenhouse-effect/; https://www.epa.gov/ghgemissions/overview-greenhouse-gases; https://www.britannica.com/science/greenhouse-gas; https://www.nrdc.org/stories/greenhouse-effect-101"
+178        C"Correct"
+178        E"co2,gases,greenhouse        https://www.c2es.org/content/main-greenhouse-gases/; https://climate.nasa.gov/faq/19/what-is-the-greenhouse-effect/; https://www.epa.gov/ghgemissions/overview-greenhouse-gases; https://www.britannica.com/science/greenhouse-gas; https://www.nrdc.org/stories/greenhouse-effect-101"
+
+179        R"The capital city of Italy is **Rome**[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. It is the largest city in Italy and is located in the central part of the Italian peninsula, on the Tiber River[^5^][5]. Rome is also the capital of the Lazio region, the centre of the Metropolitan City of Rome Capital, and a special comune named Comune di Roma Capitale[^2^][2][^4^][4]."
+179        A"https://bing.com/search?q=capital+city+of+Italy; https://en.wikipedia.org/wiki/Rome; https://www.worldatlas.com/articles/what-is-the-capital-of-italy.html; https://www.wikiwand.com/en/Rome; https://www.britannica.com/place/Rome"
+179        C"Correct"
+179        E"rome,roma,comune        https://bing.com/search?q=capital+city+of+Italy; https://en.wikipedia.org/wiki/Rome; https://www.worldatlas.com/articles/what-is-the-capital-of-italy.html; https://www.wikiwand.com/en/Rome; https://www.britannica.com/place/Rome"
+
+180        R"The first woman to fly solo across the Atlantic was **Amelia Earhart**[^1^][1][^2^][2][^3^][3]. She accomplished this feat in 1932, piloting a Lockheed Vega 5B[^1^][1]. Earhart was an American aviation pioneer and set many early aviation records[^1^][1]. Her transatlantic flight made her an international celebrity[^1^][1]."
+180        A"https://en.wikipedia.org/wiki/Amelia_Earhart; https://www.history.com/topics/exploration/amelia-earhart; https://pioneersofflight.si.edu/content/amelia-earhart-solos-atlantic"
+180        C"Correct"
+180        E"aviation,amelia,flight        https://en.wikipedia.org/wiki/Amelia_Earhart; https://www.history.com/topics/exploration/amelia-earhart; https://pioneersofflight.si.edu/content/amelia-earhart-solos-atlantic"
+
+181        R"The chemical symbol for iron is **Fe**[^1^][1][^2^][2]. This symbol comes from the Latin word for iron, "ferrum"[^2^][2]. Iron is a chemical element with the atomic number 26[^2^][2]."
+181        A"https://bing.com/search?q=chemical+symbol+for+iron; https://en.wikipedia.org/wiki/Iron; https://www.rsc.org/periodic-table/element/26/iron; https://www.periodic-table.org/iron-chemical-symbol/; https://www.wikiwand.com/en/Iron"
+181        C"Correct"
+181        E"iron,fe,symbol        https://bing.com/search?q=chemical+symbol+for+iron; https://en.wikipedia.org/wiki/Iron; https://www.rsc.org/periodic-table/element/26/iron; https://www.periodic-table.org/iron-chemical-symbol/; https://www.wikiwand.com/en/Iron"
+
+182        R"The Industrial Revolution began around the year **1760**[^1^][3][^2^][4]. This period marked a significant shift from agrarian and handicraft economies to ones dominated by industry and machine manufacturing[^3^][1][^4^][2]. The process started in Britain in the 18th century and later spread to other parts of the world[^3^][1][^4^][2]."
+182        A"https://www.britannica.com/money/topic/Industrial-Revolution; https://www.history.com/topics/industrial-revolution/industrial-revolution; https://www.bbc.co.uk/bitesize/topics/zxwxvcw/articles/zntn6v4; https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/origins-industrial-revolution"
+182        C"Incorrect"
+182        E"industrial,revolution,industry        https://www.britannica.com/money/topic/Industrial-Revolution; https://www.history.com/topics/industrial-revolution/industrial-revolution; https://www.bbc.co.uk/bitesize/topics/zxwxvcw/articles/zntn6v4; https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/origins-industrial-revolution"
+
+183        R"The currency of Japan is the **Japanese Yen**[^1^][1][^2^][2]. The symbol for the yen is **¥**, and its code is **JPY**[^2^][2][^3^][4][^4^][5]. The yen is the third-most traded currency in the foreign exchange market, after the United States dollar and the euro[^2^][2]."
+183        A"https://bing.com/search?q=currency+of+Japan; https://en.wikipedia.org/wiki/Japanese_yen; https://en.wikipedia.org/wiki/Japanese_currency; https://www.oanda.com/currency-converter/en/currencies/majors/jpy/; https://www.xe.com/currency/jpy-japanese-yen/"
+183        C"Incorrect"
+183        E"yen,japan,currency        https://bing.com/search?q=currency+of+Japan; https://en.wikipedia.org/wiki/Japanese_yen; https://en.wikipedia.org/wiki/Japanese_currency; https://www.oanda.com/currency-converter/en/currencies/majors/jpy/; https://www.xe.com/currency/jpy-japanese-yen/"
+
+184        R"The largest bird in the world is the **Common Ostrich (Struthio camelus)**[^1^][1][^2^][2][^3^][3][^4^][4]. It is both the tallest and heaviest bird, with an average height of over 2 meters (sometimes as tall as 2.8 meters) and a weight of up to 160 kg[^3^][3]. Ostriches also lay the largest eggs among birds[^2^][2]. They hold the record for the fastest land speed of any bird, reaching speeds of 70 kmph[^4^][4]."
+184        A"https://www.livescience.com/biggest-birds-on-earth; https://en.wikipedia.org/wiki/List_of_largest_birds; https://safarisafricana.com/biggest-birds-in-the-world/; https://www.birdspot.co.uk/bird-numbers/the-10-biggest-birds-in-the-world"
+184        C"Correct"
+184        E"bird,largest,birds        https://www.livescience.com/biggest-birds-on-earth; https://en.wikipedia.org/wiki/List_of_largest_birds; https://safarisafricana.com/biggest-birds-in-the-world/; https://www.birdspot.co.uk/bird-numbers/the-10-biggest-birds-in-the-world"
+
+185        R"The title "Father of Modern Science" is often attributed to **Galileo Galilei**[^1^][1][^2^][2][^3^][3][^4^][4]. He made major contributions to various fields including physics, astronomy, cosmology, mathematics, and philosophy[^3^][3]. Galileo pioneered the experimental scientific method and was the first to use a refracting telescope to make important astronomical discoveries[^4^][4]. However, it's worth noting that some sources also refer to **Isaac Newton** as the father of modern science[^5^][5]. He revolutionized our understanding of the world with his theories on gravity, planetary motion, and optics[^5^][5]."
+185        A"https://en.wikipedia.org/wiki/List_of_people_considered_father_or_mother_of_a_scientific_field; https://en.wikipedia.org/wiki/Galileo_Galilei; https://www.history.com/topics/inventions/galileo-galilei; https://www.nmspacemuseum.org/inductee/galileo-galilei/; https://science-atlas.com/faq/who-is-the-father-of-modern-science/"
+185        C"Correct"
+185        E"galileo,astronomy,discoveries        https://en.wikipedia.org/wiki/List_of_people_considered_father_or_mother_of_a_scientific_field; https://en.wikipedia.org/wiki/Galileo_Galilei; https://www.history.com/topics/inventions/galileo-galilei; https://www.nmspacemuseum.org/inductee/galileo-galilei/; https://science-atlas.com/faq/who-is-the-father-of-modern-science/"
+
+186        R"The capital city of China is **Beijing**[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. The name "Beijing" means "Northern Capital" in Chinese, referencing the city's location in the north of China[^3^][3][^5^][5]. With over 21 million residents, Beijing is the world's most populous national capital city and China's second largest city after Shanghai[^2^][2][^4^][4]."
+186        A"https://bing.com/search?q=capital+city+of+China; https://en.wikipedia.org/wiki/Beijing; https://www.worldatlas.com/articles/what-is-the-capital-of-china.html; https://www.wikiwand.com/en/Beijing; https://www.chinatravel.com/guide/capital-of-china"
+186        C"Correct"
+186        E"beijing,shanghai,china        https://bing.com/search?q=capital+city+of+China; https://en.wikipedia.org/wiki/Beijing; https://www.worldatlas.com/articles/what-is-the-capital-of-china.html; https://www.wikiwand.com/en/Beijing; https://www.chinatravel.com/guide/capital-of-china"
+
+187        R"The term "Blue Planet" is often used to refer to two different planets:"
+187        A"https://science.howstuffworks.com/innovation/edible-innovations/sushi.htm; https://www.history.com/this-day-in-history/watson-and-crick-discover-chemical-structure-of-dna"
+187        C"Incorrect"
+187        E"planets,planet,blue        https://science.howstuffworks.com/innovation/edible-innovations/sushi.htm; https://www.history.com/this-day-in-history/watson-and-crick-discover-chemical-structure-of-dna"
+
+188        R"The currency of France is the **Euro (€)**[^1^][1][^2^][2][^3^][4][^4^][5]. The code for the Euro is **EUR**[^2^][2]. The Euro is the official currency of 20 of the 27 member states of the European Union, including France[^2^][2]. It is also one of the most traded currencies in the world[^2^][2]."
+188        A"https://bing.com/search?q=currency+of+France; https://en.wikipedia.org/wiki/Euro; https://www.xe.com/currencyconverter/convert/?From=FRF&To=USD; https://www.monito.com/en/what-is-the-currency-in/france; https://journeytofrance.com/france-currency/"
+188        C"Correct"
+188        E"euro,currencies,currency        https://bing.com/search?q=currency+of+France; https://en.wikipedia.org/wiki/Euro; https://www.xe.com/currencyconverter/convert/?From=FRF&To=USD; https://www.monito.com/en/what-is-the-currency-in/france; https://journeytofrance.com/france-currency/"
+
+189        R"The main ingredient in sushi is **sushi rice (sushi-meshi)**[^1^][5][^2^][2]. Sushi rice is made by cooking a super premium grade short or medium Japanese white rice and then mixing it with rice vinegar, salt, and sugar mixture while fanning it to cool it off[^2^][2]. This combination of ingredients and activities together make the sushi rice fluffy, but still firm, and with a shiny sheen to it[^2^][2].  In addition to sushi rice, sushi often includes **seafood** as a key ingredient[^3^][4]. Seafood toppings are really abundant from numerous species of fish including salmon, bluefin tuna, yellowtail, sea bream, and sardine to other species living underwater such as clam, squid, octopus, shrimp, scallop, and more[^3^][4]. However, sushi can also be made with a variety of other ingredients, including vegetables[^2^][2]."
+189        A"https://www.tastingtable.com/1412022/essential-ingredients-homemade-sushi/; https://quiethut.com/sushi-ingredients/; https://hablemosdepeces.com/sushi/what-is-the-main-ingredient-in-sushi.html; https://www.shoreexcursions.asia/get-to-know-about-sushi-japanese-traditional-dish/"
+189        C"Incorrect"
+189        E"sushi,seafood,rice        https://www.tastingtable.com/1412022/essential-ingredients-homemade-sushi/; https://quiethut.com/sushi-ingredients/; https://hablemosdepeces.com/sushi/what-is-the-main-ingredient-in-sushi.html; https://www.shoreexcursions.asia/get-to-know-about-sushi-japanese-traditional-dish/"
+
+190        R"The American Civil War effectively came to an end on **April 9, 1865**, when Confederate General Robert E. Lee surrendered to General Ulysses S Grant[^1^][3]. However, the official end was declared by President Andrew Johnson on **August 20, 1866**[^2^][4]."
+190        A"https://www.britannica.com/event/American-Civil-War; https://en.wikipedia.org/wiki/American_Civil_War; https://www.historyhit.com/american-civil-war-ends/; https://www.usatoday.com/story/news/2022/09/12/when-did-the-civil-war-end/7930321001/; https://www.battlefields.org/learn/topics/end-civil-war"
+190        C"Incorrect"
+190        E"confederate,1865,surrendered        https://www.britannica.com/event/American-Civil-War; https://en.wikipedia.org/wiki/American_Civil_War; https://www.historyhit.com/american-civil-war-ends/; https://www.usatoday.com/story/news/2022/09/12/when-did-the-civil-war-end/7930321001/; https://www.battlefields.org/learn/topics/end-civil-war"
+
+191        R""The Canterbury Tales" was written by **Geoffrey Chaucer** between 1387 and 1400[^1^][1][^2^][2][^3^][3][^4^][4]. It is a collection of twenty-four stories that runs to over 17,000 lines[^1^][1]. The tales are presented as part of a story-telling contest by a group of pilgrims as they travel together from Canterbury to visit the shrine of Saint Thomas Becket at Canterbury Cathedral[^1^][1]. It is widely regarded as Chaucer's magnum opus[^1^][1]."
+191        A"https://en.wikipedia.org/wiki/The_Canterbury_Tales; https://www.britannica.com/topic/The-Canterbury-Tales; https://www.worldhistory.org/Canterbury_Tales/; https://simple.wikipedia.org/wiki/The_Canterbury_Tales"
+191        C"Incorrect"
+191        E"canterbury,tales,pilgrims        https://en.wikipedia.org/wiki/The_Canterbury_Tales; https://www.britannica.com/topic/The-Canterbury-Tales; https://www.worldhistory.org/Canterbury_Tales/; https://simple.wikipedia.org/wiki/The_Canterbury_Tales"
+
+192        R"The capital city of Russia is **Moscow**[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. The city stands on the Moskva River in Central Russia, with a population estimated at 13.0 million residents within the city limits[^2^][2]. Moscow is not only the political center of Russia but also the country’s most populous city and its industrial, cultural, scientific, and educational capital[^3^][3]."
+192        A"https://bing.com/search?q=capital+city+of+Russia; https://en.wikipedia.org/wiki/Moscow; https://www.britannica.com/place/Moscow; https://www.wikiwand.com/en/Moscow; https://www.britannica.com/summary/Moscow"
+192        C"Incorrect"
+192        E"moscow,russia,capital        https://bing.com/search?q=capital+city+of+Russia; https://en.wikipedia.org/wiki/Moscow; https://www.britannica.com/place/Moscow; https://www.wikiwand.com/en/Moscow; https://www.britannica.com/summary/Moscow"
+
+193        R"The chemical symbol for silver is **Ag**[^1^][1][^2^][2][^3^][4][^4^][5]. This symbol comes from the Latin word for silver, "argentum"[^2^][2]. Silver is a chemical element with the atomic number 47[^2^][2]."
+193        A"https://bing.com/search?q=chemical+symbol+for+silver; https://en.wikipedia.org/wiki/Silver; https://www.rsc.org/periodic-table/element/47/silver; https://www.periodic-table.org/silver-chemical-properties/; https://www.periodic-table.org/Silver-chemical-symbol/"
+193        C"Correct"
+193        E"silver,symbol,ag        https://bing.com/search?q=chemical+symbol+for+silver; https://en.wikipedia.org/wiki/Silver; https://www.rsc.org/periodic-table/element/47/silver; https://www.periodic-table.org/silver-chemical-properties/; https://www.periodic-table.org/Silver-chemical-symbol/"
+
+194        R"The largest ocean mammal is the **Blue Whale (Balaenoptera musculus)**[^1^][1][^2^][2][^3^][3][^4^][4]. It is the largest animal ever known to have existed[^1^][1][^2^][2][^3^][3][^4^][4]. The Blue Whale can reach a maximum confirmed length of 29.9 meters (98 ft) and weigh up to 199 tonnes (196 long tons; 219 short tons)[^1^][1]. It's worth noting that their tongues alone can weigh as much as an elephant[^3^][3]."
+194        A"https://en.wikipedia.org/wiki/Blue_whale; https://www.treehugger.com/largest-living-creatures-sea-4859211; https://www.nationalgeographic.com/animals/mammals/facts/blue-whale; https://www.thoughtco.com/what-is-the-biggest-animal-in-the-ocean-2291995"
+194        C"Correct"
+194        E"whale,largest,mammal        https://en.wikipedia.org/wiki/Blue_whale; https://www.treehugger.com/largest-living-creatures-sea-4859211; https://www.nationalgeographic.com/animals/mammals/facts/blue-whale; https://www.thoughtco.com/what-is-the-biggest-animal-in-the-ocean-2291995"
+
+195        R"The structure of DNA, specifically the double helix, was discovered by **James Watson** and **Francis Crick** in 1953[^1^][1][^2^][2][^3^][4][^4^][5]. Their work was aided by the contributions of biophysicists **Rosalind Franklin** and **Maurice Wilkins**[^3^][4]. This discovery marked a milestone in the history of science and gave rise to modern molecular biology[^1^][1]. It's worth noting that DNA was first identified in the late 1860s by Swiss chemist **Friedrich Miescher**[^5^][3]."
+195        A"https://profiles.nlm.nih.gov/spotlight/sc/feature/doublehelix; https://www.khanacademy.org/science/biology/dna-as-the-genetic-material/dna-discovery-and-structure/a/discovery-of-the-structure-of-dna; https://www.nature.com/scitable/topicpage/discovery-of-dna-structure-and-function-watson-397/; https://www.britannica.com/science/DNA"
+195        C"Incorrect"
+195        E"dna,discovered,helix        https://profiles.nlm.nih.gov/spotlight/sc/feature/doublehelix; https://www.khanacademy.org/science/biology/dna-as-the-genetic-material/dna-discovery-and-structure/a/discovery-of-the-structure-of-dna; https://www.nature.com/scitable/topicpage/discovery-of-dna-structure-and-function-watson-397/; https://www.britannica.com/science/DNA"
+
+196        R"The capital city of Mexico is **Mexico City**, officially known as **Ciudad de México**[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. It is the most populous city in the country[^4^][4][^5^][5]. The city was built atop the razed island-capital of Tenochtitlan, the cultural and political center of the Aztec (Mexica) empire[^3^][3]."
+196        A"https://bing.com/search?q=capital+city+of+Mexico; https://en.wikipedia.org/wiki/Mexico_City; https://www.britannica.com/place/Mexico-City; https://www.mappr.co/capital-cities/mexico/; https://webcapi.com/capital-of-mexico/"
+196        C"Incorrect"
+196        E"tenochtitlan,ciudad,aztec        https://bing.com/search?q=capital+city+of+Mexico; https://en.wikipedia.org/wiki/Mexico_City; https://www.britannica.com/place/Mexico-City; https://www.mappr.co/capital-cities/mexico/; https://webcapi.com/capital-of-mexico/"
+
+197        R"The Colosseum is located in **Rome**, the capital of **Italy**[^1^][1][^2^][2][^3^][3][^4^][4][^5^][5]. It is an elliptical amphitheatre in the centre of the city, just east of the Roman Forum[^1^][1]. The Colosseum is a renowned symbol of Imperial Rome and is one of Rome's most popular tourist attractions[^1^][1]."
+197        A"https://en.wikipedia.org/wiki/Colosseum; https://www.britannica.com/topic/Colosseum; https://www.thecolosseum.org/visit/; https://www.wonders-of-the-world.net/Colosseum/Location-of-the-Colosseum.php; https://simple.wikipedia.org/wiki/Colosseum"
+197        C"Correct"
+197        E"colosseum,rome,roman        https://en.wikipedia.org/wiki/Colosseum; https://www.britannica.com/topic/Colosseum; https://www.thecolosseum.org/visit/; https://www.wonders-of-the-world.net/Colosseum/Location-of-the-Colosseum.php; https://simple.wikipedia.org/wiki/Colosseum"
+
+198        R"The Iliad" is one of two major ancient Greek epic poems attributed to **Homer**, a Greek poet born around the 8th century BC¹³⁴⁵. It is one of the oldest extant works of literature still widely read by modern audiences¹. The Greeks themselves imagined Homer was from Chios or Ionia and credited him with both the Iliad and Odyssey, the two masterpieces of Greek literature². Homer's authorship was infrequently questioned in antiquity, but contemporary scholarship predominantly assumes that the Iliad and the Odyssey were composed independently and that the stories formed as part of a long oral tradition¹."
+198        A"https://en.wikipedia.org/wiki/Iliad; https://www.wikiwand.com/en/Homer; https://en.wikipedia.org/wiki/Homer; https://www.britannica.com/topic/Iliad-epic-poem-by-Homer; https://www.worldhistory.org/iliad/"
+198        C"Incorrect"
+198        E"iliad,homer,poet        https://en.wikipedia.org/wiki/Iliad; https://www.wikiwand.com/en/Homer; https://en.wikipedia.org/wiki/Homer; https://www.britannica.com/topic/Iliad-epic-poem-by-Homer; https://www.worldhistory.org/iliad/"
+
+199        R"The currency of Germany is the **Euro (€)**²³⁴⁵⁶. The Euro, which has the ISO 4217 code EUR⁶, has been the official currency of Germany since 2002⁵. Each Euro is divided into 100 cents⁴⁶. It replaced the Deutsche Mark (DM)⁵. No other currency is officially accepted in Germany³. Major currencies like US dollars and pounds can easily be exchanged for euros at bureaux de change in tourist centres like Berlin and Munich³."
+199        A"https://en.wikipedia.org/wiki/Currency_of_Germany; https://www.monito.com/en/what-is-the-currency-in/germany; https://wise.com/gb/travel-money/german-currency; https://globalbanks.com/what-is-the-currency-of-germany/; https://www.thecurrencyshop.com.au/guides/europe/currency-in-germany; https://bing.com/search?q=currency+of+Germany; https://en.wikipedia.org/w/index.php?title=Currency_of_Germany&oldid=1092924458"
+199        C"Correct"
+199        E"euro,currency,currencies        https://en.wikipedia.org/wiki/Currency_of_Germany; https://www.monito.com/en/what-is-the-currency-in/germany; https://wise.com/gb/travel-money/german-currency; https://globalbanks.com/what-is-the-currency-of-germany/; https://www.thecurrencyshop.com.au/guides/europe/currency-in-germany; https://bing.com/search?q=currency+of+Germany; https://en.wikipedia.org/w/index.php?title=Currency_of_Germany&oldid=1092924458"
+
+200        R"The main gas produced by cars is **carbon dioxide (CO2)**¹². This is a greenhouse gas that contributes to climate change¹. Cars also produce other gases such as nitrogen oxides (NOx) and methane¹, as well as air pollutants like carbon monoxide (CO), particulate matter (PM), and volatile organic compounds (VOC)¹. These emissions can cause smog, heart and lung disease, and cancer¹. However, it's important to note that modern engines produce less of these harmful gases thanks to efficient combustion processes²."
+200        A"https://greenvehicleguide.gov.au/pages/UnderstandingEmissions/VehicleEmissions; https://www.rac.co.uk/drive/advice/emissions/vehicle-exhaust-emissions-what-comes-out-of-your-cars-exhaust; https://auto.howstuffworks.com/air-pollution-from-cars.htm; https://www.walkerexhaust.com/support/exhaust-101/exhaust-gases-101.html"
+200        C"Correct"
+200        E"emissions,gases,cars        https://greenvehicleguide.gov.au/pages/UnderstandingEmissions/VehicleEmissions; https://www.rac.co.uk/drive/advice/emissions/vehicle-exhaust-emissions-what-comes-out-of-your-cars-exhaust; https://auto.howstuffworks.com/air-pollution-from-cars.htm; https://www.walkerexhaust.com/support/exhaust-101/exhaust-gases-101.html"
+
