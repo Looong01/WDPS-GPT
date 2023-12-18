@@ -78,6 +78,7 @@ For instance,
 - Scroll down to the requests headers section and copy the entire value after the `Cookie:` field.
 - Add the cookies you get to the 2nd line of `Main.py` and `Bing.py`(optional).
 ```
-19.   Write down your own questions to `Questions.txt` with correct form as [Description](#description) shows
-20.   You'd better clean the content of the file `Results.txt`.
-21.   Run ```python Main.py``` and you will get the results from `Results.txt`.
+19. !!! You have to change to another Microsoft account and another cookies for every 300 questions. Otherwise, your cookies(account) will be limited for 24h and our Program cannot get the correct answer from Web.!!!
+20. Write down your own questions to `Questions.txt` with correct form as [Description](#description) shows.
+21. You'd better clean the content of the file `Results.txt`.
+22. Run ```python Main.py``` and you will get the results from `Results.txt`.

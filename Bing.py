@@ -26,10 +26,7 @@ async def ask(sydney, questions, i, j):
     while True:
         index = j * 15 + i
         try:
-            if index <100:
-                response = await sydney.ask(str("Search on the wikipedia and Internet, " + questions[index].strip().split('        ')[1] + " Answer Yes or No."), citations=True)
-            else:
-                response = await sydney.ask(str("Search on the wikipedia and Internet, " + questions[index].strip().split('        ')[1]), citations=True)  
+            response = await sydney.ask(str("Search on the wikipedia and Internet, " + questions[index].strip().split('        ')[1]), citations=True)  
             break
         except (KeyError, ValueError, TypeError, AttributeError, IndexError, asyncio.TimeoutError, RuntimeError, ConnectionTimeoutException, CreateConversationException, GetConversationsException, NoConnectionException, NoResponseException, ThrottledRequestException) as e:
             print(e)
@@ -40,13 +37,14 @@ async def ask(sydney, questions, i, j):
 
 async def bing(questions):
     # ask questions
-    for j in range(0, 14):
+    num = len(questions)
+    for j in range(0, num // 15 + 1):
         async with SydneyClient(style="precise") as sydney:
-            if j < 13:
+            if j < num // 15:
                 for i in range(0, 15):
                     await ask(sydney, questions, i, j)
             else:
-                for i in range(0, 5):
+                for i in range(0, num % 15):
                     await ask(sydney, questions, i, j)
 
 if __name__ == "__main__":
