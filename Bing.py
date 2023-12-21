@@ -6,23 +6,27 @@ from sydney import SydneyClient
 from sydney.exceptions import *
 
 def answer(response):
+    # write the answers into Answers_web.txt
     lines = response.split('\n')
     with open('log/Answers_web.txt', 'a', encoding='utf-8') as file:
         file.write(' '.join(lines))
         file.write('\n')
 
 def link(response):
+    # write the links into Links_web.txt
     links = re.findall('https://[^\s,]+', response)
     with open('log/Links_web.txt', 'a', encoding='utf-8') as file:
         file.write('; '.join(links))
         file.write('\n')
 
 def remove_https_lines(response):
+    # remove the lines with https://, remain the answers which are got from the Internet
     lines = response.split('\n')
     new_response = '\n'.join(line for line in lines if not re.search('https://', line))
     return new_response
 
 async def ask(sydney, questions, i, j):
+    # ask questions
     while True:
         index = j * 15 + i
         try:
@@ -36,7 +40,7 @@ async def ask(sydney, questions, i, j):
     answer(remove_https_lines(response))
 
 async def bing(questions):
-    # ask questions
+    # create a Bing session and ask questions
     num = len(questions)
     for j in range(0, num // 15 + 1):
         async with SydneyClient(style="precise") as sydney:
@@ -48,6 +52,8 @@ async def bing(questions):
                     await ask(sydney, questions, i, j)
 
 if __name__ == "__main__":
+    if not os.path.exists("log"):
+        os.makedirs("log")
     with open("Questions.txt", "r") as f:
         questions = f.readlines()
     asyncio.run(bing(questions))

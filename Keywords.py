@@ -4,6 +4,7 @@ import torch, re
 import numpy as np
 
 def st_ex(answers, links):
+    # Use Sentence-Transformers to extract entities
     kw_model = KeyBERT(model='./all-MiniLM-L6-v2')
     f = open('log/Entities_extracted_st.txt', 'w', encoding='utf-8')
     for i, answer in enumerate(answers):
@@ -15,12 +16,15 @@ def st_ex(answers, links):
         
 
 class bert_ex():
+    # Use BERT to extract entities
     def __init__(self):
+        # Load pre-trained model tokenizer (vocabulary)
         self.model = BertModel.from_pretrained('./bert-large-uncased').to('cuda')
         self.tokenizer = BertTokenizer.from_pretrained('./bert-large-uncased')
         
     @torch.no_grad()
     def encode_decode(self, sentence):
+        # Encode and decode the sentence
         input_ids = self.tokenizer.encode(sentence, add_special_tokens=True, truncation=True)
         input_ids = torch.tensor(input_ids, dtype=torch.long).unsqueeze(0).to('cuda')
         outputs = self.model(input_ids)
@@ -31,6 +35,7 @@ class bert_ex():
         return tokens, probs
 
     def extract_keywords(self, sentence):
+        # Extract keywords from the sentence
         tokens, probs = self.encode_decode(sentence)
         probs = probs.cpu()
         probs_np = np.array(probs[0])
@@ -39,6 +44,7 @@ class bert_ex():
         return sorted_tokens
     
     def bert_ex(self, answers, links):
+        # Extract entities from the answers
         f = open('log/Entities_extracted_bert.txt', 'w', encoding='utf-8')
         for i, answer in enumerate(answers):
             keywords = self.extract_keywords(answer)

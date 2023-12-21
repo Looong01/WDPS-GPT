@@ -7,33 +7,36 @@ from Similarity import sim
 from Keywords import st_ex
 
 def input(file_results, question, i):
+    # write the questions into Results.txt
     question = question.strip().split('        ')[1]
     file_results.write(str(i) + '        ' + 'Input"' + question + '"\n')
 
 def answer(file_results, answer, i):
+    # write the answers into Results.txt
     answer = answer.strip()
     file_results.write(str(i) + '        R"' + answer + '"\n')
 
 def extracted_answer(file_results, answer, link, i):
-    if i <100:
-        if re.search('Yes', answer):
-            file_results.write(str(i) + '        A"yes"\n') 
-        else:
-            file_results.write(str(i) + '        A"no"\n')
+    # write the extracted answers into Results.txt
+    if re.search('Yes', answer):
+        file_results.write(str(i) + '        A"yes"\n') 
     else:
-        file_results.write(str(i) + '        A"' + link.strip() + '"\n')
+        file_results.write(str(i) + '        A"no"\n')
 
 def correctness(file_results, check_st, check_bert, i):
+    # write the correctness of the answers into Results.txt
     check_st = check_st.strip()
     check_bert = check_bert.strip()
     file_results.write(str(i) + '        C"' + check_st + '"\n')
     # file_results.write('Correctness of the answer(BERT): "' + check_bert + '"\n')
 
 def entities_extracted(file_results, line, i):
+# write the entities extracted into Results.txt
     line = line.strip()
     file_results.write(str(i) + '        E"' + line + '"\n\n')
     
 def main():
+    # run all the processes and write the results into Results.txt
     if not os.path.exists("log"):
         os.makedirs("log")
     # ask questions

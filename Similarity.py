@@ -4,6 +4,7 @@ import torch
 import numpy as np
 
 def st_sim(sentences1, sentences2):
+    # Use Sentence-Transformers to compare the similarity of the answers
     model = SentenceTransformer('./all-MiniLM-L6-v2')
     checks = []
     for i in range(len(sentences1)):
@@ -16,6 +17,7 @@ def st_sim(sentences1, sentences2):
     return checks
 
 def bert_sim(sentences1, sentences2):
+    # Use BERT to compare the similarity of the answers
     tokenizer = AutoTokenizer.from_pretrained("./bert-large-uncased")
     model = AutoModel.from_pretrained("./bert-large-uncased").to('cuda')
     checks = []
@@ -31,6 +33,7 @@ def bert_sim(sentences1, sentences2):
     return checks
 
 def sim(sentences1, sentences2, prob):
+    # Compare the similarity of the answers
     checks = st_sim(sentences1, sentences2)
     n_true_st = 0
     f = open("log/Check_st.txt", "w", encoding="utf-8")

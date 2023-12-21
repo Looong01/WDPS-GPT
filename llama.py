@@ -2,13 +2,14 @@ import gc, torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 def llama2(questions):
+    # create a Llama session and ask questions
     model_name = "./Llama-2-13b-chat-hf"
 
     tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True, use_fast=True)
     model = AutoModelForCausalLM.from_pretrained(model_name, trust_remote_code=True, device_map="auto"
-                # , load_in_8bit=True
-                # , local_files_only=True, model_type='llama'
-                # , torch_dtype = torch.float16
+                # , load_in_4bit=True   # uncomment this line if your VRAM is less than 8GB
+                # , load_in_8bit=True   # uncomment this line if your VRAM is less than 16GB
+                # , torch_dtype = torch.float16 # uncomment this line if your VRAM is less than 30GB
                 )
     f = open('log/Answers_llm.txt', 'w', encoding='utf-8')                        
     for i, question in enumerate(questions):
