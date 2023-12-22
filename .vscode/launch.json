@@ -2,18 +2,42 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Bing",
+            "name": "Main",
             "type": "python",
             "request": "launch",
-            "program": "Bing.py",
+            "program": "Main.py",
             "console": "integratedTerminal",
             "justMyCode": true
         },
         {
-            "name": "Python: current file",
+            "name": "Bing",
             "type": "python",
             "request": "launch",
-            "program": "${file}",
+            "program": "utils/Bing.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "LLaMa",
+            "type": "python",
+            "request": "launch",
+            "program": "utils/LLaMa.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Keywords",
+            "type": "python",
+            "request": "launch",
+            "program": "utils/Keywords.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Similarity",
+            "type": "python",
+            "request": "launch",
+            "program": "utils/Similarity.py",
             "console": "integratedTerminal",
             "justMyCode": true
         }

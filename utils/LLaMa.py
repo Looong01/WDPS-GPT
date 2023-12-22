@@ -1,9 +1,10 @@
-import gc, torch
+import os, gc, torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 def llama2(questions):
     # create a Llama session and ask questions
-    model_name = "./Llama-2-13b-chat-hf"
+    path = os.path.join(os.path.abspath(os.getcwd()))
+    model_name = os.path.join(path, "Llama-2-13b-chat-hf")
 
     tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True, use_fast=True)
     model = AutoModelForCausalLM.from_pretrained(model_name, trust_remote_code=True, device_map="auto"
@@ -11,7 +12,7 @@ def llama2(questions):
                 # , load_in_8bit=True   # uncomment this line if your VRAM is less than 16GB
                 # , torch_dtype = torch.float16 # uncomment this line if your VRAM is less than 30GB
                 )
-    f = open('log/Answers_llm.txt', 'w', encoding='utf-8')                        
+    f = open(os.path.join(path, 'log', 'Answers_llm.txt'), 'w', encoding='utf-8')                        
     for i, question in enumerate(questions):
         model_inputs = tokenizer(question.strip().split('        ')[1], return_tensors="pt").to("cuda")
         output = model.generate(**model_inputs)
@@ -27,7 +28,8 @@ def llama2(questions):
     f.close()
 
 if __name__ == "__main__":
-    with open("Questions.txt", "r") as f:
+    path = os.path.join(os.path.abspath(os.getcwd()))
+    with open(os.path.join(path, "Questions.txt"), "r") as f:
         questions = f.readlines()
     llama2(questions)
         

@@ -1,10 +1,10 @@
 import re, asyncio, os
 os.environ["BING_COOKIES"] = "<Your own cookies>"
 
-from Bing import bing
-from llama import llama2
-from Similarity import sim
-from Keywords import st_ex
+from utils.Bing import bing
+from utils.LLaMa import llama2
+from utils.Similarity import sim
+from utils.Keywords import st_ex
 
 def input(file_results, question, i):
     # write the questions into Results.txt
@@ -60,7 +60,7 @@ def main():
         sentences1 = f.readlines()
     with open("log/Answers_web.txt", "r", encoding="utf-8") as f:
         sentences2 = f.readlines()
-    n_true_st, n_true_bert = sim(sentences1, sentences2, 0.85)
+    n_true_st, n_true_bert = sim(sentences1, sentences2, 0.7)
     print("Number of Correct(SentenceTransformer): " + str(n_true_st))
     print("Number of Correct(BERT): " + str(n_true_bert))
 

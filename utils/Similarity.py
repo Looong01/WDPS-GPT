@@ -1,11 +1,12 @@
 from sentence_transformers import SentenceTransformer, util
 from transformers import AutoTokenizer, AutoModel
-import torch
+import torch, os
 import numpy as np
 
 def st_sim(sentences1, sentences2):
     # Use Sentence-Transformers to compare the similarity of the answers
-    model = SentenceTransformer('./all-MiniLM-L6-v2')
+    path = os.path.join(os.path.abspath(os.getcwd()))
+    model = SentenceTransformer(os.path.join(path, 'all-MiniLM-L6-v2'))
     checks = []
     for i in range(len(sentences1)):
         s1 = sentences1[i].strip()
@@ -18,8 +19,9 @@ def st_sim(sentences1, sentences2):
 
 def bert_sim(sentences1, sentences2):
     # Use BERT to compare the similarity of the answers
-    tokenizer = AutoTokenizer.from_pretrained("./bert-large-uncased")
-    model = AutoModel.from_pretrained("./bert-large-uncased").to('cuda')
+    path = os.path.join(os.path.abspath(os.getcwd()))
+    tokenizer = AutoTokenizer.from_pretrained(os.path.join(path, 'bert-large-uncased'))
+    model = AutoModel.from_pretrained(os.path.join(path, 'bert-large-uncased')).to('cuda')
     checks = []
     for i in range(len(sentences1)):
         s1 = sentences1[i].strip()
@@ -34,9 +36,10 @@ def bert_sim(sentences1, sentences2):
 
 def sim(sentences1, sentences2, prob):
     # Compare the similarity of the answers
+    path = os.path.join(os.path.abspath(os.getcwd()))
     checks = st_sim(sentences1, sentences2)
     n_true_st = 0
-    f = open("log/Check_st.txt", "w", encoding="utf-8")
+    f = open(os.path.join(path, 'log', "Check_st.txt"), "w", encoding="utf-8")
     for check in checks:
         # print("{0:.6f}".format(check))
         if check >= prob:
@@ -47,7 +50,7 @@ def sim(sentences1, sentences2, prob):
     f.close()
     checks = bert_sim(sentences1, sentences2)
     n_true_bert = 0
-    f = open("log/Check_bert.txt", "w", encoding="utf-8")
+    f = open(os.path.join(path, 'log', "Check_bert.txt"), "w", encoding="utf-8")
     for check in checks:
         # print("{0:.6f}".format(check))
         if check >= 0.9:
@@ -59,8 +62,9 @@ def sim(sentences1, sentences2, prob):
     return n_true_st, n_true_bert
 
 if __name__ == "__main__":
-    with open("log/Answers_llm.txt", "r", encoding="utf-8") as f:
+    path = os.path.join(os.path.abspath(os.getcwd()))
+    with open(os.path.join(path, 'log', "Answers_llm.txt"), "r", encoding="utf-8") as f:
         sentences1 = f.readlines()
-    with open("log/Answers_web.txt", "r", encoding="utf-8") as f:
+    with open(os.path.join(path, 'log', "Answers_web.txt"), "r", encoding="utf-8") as f:
         sentences2 = f.readlines()
-    sim(sentences1, sentences2, 0.85)
+    sim(sentences1, sentences2, 0.7)

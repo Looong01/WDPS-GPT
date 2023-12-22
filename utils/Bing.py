@@ -7,15 +7,17 @@ from sydney.exceptions import *
 
 def answer(response):
     # write the answers into Answers_web.txt
+    path = os.path.join(os.path.abspath(os.getcwd()))
     lines = response.split('\n')
-    with open('log/Answers_web.txt', 'a', encoding='utf-8') as file:
+    with open(os.path.join(path, 'log', 'Answers_web.txt'), 'a', encoding='utf-8') as file:
         file.write(' '.join(lines))
         file.write('\n')
 
 def link(response):
     # write the links into Links_web.txt
+    path = os.path.join(os.path.abspath(os.getcwd()))
     links = re.findall('https://[^\s,]+', response)
-    with open('log/Links_web.txt', 'a', encoding='utf-8') as file:
+    with open(os.path.join(path, 'log', 'Links_web.txt'), 'a', encoding='utf-8') as file:
         file.write('; '.join(links))
         file.write('\n')
 
@@ -52,8 +54,9 @@ async def bing(questions):
                     await ask(sydney, questions, i, j)
 
 if __name__ == "__main__":
-    if not os.path.exists("log"):
-        os.makedirs("log")
-    with open("Questions.txt", "r") as f:
+    path = os.path.join(os.path.abspath(os.getcwd()))
+    if not os.path.exists(os.path.join(path, 'log')):
+        os.makedirs(os.path.join(path, 'log'))
+    with open(os.path.join(path, 'log', "Questions.txt"), "r") as f:
         questions = f.readlines()
     asyncio.run(bing(questions))
