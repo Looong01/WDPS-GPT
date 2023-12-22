@@ -53,7 +53,7 @@ def sim(sentences1, sentences2, prob):
     f = open(os.path.join(path, 'log', "Check_bert.txt"), "w", encoding="utf-8")
     for check in checks:
         # print("{0:.6f}".format(check))
-        if check >= 0.9:
+        if check >= prob:
             f.write("Correct" + "\n")
             n_true_bert += 1
         else:
