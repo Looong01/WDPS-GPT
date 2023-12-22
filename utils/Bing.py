@@ -6,29 +6,29 @@ from sydney import SydneyClient
 from sydney.exceptions import *
 
 def answer(response):
-    # write the answers into Answers_web.txt
-    path = os.path.join(os.path.abspath(os.getcwd()))
+    ## write the answers into Answers_web.txt
+    path = os.path.join(os.path.abspath(os.getcwd())) ## Get Absolute path
     lines = response.split('\n')
     with open(os.path.join(path, 'log', 'Answers_web.txt'), 'a', encoding='utf-8') as file:
         file.write(' '.join(lines))
         file.write('\n')
 
 def link(response):
-    # write the links into Links_web.txt
+    ## write the links into Links_web.txt
     path = os.path.join(os.path.abspath(os.getcwd()))
-    links = re.findall('https://[^\s,]+', response)
+    links = re.findall('https://[^\s,]+', response) ## Find all the line starting with https://
     with open(os.path.join(path, 'log', 'Links_web.txt'), 'a', encoding='utf-8') as file:
         file.write('; '.join(links))
         file.write('\n')
 
 def remove_https_lines(response):
-    # remove the lines with https://, remain the answers which are got from the Internet
+    ## remove the lines with https://, remain the answers which are got from the Internet
     lines = response.split('\n')
-    new_response = '\n'.join(line for line in lines if not re.search('https://', line))
+    new_response = '\n'.join(line for line in lines if not re.search('https://', line)) ## Add all the lines without https:// words as the Answers we get from the Web
     return new_response
 
 async def ask(sydney, questions, i, j):
-    # ask questions
+    ## ask questions
     while True:
         index = j * 15 + i
         try:
@@ -36,15 +36,15 @@ async def ask(sydney, questions, i, j):
             break
         except (KeyError, ValueError, TypeError, AttributeError, IndexError, asyncio.TimeoutError, RuntimeError, ConnectionTimeoutException, CreateConversationException, GetConversationsException, NoConnectionException, NoResponseException, ThrottledRequestException) as e:
             print(e)
-            continue
+            continue ## If the Web returns any error or python Exception, try it again.
     print(response)
     link(response)
     answer(remove_https_lines(response))
 
 async def bing(questions):
-    # create a Bing session and ask questions
+    ## create Bing sessions and ask questions
     num = len(questions)
-    for j in range(0, num // 15 + 1):
+    for j in range(0, num // 15 + 1): ## We have to change to create a new Bing session for every 15 questions for the limitation of Bing.
         async with SydneyClient(style="precise") as sydney:
             if j < num // 15:
                 for i in range(0, 15):
