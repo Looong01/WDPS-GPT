@@ -37,13 +37,13 @@ For instance,
 1        E"blueness,sunset,blue        https://spaceplace.nasa.gov/blue-sky/en/; https://www.space.com/why-is-the-sky-blue; https://scijinks.gov/blue-sky/"
 
 ```
-### Software Architecture (Hardware Environment)
+### Hardware Environment
 1. CPU: i7-9700
 2. RAM: 64GB
 3. GPU: 2 * AMD Radeon Pro W7900 (VRAM: 2 * 48GB) or 2* Nvidia Quadro RTX 6000 Ada (VRAM: 2 * 48GB)
 4. Hard disk: 2TB
   
-### Installation (Software Environment)
+### Software Environment
 1. OS: Ubuntu 22.04.3 with Kernel Version 6.2
 3. ROCm: Version 5.6 Or CUDA: Version: 12.1
 4. Miniconda3
