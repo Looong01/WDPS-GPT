@@ -61,17 +61,18 @@ For instance,
 6. Install Git
 7. ```conda create -n PyTorch python=3.10 -y```
 8. ```conda activate PyTorch```
-9. ```conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia``` for CUDA(Nvidia GPUs)
+9. ```conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c  -y``` for CUDA(Nvidia GPUs)
 10. Or ```pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/rocm5.6``` for ROCm(AMD GPUs)
 11. ```git clone https://github.com/Looong01/WDPS-GPT```
 12. ```cd WDPS-GPT```
-13. ```pip install -r requirements.txt```
-14. ```git lfs install```
-15. ```git clone https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2```
-16. ```git clone https://huggingface.co/bert-large-uncased```
-17. Make sure you can have got the authority to assess LLaMa2 models from Huggingface. If you're not allowed, go to "https://ai.meta.com/resources/models-and-libraries/llama-downloads/" to fill the form and get the authority.
-18. ```git clone https://huggingface.co/meta-llama/Llama-2-13b-chat-hf```
-19. Get the cookies:
+13. ```conda install matplotlib -y```
+14. ```pip install -r requirements.txt```
+15. ```git lfs install```
+16. ```git clone https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2```
+17. ```git clone https://huggingface.co/bert-large-uncased```
+18. Make sure you can have got the authority to assess LLaMa2 models from Huggingface. If you're not allowed, go to "https://ai.meta.com/resources/models-and-libraries/llama-downloads/" to fill the form and get the authority.
+19. ```git clone https://huggingface.co/meta-llama/Llama-2-13b-chat-hf```
+20. Get the cookies:
 ```
 - Use Microsoft Edge Browser to open the [Copilot web page](https://copilot.microsoft.com/) and Login your own Microsoft account.
 - Open the developer tools in your browser (usually by pressing `F12` or right-clicking on the chat dialog and selecting `Inspect`).
@@ -81,7 +82,7 @@ For instance,
 - Scroll down to the requests headers section and copy the entire value after the `Cookie:` field.
 - Add the cookies you get to the 2nd line of `Main.py` and `Bing.py`(optional).
 ```
-19. !!! You have to change to another Microsoft account and another cookies for every 300 questions. Otherwise, your cookies(account) will be limited for 24h and our Program cannot get the correct answer from Web.!!!
-20. Write down your own questions to `Questions.txt` with correct form as [Description](#description) shows.
-21. You'd better clean the content of the file `Results.txt`.
-22. Run ```python Main.py``` and you will get the results from `Results.txt`.
+1.  !!! You have to change to another Microsoft account and another cookies for every 300 questions. Otherwise, your cookies(account) will be limited for 24h and our Program cannot get the correct answer from Web.!!!
+2.  Write down your own questions to `Questions.txt` with correct form as [Description](#description) shows.
+3.  You'd better clean the content of the file `Results.txt`.
+4.  Run ```python Main.py``` and you will get the results from `Results.txt`.

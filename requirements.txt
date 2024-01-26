@@ -3,3 +3,4 @@ torch
 transformers>=4.28.1
 sentence_transformers>=2.2.2
 keybert>=0.8.3
+sydney-py
