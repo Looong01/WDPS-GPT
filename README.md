@@ -53,6 +53,14 @@ For instance,
 8. PyTorch 2.1.2
   
 ### Instructions
+There are two ways to prepare the environment.
+##### 1. Docker
+We have upload our own Docker image with models to Docker Hub, and the [Repo](https://hub.docker.com/r/loong01/wdps-gpt/tags)
+1. Install Nvidia-Docker
+2. Pull our image ```docker pull loong01/wdps-gpt:v1```
+3. Run the docker ```docker run -it --gpus all --name WDPS-Group3 loong01/wdps-gpt:v1 /bin/bash```
+
+##### 2. Self-built
 1. Prepare for the CPU, RAM, Hard disk and GPU(s) with enough VRAM(at least 60GB totally).
 2. Install OS Ubuntu 22.04 with Kernel Version 6.2
 3. Install GPU driver and ROCm with Version 5.6 or CUDA with Version 12.1
