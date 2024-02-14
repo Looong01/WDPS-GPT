@@ -3,7 +3,7 @@ from transformers import BertTokenizer, BertModel
 import torch, re, os
 import numpy as np
 
-def st_ex(answers, links):
+def st_ex(answers, links, device):
     ## Use Sentence-Transformers to extract entities
     path = os.path.join(os.path.abspath(os.getcwd()))
     kw_model = KeyBERT(os.path.join(path, 'all-MiniLM-L6-v2')) ## Load Sentence-Transformers model to GPU Video RAM
@@ -15,19 +15,20 @@ def st_ex(answers, links):
         f.write(extract + '        ' + links[i].strip()+ '\n') ## save output into the file
     f.close()
 
-class bert_ex():
+class bert_ex(torch.DeviceObjType):
     ## Use BERT to extract entities
     def __init__(self):
         ## Load pre-trained model tokenizer (vocabulary)
         path = os.path.join(os.path.abspath(os.getcwd()))
-        self.model = BertModel.from_pretrained(os.path.join(path, 'bert-large-uncased')).to('cuda') ## Load BERT model to GPU Video RAM
-        self.tokenizer = BertTokenizer.from_pretrained(os.path.join(path, 'bert-large-uncased')) ## Load BERT tokenizer to GPU RAM
+        self.device = device
+        self.model = BertModel.from_pretrained(os.path.join(path, 'bert-base-uncased')).to(device) ## Load BERT model to GPU Video RAM
+        self.tokenizer = BertTokenizer.from_pretrained(os.path.join(path, 'bert-base-uncased')) ## Load BERT tokenizer to GPU RAM
         
     @torch.no_grad()
     def encode_decode(self, sentence):
         ## Encode and decode the sentence
         input_ids = self.tokenizer.encode(sentence, add_special_tokens=True, truncation=True) ## Encode the sentence (Tokenize the sentence and add [CLS] and [SEP] tokens)
-        input_ids = torch.tensor(input_ids, dtype=torch.long).unsqueeze(0).to('cuda')
+        input_ids = torch.tensor(input_ids, dtype=torch.long).unsqueeze(0).to(self.device)
         outputs = self.model(input_ids)
         last_hidden_state = outputs.last_hidden_state
         probs = torch.nn.functional.softmax(last_hidden_state, dim=-1)
@@ -56,10 +57,13 @@ class bert_ex():
         f.close()
 
 if __name__ == "__main__":
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    if not os.path.exists("log"): ## create a folder to save the log files
+        os.makedirs("log")
     path = os.path.join(os.path.abspath(os.getcwd()))
     with open(os.path.join(path, 'log', "Answers_web.txt"), "r", encoding="utf-8") as f:
         answers = f.readlines()
     with open(os.path.join(path, 'log', "Links.txt"), "r", encoding="utf-8") as f:
         links = f.readlines()
-    st = st_ex(answers, links)
-    bert_ex().bert_ex(answers, links)
+    st = st_ex(answers, links, device)
+    bert_ex(device).bert_ex(answers, links)

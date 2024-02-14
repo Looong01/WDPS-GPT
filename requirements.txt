@@ -5,3 +5,5 @@ sentence_transformers>=2.2.2
 keybert>=0.8.3
 sydney-py
 huggingface_hub[cli]
+accelerate
+bitsandbytes

@@ -57,8 +57,8 @@ There are two ways to prepare the environment.
 ##### 1. Docker
 We have upload our own Docker image with models to Docker Hub, and the [Repo](https://hub.docker.com/r/loong01/wdps-gpt/tags)
 1. Install Nvidia-Docker
-2. Pull our image ```docker pull loong01/wdps-gpt:v1```
-3. Run the docker ```docker run -it --gpus all --name WDPS-Group3 loong01/wdps-gpt:v1 /bin/bash```
+2. Pull our image ```docker pull loong01/wdps-gpt:v2``` with Llama-2-7b
+3. Run the docker ```docker run -it --gpus all --name WDPS-Group3 loong01/wdps-gpt:v2 /bin/bash```
 
 ##### 2. Self-built
 1. Prepare for the CPU, RAM, Hard disk and GPU(s) with enough VRAM(at least 60GB totally).
@@ -69,7 +69,7 @@ We have upload our own Docker image with models to Docker Hub, and the [Repo](ht
 6. Install Git
 7. ```conda create -n PyTorch python=3.10 -y```
 8. ```conda activate PyTorch```
-9. ```conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c  -y``` for CUDA(Nvidia GPUs)
+9. ```conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -y``` for CUDA(Nvidia GPUs)
 10. Or ```pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/rocm5.6``` for ROCm(AMD GPUs)
 11. ```git clone https://github.com/Looong01/WDPS-GPT```
 12. ```cd WDPS-GPT```
@@ -77,9 +77,9 @@ We have upload our own Docker image with models to Docker Hub, and the [Repo](ht
 14. ```pip install -r requirements.txt```
 15. ```git lfs install```
 16. ```git clone https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2```
-17. ```git clone https://huggingface.co/bert-large-uncased```
+17. ```git clone https://huggingface.co/bert-base-uncased```
 18. Make sure you can have got the authority to assess LLaMa2 models from Huggingface. If you're not allowed, go to "https://ai.meta.com/resources/models-and-libraries/llama-downloads/" to fill the form and get the authority.
-19. ```git clone https://huggingface.co/meta-llama/Llama-2-13b-chat-hf```
+19. ```git clone https://huggingface.co/meta-llama/Llama-2-7b-chat-hf```
 20. Get the cookies:
 ```
 - Use Microsoft Edge Browser to open the [Copilot web page](https://copilot.microsoft.com/) and Login your own Microsoft account.

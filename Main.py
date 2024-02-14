@@ -1,10 +1,12 @@
-import re, asyncio, os
+import re, asyncio, os, torch
 os.environ["BING_COOKIES"] = "<Your own cookies>" ## Add your own cookies here
 
 from utils.Bing import bing ## import the function bing from utils
 from utils.LLaMa import llama2
 from utils.Similarity import sim
 from utils.Keywords import st_ex
+
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu") ## Use GPU if available
 
 def input(file_results, question, i):
     ## write the questions into Results.txt
@@ -40,20 +42,19 @@ def main():
     if not os.path.exists("log"): ## create a folder to save the log files
         os.makedirs("log")
     ## ask questions
-    with open("Questions.txt", "r", encoding="utf-8") as f:
-        questions = f.readlines()
+    f = open("Questions.txt", "r", encoding="utf-8")
+    questions = f.readlines()
     asyncio.run(bing(questions)) ## Run the Bing process
-    with open("Questions.txt", "r") as f:
-        questions = f.readlines()
-    llama2(questions) ## Run the LLaMa model
+    llama2(questions, device) ## Run the LLaMa model
+    f.close()
     
     ## extract entities
     with open("log/Answers_web.txt", "r", encoding="utf-8") as f:
         answers = f.readlines()
     with open("log/Links_web.txt", "r", encoding="utf-8") as f:
         links = f.readlines()
-    st_ex(answers, links) ## Extract entities using Sentence-Transformers
-    # bert_ex().bert_ex(answers, links)
+    st_ex(answers, links, device) ## Extract entities using Sentence-Transformers
+    # bert_ex(device).bert_ex(answers, links)
     
     ## check correctness
     with open("log/Answers_llm.txt", "r", encoding="utf-8") as f:
@@ -62,7 +63,7 @@ def main():
         sentences2 = f.readlines()
         
     ## Compare the similarity of the answers, and get the number of correct answers
-    n_true_st, n_true_bert = sim(sentences1, sentences2, 0.7) 
+    n_true_st, n_true_bert = sim(sentences1, sentences2, 0.7, device) 
     print("Number of Correct(SentenceTransformer): " + str(n_true_st))
     print("Number of Correct(BERT): " + str(n_true_bert))
 
